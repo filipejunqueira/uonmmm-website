@@ -1,0 +1,60 @@
+# A friendly name for your workflow, which will appear in the "Actions" tab on GitHub
+name: Deploy Website to GitHub Pages
+
+# Controls when the action will run.
+on:
+  # Runs on pushes targeting the `main` branch
+  push:
+    branches: ["main"]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# Sets the permissions the workflow needs to deploy to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # We only have one job, which we'll call "deploy"
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest # Use the latest version of Ubuntu for the virtual machine
+    steps:
+      # Step 1: Checks out your repository's code so the workflow can access it
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Step 2: Sets up the Node.js environment
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20" # Use Node.js version 20
+          cache: "npm" # Cache npm dependencies to speed up subsequent builds
+
+      # Step 3: Installs project dependencies. 'ci' is faster and safer for CI/CD environments.
+      - name: Install dependencies
+        run: npm ci
+
+      # Step 4: Runs the build script from your package.json to generate the static site
+      - name: Build website
+        run: npm run build
+
+      # Step 5: Prepares the built artifact for deployment
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      # Step 6: Uploads the built site (from the 'dist' folder) as an artifact
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "./dist" # The folder that Vite builds your site into
+
+      # Step 7: Deploys the uploaded artifact to GitHub Pages
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
