@@ -1,0 +1,22 @@
+/* src/index.css */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Apply the base theme styles to the body */
+@layer base {
+  body {
+    @apply bg-ivory dark:bg-slate-900 font-sans text-gray-700 dark:text-slate-300;
+  }
+
+  /* Style headings to use the new elegant serif font by default */
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-serif text-gray-900 dark:text-slate-100;
+  }
+}
