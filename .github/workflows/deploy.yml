@@ -33,12 +33,12 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "20" # Use Node.js version 20
-          cache: "npm" # Cache npm dependencies to speed up subsequent builds
+          node-version: "20"
+          cache: "npm"
 
-      # Step 3: Installs project dependencies. 'ci' is faster and safer for CI/CD environments.
+      # Step 3: Installs project dependencies using the required flag
       - name: Install dependencies
-        run: npm ci
+        run: npm install --legacy-peer-deps # <--- THIS LINE IS UPDATED
 
       # Step 4: Runs the build script from your package.json to generate the static site
       - name: Build website
@@ -52,7 +52,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: "./dist" # The folder that Vite builds your site into
+          path: "./dist"
 
       # Step 7: Deploys the uploaded artifact to GitHub Pages
       - name: Deploy to GitHub Pages
