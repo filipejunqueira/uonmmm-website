@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="144.95003mm"
+   height="144.95003mm"
+   viewBox="0 0 144.95003 144.95003"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="favicon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="251.02291"
+     inkscape:cy="318.90516"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="189.44937"
+       y="175.67737"
+       width="573.93869"
+       height="539.38989"
+       id="rect954" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-31.685089,-69.486504)">
+    <circle
+       style="fill:#2db362;stroke-width:0.209815;stroke-linejoin:bevel;fill-opacity:1"
+       id="path113"
+       cx="104.1601"
+       cy="141.96152"
+       r="72.475014" />
+    <text
+       xml:space="preserve"
+       style="font-size:100.359px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#ffffff;stroke-width:0.522702"
+       x="52.374405"
+       y="183.30501"
+       id="text222"><tspan
+         sodipodi:role="line"
+         id="tspan220"
+         style="font-size:100.359px;fill:#ffffff;stroke-width:0.522702"
+         x="52.374405"
+         y="183.30501">M</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:41.7744px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#ffffff;stroke-width:1.04436"
+       x="127.02609"
+       y="124.1097"
+       id="text330"
+       transform="scale(1.0089833,0.99109669)"><tspan
+         sodipodi:role="line"
+         id="tspan328"
+         style="fill:#ffffff;stroke-width:1.04436"
+         x="127.02609"
+         y="124.1097">3</tspan></text>
+  </g>
+</svg>

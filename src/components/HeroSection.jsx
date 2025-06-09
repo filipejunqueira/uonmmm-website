@@ -8,14 +8,15 @@ import heroImageLight from "/src/assets/hero.jpeg";
 import heroImageDark from "/src/assets/hero_dark.jpeg";
 
 /**
- * HeroSection Component: A full-screen image hero with corner text elements
+ * HeroSection Component: A banner-style hero with corner text elements
  * and separate images for light and dark modes.
  */
 const HeroSection = () => {
   return (
     <header
       id="home"
-      className="relative h-screen w-full overflow-hidden"
+      // The height is now changed from h-screen to h-[50vh]
+      className="relative h-[50vh] w-full overflow-hidden"
       aria-labelledby="main-heading"
     >
       {/* Background Images */}
@@ -41,7 +42,6 @@ const HeroSection = () => {
         <motion.div
           initial={{ opacity: 0, x: -50 }}
           animate={{ opacity: 1, x: 0 }}
-          // Increased delay for animation sequencing
           transition={{ duration: 0.8, delay: 0.8, ease: "easeOut" }}
         >
           <h1
@@ -57,7 +57,6 @@ const HeroSection = () => {
           className="self-end text-right"
           initial={{ opacity: 0, x: 50 }}
           animate={{ opacity: 1, x: 0 }}
-          // Increased delay for animation sequencing
           transition={{ duration: 0.8, delay: 1.0, ease: "easeOut" }}
         >
           <p className="text-lg md:text-xl font-semibold text-white/90">
