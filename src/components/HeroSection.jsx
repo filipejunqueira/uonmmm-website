@@ -2,10 +2,13 @@
 
 import React from "react";
 import { motion } from "framer-motion";
+import OptimizedImage from "./OptimizedImage";
 
 // Import both the light and dark mode hero images
 import heroImageLight from "/src/assets/hero.jpeg";
+import heroImageLightWebP from "/src/assets/hero.webp";
 import heroImageDark from "/src/assets/hero_dark.jpeg";
+import heroImageDarkWebP from "/src/assets/hero_dark.webp";
 
 /**
  * HeroSection Component: A banner-style hero with corner text elements
@@ -21,16 +24,24 @@ const HeroSection = () => {
     >
       {/* Background Images */}
       {/* Light mode image: Visible by default, hidden in dark mode */}
-      <img
+      <OptimizedImage
         src={heroImageLight}
+        webpSrc={heroImageLightWebP}
         alt="Nanoscience research background"
         className="absolute inset-0 w-full h-full object-cover z-0 dark:hidden"
+        priority={true}
+        lazy={false}
+        sizes="100vw"
       />
       {/* Dark mode image: Hidden by default, visible in dark mode */}
-      <img
+      <OptimizedImage
         src={heroImageDark}
+        webpSrc={heroImageDarkWebP}
         alt="Nanoscience research background in dark mode"
         className="absolute inset-0 w-full h-full object-cover z-0 hidden dark:block"
+        priority={true}
+        lazy={false}
+        sizes="100vw"
       />
 
       {/* Dark Overlay - slightly less intense to let images show */}

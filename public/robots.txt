@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://nottingham-university.github.io/uonmmm-website/sitemap.xml
+
+# Optimize crawling
+Crawl-delay: 1
+
+# Block sensitive areas (if any)
+Disallow: /admin/
+Disallow: /private/
+Disallow: /*.json$

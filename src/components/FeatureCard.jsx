@@ -2,6 +2,7 @@
 
 import React from "react";
 import { motion } from "framer-motion";
+import OptimizedImage from "./OptimizedImage";
 
 /**
  * FeatureCard Component: A card that displays an image and text content.
@@ -36,11 +37,13 @@ const FeatureCard = ({
         <div
           className={`relative h-64 md:h-full ${isImageLeft ? "" : "md:order-last"}`}
         >
-          <img
+          <OptimizedImage
             src={imageUrl}
             alt={title}
             className="absolute inset-0 w-full h-full object-cover"
-            loading="lazy"
+            lazy={true}
+            placeholder="blur"
+            sizes="(max-width: 768px) 100vw, 50vw"
           />
         </div>
         <div className="p-8 md:p-12">

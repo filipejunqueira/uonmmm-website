@@ -4,6 +4,7 @@ import React from "react";
 import Section from "./Section";
 import { Users } from "lucide-react";
 import { motion } from "framer-motion";
+import OptimizedImage from "./OptimizedImage";
 
 // Import the local images for the staff members
 import person1 from "/src/assets/person1.webp";
@@ -98,11 +99,13 @@ const StaffSection = () => {
           >
             <div className="grid grid-cols-1 md:grid-cols-3 gap-0">
               <div className="md:col-span-1 h-64 md:h-auto overflow-hidden">
-                <img
+                <OptimizedImage
                   src={member.imageUrl}
                   alt={`Photo of ${member.name}`}
                   className="w-full h-full object-cover"
-                  loading="lazy"
+                  lazy={true}
+                  placeholder="blur"
+                  sizes="(max-width: 768px) 100vw, 33vw"
                 />
               </div>
               <div className="md:col-span-2 p-8 flex flex-col justify-center">

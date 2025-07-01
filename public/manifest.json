@@ -1,0 +1,40 @@
+{
+  "name": "Molecules, Magnets & Materials - University of Nottingham",
+  "short_name": "UONMMM",
+  "description": "Research group focusing on molecules, magnets and materials at the University of Nottingham",
+  "start_url": "/uonmmm-website/",
+  "display": "standalone",
+  "background_color": "#FFFCF5",
+  "theme_color": "#1e293b",
+  "orientation": "portrait-primary",
+  "categories": ["education", "research", "science"],
+  "lang": "en-GB",
+  "scope": "/uonmmm-website/",
+  "icons": [
+    {
+      "src": "/uonmmm-website/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/uonmmm-website/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/uonmmm-website/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/uonmmm-website/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/uonmmm-website/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

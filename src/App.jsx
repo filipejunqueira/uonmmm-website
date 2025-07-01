@@ -16,6 +16,7 @@ import MoleculesSection from "./components/MoleculesSection";
 import ContactSection from "./components/ContactSection";
 import PublicationsSection from "./components/PublicationsSection";
 import Footer from "./components/Footer";
+import SkipToContent from "./components/SkipToContent";
 
 /**
  * App Component: The root component of the application.
@@ -24,7 +25,8 @@ function App() {
   const [isDarkMode, setIsDarkMode] = useState(() => {
     if (typeof window !== "undefined") {
       const savedMode = localStorage.getItem("darkMode");
-      return savedMode ? JSON.parse(savedMode) : false;
+      const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+      return savedMode ? JSON.parse(savedMode) : prefersDark;
     }
     return false;
   });
@@ -38,6 +40,21 @@ function App() {
     }
     localStorage.setItem("darkMode", JSON.stringify(isDarkMode));
   }, [isDarkMode]);
+
+  // Register service worker for offline functionality
+  useEffect(() => {
+    if ('serviceWorker' in navigator && import.meta.env.PROD) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('/uonmmm-website/sw.js')
+          .then((registration) => {
+            console.log('SW registered: ', registration);
+          })
+          .catch((registrationError) => {
+            console.log('SW registration failed: ', registrationError);
+          });
+      });
+    }
+  }, []);
 
   const toggleDarkMode = () => setIsDarkMode((prevMode) => !prevMode);
 
@@ -73,11 +90,13 @@ function App() {
         </script>
       </Helmet>
 
+      <SkipToContent />
+
       <Navbar toggleDarkMode={toggleDarkMode} isDarkMode={isDarkMode} />
 
       <HeroSection />
 
-      <main>
+      <main id="main-content" tabIndex="-1" className="focus:outline-none">
         <AnimatedSection>
           <StaffSection />
         </AnimatedSection>

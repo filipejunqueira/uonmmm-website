@@ -3,9 +3,11 @@
 import React, { useState } from "react";
 import { Menu, X, Sun, Moon } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
+import OptimizedImage from "./OptimizedImage";
 
 // Import the logo from the assets folder
 import uonLogo from "/src/assets/uon-logo.png";
+import uonLogoWebP from "/src/assets/uon-logo.webp";
 
 /**
  * Navbar Component: The site's main navigation bar.
@@ -38,10 +40,15 @@ const Navbar = ({ toggleDarkMode, isDarkMode }) => {
         <div className="flex items-center justify-between h-20">
           {/* Logo and Site Title */}
           <a href="#home" className="flex items-center flex-shrink-0">
-            <img
+            <OptimizedImage
               src={uonLogo}
+              webpSrc={uonLogoWebP}
               alt="University of Nottingham Logo"
               className="h-9 w-auto mr-3"
+              priority={true}
+              lazy={false}
+              width={144}
+              height={36}
             />
             <span className="font-serif font-bold text-base md:text-lg text-slate-800 dark:text-slate-200">
               Molecules. Magnets. Materials.
