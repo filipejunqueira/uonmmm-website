@@ -12,6 +12,8 @@
   "dependencies": {
     "@formspree/react": "^3.0.0",
     "@tanstack/react-virtual": "^3.13.9",
+    "axios": "^1.10.0",
+    "fast-levenshtein": "^3.0.0",
     "framer-motion": "^12.16.0",
     "lucide-react": "^0.513.0",
     "react": "^19.1.0",

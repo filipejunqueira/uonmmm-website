@@ -1,0 +1,434 @@
+DOI URL Fix Report
+Generated: 2025-07-02T16:51:39.217Z
+
+SUMMARY
+=======
+Total files processed: 31
+Total fixes applied: 82
+Files with fixes: 21
+
+DETAILED FIXES
+==============
+
+2001.json (1 fixes)
+===================
+
+undefined: Magnetic force microscopy studies of the domain st...
+  BEFORE: https://doi.org/10.1088/0034-4885/64/3/201
+  AFTER:  https://doi.org/10.1088/0034-4885/3/201
+
+
+2003.json (1 fixes)
+===================
+
+undefined: P-type conductivity in cubic GaMnN layers grown by...
+  BEFORE: https://doi.org/10.1088/0268-1242/19/3/L02
+  AFTER:  https://doi.org/10.1088/0268-1242/3/L02
+
+
+2005.json (3 fixes)
+===================
+
+undefined: Determination of the Mn concentration in GaMnAs....
+  BEFORE: https://doi.org/10.1088/0268-1242/20/5/008
+  AFTER:  https://doi.org/10.1088/0268-1242/5/008
+
+undefined: P-type conductivity in cubic (Ga,Mn)N thin films....
+  BEFORE: https://doi.org/10.1063/1.1900924/899192
+  AFTER:  https://doi.org/10.1063/1.1900924
+
+undefined: Time-resolved light scattering studies of phase se...
+  BEFORE: https://doi.org/10.1063/1.2132525/328386
+  AFTER:  https://doi.org/10.1063/1.2132525
+
+
+2006.json (3 fixes)
+===================
+
+undefined: Control of coercivities in (Ga,Mn)As thin films by...
+  BEFORE: https://doi.org/10.1063/1.2162856/921368
+  AFTER:  https://doi.org/10.1063/1.2162856
+
+undefined: Lateral translation of covalently bound fullerenes...
+  BEFORE: https://doi.org/10.1088/0953-8984/18/33/S05
+  AFTER:  https://doi.org/10.1088/0953-8984/33/S05
+
+undefined: Magnetic domain structure and magnetization revers...
+  BEFORE: https://doi.org/10.1063/1.2199975/294228
+  AFTER:  https://doi.org/10.1063/1.2199975
+
+
+2007.json (4 fixes)
+===================
+
+undefined: Domain imaging and domain wall propagation in (Ga,...
+  BEFORE: https://doi.org/10.1063/1.2732406/926090
+  AFTER:  https://doi.org/10.1063/1.2732406
+
+undefined: Electrospray deposition of carbon nanotubes in vac...
+  BEFORE: https://doi.org/10.1088/0957-4484/18/45/455304
+  AFTER:  https://doi.org/10.1088/0957-4484/45/455304
+
+undefined: Measuring the hole chemical potential in ferromagn...
+  BEFORE: https://doi.org/10.1088/0268-1242/22/10/009
+  AFTER:  https://doi.org/10.1088/0268-1242/10/009
+
+undefined: Secondary magnetic phases in (Ga,Mn)As determined ...
+  BEFORE: https://doi.org/10.1063/1.2756046/380300
+  AFTER:  https://doi.org/10.1063/1.2756046
+
+
+2008.json (11 fixes)
+===================
+
+undefined: A compact combined ultrahigh vacuum scanning tunne...
+  BEFORE: https://doi.org/10.1063/1.2992200/335885
+  AFTER:  https://doi.org/10.1063/1.2992200
+
+undefined: An extensive comparison of anisotropies in MBE gro...
+  BEFORE: https://doi.org/10.1088/1367-2630/10/5/055007
+  AFTER:  https://doi.org/10.1088/1367-2630/5/055007
+
+undefined: Electrospray deposition of C60 on a hydrogen-bonde...
+  BEFORE: https://doi.org/10.1088/1742-6596/100/1/012017
+  AFTER:  https://doi.org/10.1088/1742-6596/1/012017
+
+undefined: Formation of an ordered pattern of Bi nanolines on...
+  BEFORE: https://doi.org/10.1063/1.2831691/913486
+  AFTER:  https://doi.org/10.1063/1.2831691
+
+undefined: Huge tunnelling anisotropic magnetoresistance in (...
+  BEFORE: https://doi.org/10.1088/1367-2630/10/8/085004
+  AFTER:  https://doi.org/10.1088/1367-2630/8/085004
+
+undefined: Lithographically and electrically controlled strai...
+  BEFORE: https://doi.org/10.1088/1367-2630/10/6/065003
+  AFTER:  https://doi.org/10.1088/1367-2630/6/065003
+
+undefined: Loss of long-range magnetic order in a nanoparticl...
+  BEFORE: https://doi.org/10.1088/0953-8984/20/5/055213
+  AFTER:  https://doi.org/10.1088/0953-8984/5/055213
+
+undefined: Magnetic properties of sol-gel-derived doped ZnO a...
+  BEFORE: https://doi.org/10.1088/1367-2630/10/5/055012
+  AFTER:  https://doi.org/10.1088/1367-2630/5/055012
+
+undefined: Magnetic reversal under external field and current...
+  BEFORE: https://doi.org/10.1088/1367-2630/10/8/085007
+  AFTER:  https://doi.org/10.1088/1367-2630/8/085007
+
+undefined: Molecular beam epitaxy grown (Ga,Mn)(As,P) with pe...
+  BEFORE: https://doi.org/10.1063/1.2991355/146177
+  AFTER:  https://doi.org/10.1063/1.2991355
+
+undefined: Photoemission, resonant photoemission,...
+  BEFORE: https://doi.org/10.1063/1.2975339/296017
+  AFTER:  https://doi.org/10.1063/1.2975339
+
+
+2009.json (5 fixes)
+===================
+
+undefined: A low field technique for measuring magnetic and m...
+  BEFORE: https://doi.org/10.1063/1.3122685/905013
+  AFTER:  https://doi.org/10.1063/1.3122685
+
+undefined: Langmuir–Blodgett films of C60 and C60O on Silicon...
+  BEFORE: https://doi.org/10.1063/1.3200242/338274
+  AFTER:  https://doi.org/10.1063/1.3200242
+
+undefined: Microscopic mechanism of the noncrystalline anisot...
+  BEFORE: https://doi.org/10.1088/0953-8984/21/26/264016
+  AFTER:  https://doi.org/10.1088/0953-8984/26/264016
+
+undefined: Physica Status Solidi (b), 246(7), 1435–1439. http...
+  BEFORE: https://doi.org/10.1063/1.3197595/338392
+  AFTER:  https://doi.org/10.1063/1.3197595
+
+undefined: The origin and control of the sources of AMR in (G...
+  BEFORE: https://doi.org/10.1063/1.3076107/120976
+  AFTER:  https://doi.org/10.1063/1.3076107
+
+
+2010.json (6 fixes)
+===================
+
+undefined: A novel tripod-driven platform for in-situ positio...
+  BEFORE: https://doi.org/10.1088/1742-6596/241/1/012057
+  AFTER:  https://doi.org/10.1088/1742-6596/1/012057
+
+undefined: Calculation of images of oriented C60 molecules us...
+  BEFORE: https://doi.org/10.1063/1.3488299/189016
+  AFTER:  https://doi.org/10.1063/1.3488299
+
+undefined: Current-driven domain wall motion across a wide te...
+  BEFORE: https://doi.org/10.1063/1.3532095/339579
+  AFTER:  https://doi.org/10.1063/1.3532095
+
+undefined: Microstructural characteristics and...
+  BEFORE: https://doi.org/10.1063/1.3475717/345667
+  AFTER:  https://doi.org/10.1063/1.3475717
+
+undefined: Tuning perpendicular magnetic anisotropy in (Ga,Mn...
+  BEFORE: https://doi.org/10.1063/1.3491841/810395
+  AFTER:  https://doi.org/10.1063/1.3491841
+
+undefined: Valence-state model of strain-dependent MnL2,3 x-r...
+  BEFORE: https://doi.org/10.1063/1.3336747/188746
+  AFTER:  https://doi.org/10.1063/1.3336747
+
+
+2011.json (9 fixes)
+===================
+
+undefined: A single centre water splitting dye...
+  BEFORE: https://doi.org/10.1063/1.3637497/190056
+  AFTER:  https://doi.org/10.1063/1.3637497
+
+undefined: Charge transfer dynamics of model charge transfer ...
+  BEFORE: https://doi.org/10.1063/1.3656682/70882
+  AFTER:  https://doi.org/10.1063/1.3656682
+
+undefined: Dewetting of Au nanoparticle assemblies. Alhummian...
+  BEFORE: https://doi.org/10.1088/0953-8984/23/8/083001
+  AFTER:  https://doi.org/10.1088/0953-8984/8/083001
+
+undefined: Effects of substrate constraint on crack pattern f...
+  BEFORE: https://doi.org/10.1063/1.3672029/321978
+  AFTER:  https://doi.org/10.1063/1.3672029
+
+undefined: Magnetism and carrier modulation in (Ga,Mn)As/orga...
+  BEFORE: https://doi.org/10.1063/1.3543843/122479
+  AFTER:  https://doi.org/10.1063/1.3543843
+
+undefined: Polarized x-ray spectroscopy of quaternary ferroma...
+  BEFORE: https://doi.org/10.1063/1.3609776/937752
+  AFTER:  https://doi.org/10.1063/1.3609776
+
+undefined: Single molecule magnets on a gold surface: In situ...
+  BEFORE: https://doi.org/10.1088/0957-4484/22/7/075704
+  AFTER:  https://doi.org/10.1088/0957-4484/7/075704
+
+undefined: Surface morphology and magnetic anisotropy in (Ga,...
+  BEFORE: https://doi.org/10.1063/1.3579534/340278
+  AFTER:  https://doi.org/10.1063/1.3579534
+
+undefined: Tailoring the magnetism of GaMnAs films by ion irr...
+  BEFORE: https://doi.org/10.1088/0022-3727/44/4/045001
+  AFTER:  https://doi.org/10.1088/0022-3727/4/045001
+
+
+2012.json (6 fixes)
+===================
+
+undefined: Effect of the tip state during qPlus noncontact at...
+  BEFORE: https://doi.org/10.1063/1.4770496/194939
+  AFTER:  https://doi.org/10.1063/1.4770496
+
+undefined: Manifestation of dynamic Jahn–Teller...
+  BEFORE: https://doi.org/10.1088/1367-2630/14/8/083038
+  AFTER:  https://doi.org/10.1088/1367-2630/8/083038
+
+undefined: Non-volatile ferroelectric gating of magnetotransp...
+  BEFORE: https://doi.org/10.1063/1.4731245/126514
+  AFTER:  https://doi.org/10.1063/1.4731245
+
+undefined: Non-volatile voltage control of magnetization and ...
+  BEFORE: https://doi.org/10.1063/1.4745789/111859
+  AFTER:  https://doi.org/10.1063/1.4745789
+
+undefined: Piezoelectric strain induced variation of the magn...
+  BEFORE: https://doi.org/10.1063/1.4746250/111961
+  AFTER:  https://doi.org/10.1063/1.4746250
+
+undefined: Surface transfer doping of hydrogen-terminated dia...
+  BEFORE: https://doi.org/10.1063/1.3695643/72668
+  AFTER:  https://doi.org/10.1063/1.3695643
+
+
+2013.json (7 fixes)
+===================
+
+undefined: Anisotropic current-controlled magnetization rever...
+  BEFORE: https://doi.org/10.1063/1.4813085/129937
+  AFTER:  https://doi.org/10.1063/1.4813085
+
+undefined: Crystalline anisotropic magnetoresistance in quate...
+  BEFORE: https://doi.org/10.1063/1.4791580/1068542
+  AFTER:  https://doi.org/10.1063/1.4791580
+
+undefined: Domain wall motion driven by spin Hall effect—Tuni...
+  BEFORE: https://doi.org/10.1063/1.4789396/385177
+  AFTER:  https://doi.org/10.1063/1.4789396
+
+undefined: Enhanced inverse spin-Hall effect in ultrathin fer...
+  BEFORE: https://doi.org/10.1063/1.4792693/24374
+  AFTER:  https://doi.org/10.1063/1.4792693
+
+undefined: Magnetic and structural properties of (Ga,Mn)As/(A...
+  BEFORE: https://doi.org/10.1063/1.4795444/25510
+  AFTER:  https://doi.org/10.1063/1.4795444
+
+undefined: Picosecond inverse magnetostriction in galfenol th...
+  BEFORE: https://doi.org/10.1063/1.4816014/312139
+  AFTER:  https://doi.org/10.1063/1.4816014
+
+undefined: Single molecule magnets with protective...
+  BEFORE: https://doi.org/10.1063/1.4825382/193941
+  AFTER:  https://doi.org/10.1063/1.4825382
+
+
+2014.json (7 fixes)
+===================
+
+undefined: Charge transfer from an adsorbed...
+  BEFORE: https://doi.org/10.1063/1.4882867/73465
+  AFTER:  https://doi.org/10.1063/1.4882867
+
+undefined: Co-localised Raman and force...
+  BEFORE: https://doi.org/10.1063/1.4885090/891802
+  AFTER:  https://doi.org/10.1063/1.4885090
+
+undefined: Determining Curie temperatures in dilute ferromagn...
+  BEFORE: https://doi.org/10.1063/1.4873583/131293
+  AFTER:  https://doi.org/10.1063/1.4873583
+
+undefined: Spin-orbit torque opposing the Oersted torque in u...
+  BEFORE: https://doi.org/10.1063/1.4864399/236938
+  AFTER:  https://doi.org/10.1063/1.4864399
+
+undefined: Surface-based supramolecular chemistry using hydro...
+  BEFORE: https://doi.org/10.1063/1.4888645/596287
+  AFTER:  https://doi.org/10.1063/1.4888645
+
+undefined: Visualizing the ‘Invisible’. Moriarty, P. (2015). ...
+  BEFORE: https://doi.org/10.1063/1.4892942/385467
+  AFTER:  https://doi.org/10.1063/1.4892942
+
+undefined: Spin-orbit torque opposing the Oersted torque in u...
+  BEFORE: https://doi.org/10.1063/1.4864399/236938
+  AFTER:  https://doi.org/10.1063/1.4864399
+
+
+2015.json (5 fixes)
+===================
+
+undefined: Graphene-InSe-graphene van der Waals heterostructu...
+  BEFORE: https://doi.org/10.1088/1742-6596/647/1/012001
+  AFTER:  https://doi.org/10.1088/1742-6596/1/012001
+
+undefined: Identification of the interstitial Mn site in ferr...
+  BEFORE: https://doi.org/10.1063/1.4905556/28015
+  AFTER:  https://doi.org/10.1063/1.4905556
+
+undefined: Insights into Kelvin probe force microscopy data o...
+  BEFORE: https://doi.org/10.1063/1.4937556/661096
+  AFTER:  https://doi.org/10.1063/1.4937556
+
+undefined: Magnetic coupling in ferromagnetic semiconductor (...
+  BEFORE: https://doi.org/10.1063/1.4928206/140836
+  AFTER:  https://doi.org/10.1063/1.4928206
+
+undefined: Paramagnetic to antiferromagnetic transition in ep...
+  BEFORE: https://doi.org/10.1063/1.4914119/374320
+  AFTER:  https://doi.org/10.1063/1.4914119
+
+
+2016.json (1 fixes)
+===================
+
+undefined: Quantum confinement and photoresponsivity of β-In2...
+  BEFORE: https://doi.org/10.1088/2053-1583/3/2/025030
+  AFTER:  https://doi.org/10.1088/2053-1583/2/025030
+
+
+2017.json (2 fixes)
+===================
+
+undefined: Automated extraction of single H atoms with STM: t...
+  BEFORE: https://doi.org/10.1088/1361-6528/28/7/075302
+  AFTER:  https://doi.org/10.1088/1361-6528/7/075302
+
+undefined: Exploring ultra-fast charge transfer and...
+  BEFORE: https://doi.org/10.1063/1.4999135/195635
+  AFTER:  https://doi.org/10.1063/1.4999135
+
+
+2018.json (3 fixes)
+===================
+
+undefined: Substrate-induced shifts and screening in the fluo...
+  BEFORE: https://doi.org/10.1063/1.5041418/362448
+  AFTER:  https://doi.org/10.1063/1.5041418
+
+undefined: The wow and the woo. Moriarty, P. (2018c). Physics...
+  BEFORE: https://doi.org/10.1063/1.5024862/197024
+  AFTER:  https://doi.org/10.1063/1.5024862
+
+undefined: Van der Waals epitaxy of two-dimensional...
+  BEFORE: https://doi.org/10.1063/1.5029220/35726
+  AFTER:  https://doi.org/10.1063/1.5029220
+
+
+2019.json (2 fixes)
+===================
+
+undefined: Resonant inelastic X-ray scattering of a...
+  BEFORE: https://doi.org/10.1063/1.5114692/197975
+  AFTER:  https://doi.org/10.1063/1.5114692
+
+undefined: Rushing or dragging? An analysis of the ‘universal...
+  BEFORE: https://doi.org/10.1063/1.5099590/360585
+  AFTER:  https://doi.org/10.1063/1.5099590
+
+
+2020.json (1 fixes)
+===================
+
+undefined: Improving the segmentation of scanning probe micro...
+  BEFORE: https://doi.org/10.1063/5.0006185/1062586
+  AFTER:  https://doi.org/10.1063/5.0006185
+
+
+2022.json (2 fixes)
+===================
+
+undefined: Probing the manipulation of antiferromagnetic orde...
+  BEFORE: https://doi.org/10.1063/5.0103390/2834075
+  AFTER:  https://doi.org/10.1063/5.0103390
+
+undefined: Using polycyclic aromatic hydrocarbons for graphen...
+  BEFORE: https://doi.org/10.1063/5.0122914/2834463
+  AFTER:  https://doi.org/10.1063/5.0122914
+
+
+2023.json (2 fixes)
+===================
+
+undefined: Beyond the quantum woo-niverse....
+  BEFORE: https://doi.org/10.1088/2058-7058/36/06/31
+  AFTER:  https://doi.org/10.1088/2058-7058/06/31
+
+undefined: Shreddinger’s equation....
+  BEFORE: https://doi.org/10.1088/2058-7058/36/09/28
+  AFTER:  https://doi.org/10.1088/2058-7058/09/28
+
+
+2024.json (1 fixes)
+===================
+
+undefined: H1dd3n variab7es....
+  BEFORE: https://doi.org/10.1088/2058-7058/37/07/30
+  AFTER:  https://doi.org/10.1088/2058-7058/07/30
+
+
+
+REGEX PATTERN USED
+==================
+Pattern: /(https:\/\/doi\.org\/10\.\d+\/[^\/\s"]+)\/\d+/g
+Replacement: $1
+
+This pattern matches DOI URLs with extra numeric path segments and removes them.
+Examples:
+- https://doi.org/10.1063/5.0103390/2834075 -> https://doi.org/10.1063/5.0103390
+- https://doi.org/10.1063/1.5114692/197975 -> https://doi.org/10.1063/1.5114692

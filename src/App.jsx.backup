@@ -14,7 +14,7 @@ import MagnetsSection from "./components/MagnetsSection";
 import MaterialsSection from "./components/MaterialsSection";
 import MoleculesSection from "./components/MoleculesSection";
 import ContactSection from "./components/ContactSection";
-import PublicationsSectionOptimized from "./components/PublicationsSectionOptimized";
+import PublicationsSection from "./components/PublicationsSection";
 import Footer from "./components/Footer";
 import SkipToContent from "./components/SkipToContent";
 
@@ -113,7 +113,7 @@ function App() {
           <ContactSection />
         </AnimatedSection>
         <AnimatedSection>
-          <PublicationsSectionOptimized />
+          <PublicationsSection />
         </AnimatedSection>
       </main>
 
