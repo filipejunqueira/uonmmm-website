@@ -1,79 +1,142 @@
 [
   {
     "year": 2004,
-    "title": "Anisotropic magnetoresistance in a two-dimensional electron gas in a quasirandom magnetic field. Rushforth, A. W., Gallagher, B. L., Main, P. C., Neumann, A. C., Henini, M., Marrows, C. H., & Mickey, B. J. (2004). Physical Review B – Condensed Matter and Materials Physics, 70(19), 1–4. https://doi.org/10.1103/PHYSREVB.70.193313",
-    "authors": "Comment on “X-Ray Studies of the Structure and Electronic Behavior of Alkanethiolate-Capped Gold",
-    "journal": "Physical Review Letters, 92(10)",
+    "title": "Anisotropic magnetoresistance in a two-dimensional electron gas in a quasirandom magnetic field",
+    "authors": "Rushforth, A. W., Gallagher, B. L., Main, P. C., Neumann, A. C., Henini, M., Marrows, C. H., & Mickey, B. J",
+    "journal": "(2004). Physical Review B – Condensed Matter and Materials Physics, 70(19), 1–4. https://doi.org/10.1103/PHYSREVB.70.193313",
+    "link": "https://doi.org/10.1103/PHYSREVB.70.193313"
+  },
+  {
+    "year": 2004,
+    "title": "Comment on “X-Ray Studies of the Structure and Electronic Behavior of Alkanethiolate-Capped Gold Nanoparticles: The Interplay of Size and Surface Effects”",
+    "authors": "Moriarty, P., Zhang, P., & Sham, T. K",
+    "journal": "(2004). Physical Review Letters, 92(10). https://doi.org/10.1103/PhysRevLett.92.109601",
     "link": "https://doi.org/10.1103/PhysRevLett.92.109601"
   },
   {
     "year": 2004,
-    "title": "Does an Encapsulated Atom ‘feel’ the Effects of Adsorption?: X-ray Standing Wave Spectroscopy of Ce@C82 on Ag(111).",
-    "authors": "Woolley, R. A. J., Schulte, K. H. G., Wang, L., Moriarty, P. J., Cowie,",
-    "journal": "Nano Letters, 4(2), 361–364",
+    "title": "Does an Encapsulated Atom ‘feel’ the Effects of Adsorption?: X-ray Standing Wave Spectroscopy of Ce@C82 on Ag(111)",
+    "authors": "Woolley, R. A. J., Schulte, K. H. G., Wang, L., Moriarty, P. J., Cowie, B. C. C., Shinohara, H., Kanai, M., & Dennis, T. J. S",
+    "journal": "(2004). Nano Letters, 4(2), 361–364. https://doi.org/10.1021/NL035041I",
     "link": "https://doi.org/10.1021/NL035041I"
   },
   {
     "year": 2004,
-    "title": "Influence of low temperature annealing on the micromagnetic structure of GaMnAs films. Pross, A., Bending, S., Edmonds, K., Campion, R. P., Foxon, C. T., & Gallagher, B. (2004a). Journal of Applied Physics, 95(6), 3225–3227. https://doi.org/10.1063/1.1643197",
-    "authors": "Influence of the Mn interstitial on the magnetic and transport properties of (Ga,Mn)As. Wang, K. Y., Edmonds, K. W., Campion, R. P., Gallagher, B. L., Farley, N. R. S., Foxon, C. T., Sawicki, M., Boguslawski, P., & Dietl, T.",
-    "journal": "Journal of Applied Physics, 95(11), 6512–6514",
+    "title": "Effect of sample preparation on the glass-transition of thin polystyrene films",
+    "authors": "Fakhraai, Z., Sharp, J. S., & Forrest, J. A",
+    "journal": "(2004). Journal of Polymer Science Part B: Polymer Physics, 42(24), 4503–4507. https://doi.org/10.1002/POLB.20281",
+    "link": "https://doi.org/10.1002/POLB.20281"
+  },
+  {
+    "year": 2004,
+    "title": "Influence of low temperature annealing on the micromagnetic structure of GaMnAs films",
+    "authors": "Pross, A., Bending, S., Edmonds, K., Campion, R. P., Foxon, C. T., & Gallagher, B",
+    "journal": "(2004a). Journal of Applied Physics, 95(6), 3225–3227. https://doi.org/10.1063/1.1643197",
+    "link": "https://doi.org/10.1063/1.1643197"
+  },
+  {
+    "year": 2004,
+    "title": "Influence of the Mn interstitial on the magnetic and transport properties of (Ga,Mn)As",
+    "authors": "Wang, K. Y., Edmonds, K. W., Campion, R. P., Gallagher, B. L., Farley, N. R. S., Foxon, C. T., Sawicki, M., Boguslawski, P., & Dietl, T",
+    "journal": "(2004). Journal of Applied Physics, 95(11), 6512–6514. https://doi.org/10.1063/1.1669337",
     "link": "https://doi.org/10.1063/1.1669337"
   },
   {
     "year": 2004,
-    "title": "Insulating surface layer on single crystal K $\\mathsf{_{3}}\\mathsf{C}\\mathsf{_{60}}$.",
-    "authors": "Schiessling, J., Kjeldgaard, L., Käämbre, T., Marenne, I., Qian, L., O’Shea, J. N., Schnadt, J., Garnier, M. G., Nordlund, D., Nagasono, M., Glover, C. J., Rubensson, J. E., Mårtensson, N., Rudolf, P., Nordgren,",
-    "journal": "The European Physical Journal B – Condensed Matter and Complex Systems 2004 41:4, 41(4), 435–438",
+    "title": "Insulating surface layer on single crystal K $\\mathsf{_{3}}\\mathsf{C}\\mathsf{_{60}}$",
+    "authors": "Schiessling, J., Kjeldgaard, L., Käämbre, T., Marenne, I., Qian, L., O’Shea, J. N., Schnadt, J., Garnier, M. G., Nordlund, D., Nagasono, M., Glover, C. J., Rubensson, J. E., Mårtensson, N., Rudolf, P., Nordgren, J., & Brühwiler, P. A",
+    "journal": "(2004). The European Physical Journal B – Condensed Matter and Complex Systems 2004 41:4, 41(4), 435–438. https://doi.org/10.1140/EPJB/E2004-00335-2",
     "link": "https://doi.org/10.1140/EPJB/E2004-00335-2"
   },
   {
     "year": 2004,
-    "title": "Magnetic domain imaging of ferromagnetic GaMnAs films. Pross, A., Bending, S., Edmonds, K., Campion, R. P., Foxon, C. T., & Gallagher, B. (2004b). Journal of Applied Physics, 95(11), 7399–7401. https://doi.org/10.1063/1.1669113",
-    "authors": "Mn Interstitial Diffusion in (Ga, Mn)As. Edmonds, K. W., Bogusławski, P., Wang, K. Y., Campion, R. P., Novikov, S. N., Farley, N. R. S., Gallagher, B. L., Foxon, C. T., Sawicki, M.,",
-    "journal": "Physical Review Letters, 92(3), 4–4",
+    "title": "Magnetic domain imaging of ferromagnetic GaMnAs films",
+    "authors": "Pross, A., Bending, S., Edmonds, K., Campion, R. P., Foxon, C. T., & Gallagher, B",
+    "journal": "(2004b). Journal of Applied Physics, 95(11), 7399–7401. https://doi.org/10.1063/1.1669113",
+    "link": "https://doi.org/10.1063/1.1669113"
+  },
+  {
+    "year": 2004,
+    "title": "Mn Interstitial Diffusion in (Ga, Mn)As",
+    "authors": "Edmonds, K. W., Bogusławski, P., Wang, K. Y., Campion, R. P., Novikov, S. N., Farley, N. R. S., Gallagher, B. L., Foxon, C. T., Sawicki, M., Dietl, T., Buongiorno Nardelli, M., & Bernholc, J",
+    "journal": "(2004). Physical Review Letters, 92(3), 4–4. https://doi.org/10.1103/PHYSREVLETT.92.037201",
     "link": "https://doi.org/10.1103/PHYSREVLETT.92.037201"
   },
   {
     "year": 2004,
-    "title": "Mn L3,2 x-ray absorption from (Ga,Mn)As and (Ga,Mn)N. Edmonds, K. W., Farley, N. R. S., Johal, T. K., Campion, R. P., Gallagher, B. L., Foxon, C. T., & Van Der Laan, G. (2004). Journal of Applied Physics, 95(11), 7166–7168. https://doi.org/10.1063/1.1667419",
-    "authors": "",
-    "journal": "The Journal of Chemical Physics, 121(20), 10203–10208",
+    "title": "Mn L3,2 x-ray absorption from (Ga,Mn)As and (Ga,Mn)N",
+    "authors": "Edmonds, K. W., Farley, N. R. S., Johal, T. K., Campion, R. P., Gallagher, B. L., Foxon, C. T., & Van Der Laan, G",
+    "journal": "(2004). Journal of Applied Physics, 95(11), 7166–7168. https://doi.org/10.1063/1.1667419",
+    "link": "https://doi.org/10.1063/1.1667419"
+  },
+  {
+    "year": 2004,
+    "title": "Molecular ordering in isonicotinic acid on rutile TiO2(110) investigated with valence band photoemission",
+    "authors": "O’Shea, J. N., Swarbrick, J. C., Nilson, K., Puglia, C., Brena, B., Luo, Y., & Dhanak, V. R",
+    "journal": "(2004). The Journal of Chemical Physics, 121(20), 10203–10208. https://doi.org/10.1063/1.1802292",
     "link": "https://doi.org/10.1063/1.1802292"
   },
   {
     "year": 2004,
-    "title": "Morphology, structure, and electronic properties of Ce@C82 films on Ag:Si(1 1 1)-(√3 × √3)R30°.",
-    "authors": "Wang, L., Schulte, K., Woolley, R. A. J., Kanai, M., Dennis, T. J. S., Purton, J., Patel, S., Gorovikov, S., Dhanak, V. R., Smith, E. F.,",
-    "journal": "Surface Science, 564(1–3), 156–164",
+    "title": "Morphology, structure, and electronic properties of Ce@C82 films on Ag:Si(1 1 1)-(√3 × √3)R30°",
+    "authors": "Wang, L., Schulte, K., Woolley, R. A. J., Kanai, M., Dennis, T. J. S., Purton, J., Patel, S., Gorovikov, S., Dhanak, V. R., Smith, E. F., Cowie, B. C. C., & Moriarty, P",
+    "journal": "(2004). Surface Science, 564(1–3), 156–164. https://doi.org/10.1016/J.SUSC.2004.06.189",
     "link": "https://doi.org/10.1016/J.SUSC.2004.06.189"
   },
   {
     "year": 2004,
-    "title": "Nanoparticle networks on silicon: Self-organized or disorganized? Martin, C. P., Blunt, M. O., & Moriarty, P. (2004). Nano Letters, 4(12), 2389–2392. https://doi.org/10.1021/NL048536W",
-    "authors": "",
-    "journal": "Journal of the American Chemical Society, 126(41), 13212–13213",
+    "title": "Nanoparticle networks on silicon: Self-organized or disorganized?",
+    "authors": "Martin, C. P., Blunt, M. O., & Moriarty, P",
+    "journal": "(2004). Nano Letters, 4(12), 2389–2392. https://doi.org/10.1021/NL048536W",
+    "link": "https://doi.org/10.1021/NL048536W"
+  },
+  {
+    "year": 2004,
+    "title": "Nanopore formation by self-assembly of the model genetically engineered elastin-like polymer [(VPGVG)2(VPGEG)(VPGVG)2] 15",
+    "authors": "Reguera, J., Fahmi, A., Moriarty, P., Girotti, A., & Rodríguez-Cabello, J. C",
+    "journal": "(2004). Journal of the American Chemical Society, 126(41), 13212–13213. https://doi.org/10.1021/JA047417F",
     "link": "https://doi.org/10.1021/JA047417F"
   },
   {
     "year": 2004,
-    "title": "Noninvasive detection of the evolution of the charge states of a double dot system. Rushforth, A. W., Smith, C. G., Godfrey, M. D., Beere, H. E., Ritchie, D. A., & Pepper, M. (2004a). Physical Review B, 69(11), 113309–113309. https://doi.org/10.1103/PhysRevB.69.113309",
-    "authors": "Non-invasive detection of the ionic and covalent charge states of an isolated double dot system. Rushforth, A. W., Smith, C. G., Godfrey, M. D., Beere, H. E., Ritchie, D. A., & Pepper, M. (2004b). Physica E: Low-Dimensional Systems and Nanostructures, 22(1–3), 522–525. https://doi.org/10.1016/J.PHYSE.2003.12.060",
-    "journal": "Journal of Materials Chemistry, 14(7), 1087–1092",
+    "title": "Noninvasive detection of the evolution of the charge states of a double dot system",
+    "authors": "Rushforth, A. W., Smith, C. G., Godfrey, M. D., Beere, H. E., Ritchie, D. A., & Pepper, M",
+    "journal": "(2004a). Physical Review B, 69(11), 113309–113309. https://doi.org/10.1103/PhysRevB.69.113309",
+    "link": "https://doi.org/10.1103/PhysRevB.69.113309"
+  },
+  {
+    "year": 2004,
+    "title": "Non-invasive detection of the ionic and covalent charge states of an isolated double dot system",
+    "authors": "Rushforth, A. W., Smith, C. G., Godfrey, M. D., Beere, H. E., Ritchie, D. A., & Pepper, M",
+    "journal": "(2004b). Physica E: Low-Dimensional Systems and Nanostructures, 22(1–3), 522–525. https://doi.org/10.1016/J.PHYSE.2003.12.060",
+    "link": "https://doi.org/10.1016/J.PHYSE.2003.12.060"
+  },
+  {
+    "year": 2004,
+    "title": "Sol-gel formation of ordered nanostructured doped ZnO films",
+    "authors": "Farley, N. R. S., Staddon, C. R., Zhao, L., Edmonds, K. W., Gallagher, B. L., & Gregory, D. H",
+    "journal": "(2004). Journal of Materials Chemistry, 14(7), 1087–1092. https://doi.org/10.1039/B313271D",
     "link": "https://doi.org/10.1039/B313271D"
   },
   {
     "year": 2004,
-    "title": "Surface effects in Mn L3,2 x-ray absorption spectra from (Ga,Mn)As.",
-    "authors": "Edmonds, K. W., Farley, N. R. S., Campion, R. P., Foxon, C. T., Gallagher, B. L., Johal, T. K., Van Der Laan, G., MacKenzie, M.,",
-    "journal": "Applied Physics Letters, 84(20), 4065–4067",
+    "title": "Surface effects in Mn L3,2 x-ray absorption spectra from (Ga,Mn)As",
+    "authors": "Edmonds, K. W., Farley, N. R. S., Campion, R. P., Foxon, C. T., Gallagher, B. L., Johal, T. K., Van Der Laan, G., MacKenzie, M., Chapman, J. N., & Arenholz, E",
+    "journal": "(2004). Applied Physics Letters, 84(20), 4065–4067. https://doi.org/10.1063/1.1751619",
     "link": "https://doi.org/10.1063/1.1751619"
   },
   {
     "year": 2004,
-    "title": "The growth of high quality GaMnAs films by MBE.",
-    "authors": "Foxon, C. T., Campion, R. P., Edmonds, K. W., Zhao, L., Wang, K.,",
-    "journal": "Journal of Materials Science: Materials in Electronics, 15(11), 727–731",
+    "title": "The growth of high quality GaMnAs films by MBE",
+    "authors": "Foxon, C. T., Campion, R. P., Edmonds, K. W., Zhao, L., Wang, K., Farley, N. R. S., Staddon, C. R., & Gallagher, B. L",
+    "journal": "(2004). Journal of Materials Science: Materials in Electronics, 15(11), 727–731. https://doi.org/10.1023/B:JMSE.0000043420.48864.07",
     "link": "https://doi.org/10.1023/B:JMSE.0000043420.48864.07"
+  },
+  {
+    "year": 2004,
+    "title": "X-ray photoelectron spectroscopy of fluorescein adsorbed on model solar-cell surfaces",
+    "authors": "O’Shea, J. N., Taylor, J. B., & Smith, E. F",
+    "journal": "(2004). Surface Science, 548(1–3), 317–323. https://doi.org/10.1016/J.SUSC.2003.11.019",
+    "link": "https://doi.org/10.1016/J.SUSC.2003.11.019"
   }
 ]

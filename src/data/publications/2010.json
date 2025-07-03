@@ -1,156 +1,219 @@
 [
   {
     "year": 2010,
-    "title": "Graphene formation by decomposition of C60. Perdigão, L. M. A., Sabki, S. N., Garfitt, J. M., Capiod, P., & Beton, P. H. (2011). Journal of Physical Chemistry C, 115(15), 7472–7476. https://doi.org/10.1021/JP111462T",
-    "authors": "Guest-induced growth of a surface-based supramolecular bilayer. Blunt, M. O., Russell, J. C., Gimenez-Lopez, M. D. C., Taleb, N., Lin,",
-    "journal": "Nature Chemistry 2010 3:1, 3(1), 74–78",
-    "link": "https://doi.org/10.1038/nchem.901"
+    "title": "A novel tripod-driven platform for in-situ positioning of samples and electrical probes in a TEM",
+    "authors": "Medford, B. D., Rogers, B. L., Laird, D., Berdunov, N., Lockwood, A. J., Gnanavel, T., Guan, W., Wang, J., Möbus, G., Inkson, B. J., & Beton, P. H",
+    "journal": "(2010). Journal of Physics: Conference Series, 241(1), 012057–012057. https://doi.org/10.1088/1742-6596/241/1/012057",
+    "link": "https://doi.org/10.1088/1742-6596/241/1/012057"
   },
   {
     "year": 2010,
-    "title": "A novel tripod-driven platform for in-situ positioning of samples and electrical probes in a TEM.",
-    "authors": "Medford, B. D., Rogers, B. L., Laird, D., Berdunov, N., Lockwood, A. J., Gnanavel, T., Guan, W., Wang, J., Möbus, G., Inkson, B. J., &",
-    "journal": "Journal of Physics: Conference Series, 241(1), 012057–012057",
-    "link": "https://doi.org/10.1088/1742-6596/1/012057"
-  },
-  {
-    "year": 2010,
-    "title": "Above-barrier surface electron resonances induced by a molecular network.",
-    "authors": "Stiufiuc, R., Perdigão, L. M. A., Grandidier, B., Deresmes, D., Allan, G., Delerue, C., Stiévenard, D., Beton, P. H., Erwin, S. C., Sassi, M.,",
-    "journal": "Physical Review B – Condensed Matter and Materials Physics, 81(4)",
+    "title": "Above-barrier surface electron resonances induced by a molecular network",
+    "authors": "Stiufiuc, R., Perdigão, L. M. A., Grandidier, B., Deresmes, D., Allan, G., Delerue, C., Stiévenard, D., Beton, P. H., Erwin, S. C., Sassi, M., Oison, V., & Debierre, J. M",
+    "journal": "(2010). Physical Review B – Condensed Matter and Materials Physics, 81(4). https://doi.org/10.1103/PHYSREVB.81.045421",
     "link": "https://doi.org/10.1103/PHYSREVB.81.045421"
   },
   {
     "year": 2010,
-    "title": "Calculation of images of oriented C60 molecules using molecular orbital theory. Hands, I. D., Dunn, J. L., & Bates, C. A. (2010a). Physical Review B – Condensed Matter and Materials Physics, 81(20). https://doi.org/10.1103/PHYSREVB.81.205440",
-    "authors": "",
-    "journal": "Journal of Chemical Physics, 133(9), 94705–94705",
-    "link": "https://doi.org/10.1063/1.3488299"
+    "title": "Calculation of images of oriented C60 molecules using molecular orbital theory",
+    "authors": "Hands, I. D., Dunn, J. L., & Bates, C. A",
+    "journal": "(2010a). Physical Review B – Condensed Matter and Materials Physics, 81(20). https://doi.org/10.1103/PHYSREVB.81.205440",
+    "link": "https://doi.org/10.1103/PHYSREVB.81.205440"
   },
   {
     "year": 2010,
-    "title": "Coherent elastic waves in a one-dimensional polymer hypersonic crystal. Walker, P. M., Sharp, J. S., Akimov, A. V., & Kent, A. J. (2010). Applied Physics Letters, 97(7), 73106–73106. https://doi.org/10.1063/1.3479929/339593",
-    "authors": "Conformation and Packing of Porphyrin Polymer Chains Deposited Using Electrospray on a Gold Surface. Saywell, A., Sprafke, J. K., Esdaile, L. J., Britton, A. J., Rienzo, A., Anderson, H. L., OShea, J. N., Beton, P. H., Saywell, A., Britton, A. J., Rienzo, A., Beton, P. H., Sprafke, J. K., Esdaile, L. J., &",
-    "journal": "Angewandte Chemie International Edition, 49(48), 9136–9139",
+    "title": "Charge transfer between the Au(111) surface and adsorbed C60: Resonant photoemission and new core-hole decay channels",
+    "authors": "Britton, A. J., Rienzo, A., O’Shea, J. N., & Schulte, K",
+    "journal": "(2010). Journal of Chemical Physics, 133(9), 94705–94705. https://doi.org/10.1063/1.3488299/189016",
+    "link": "https://doi.org/10.1063/1.3488299/189016"
+  },
+  {
+    "year": 2010,
+    "title": "Coherent elastic waves in a one-dimensional polymer hypersonic crystal",
+    "authors": "Walker, P. M., Sharp, J. S., Akimov, A. V., & Kent, A. J",
+    "journal": "(2010). Applied Physics Letters, 97(7), 73106–73106. https://doi.org/10.1063/1.3479929/339593",
+    "link": "https://doi.org/10.1063/1.3479929/339593"
+  },
+  {
+    "year": 2010,
+    "title": "Conformation and Packing of Porphyrin Polymer Chains Deposited Using Electrospray on a Gold Surface",
+    "authors": "Saywell, A., Sprafke, J. K., Esdaile, L. J., Britton, A. J., Rienzo, A., Anderson, H. L., OShea, J. N., Beton, P. H., Saywell, A., Britton, A. J., Rienzo, A., Beton, P. H., Sprafke, J. K., Esdaile, L. J., & Anderson, H. L",
+    "journal": "(2010). Angewandte Chemie International Edition, 49(48), 9136–9139. https://doi.org/10.1002/ANIE.201004896",
     "link": "https://doi.org/10.1002/ANIE.201004896"
   },
   {
     "year": 2010,
-    "title": "Current-driven domain wall motion across a wide temperature range in a (Ga,Mn)(As,P) device.",
-    "authors": "Wang, K. Y., Edmonds, K. W., Irvine, A. C., Tatara, G., De Ranieri, E., Wunderlich, J., Olejnik, K., Rushforth, A. W., Campion, R. P.,",
-    "journal": "Applied Physics Letters, 97(26), 262102–262102",
-    "link": "https://doi.org/10.1063/1.3532095"
+    "title": "Current-driven domain wall motion across a wide temperature range in a (Ga,Mn)(As,P) device",
+    "authors": "Wang, K. Y., Edmonds, K. W., Irvine, A. C., Tatara, G., De Ranieri, E., Wunderlich, J., Olejnik, K., Rushforth, A. W., Campion, R. P., Williams, D. A., Foxon, C. T., & Gallagher, B. L",
+    "journal": "(2010). Applied Physics Letters, 97(26), 262102–262102. https://doi.org/10.1063/1.3532095/339579",
+    "link": "https://doi.org/10.1063/1.3532095/339579"
   },
   {
     "year": 2010,
-    "title": "Dilatancy in the flow and fracture of stretched colloidal suspensions. Smith, M. I., Besseling, R., Cates, M. E., & Bertola, V. (2010). Nature Communications 2010 1:1, 1(1), 1–5. https://doi.org/10.1038/ncomms1119",
-    "authors": "",
-    "journal": "Langmuir, 26(17), 13892–13896",
+    "title": "Dilatancy in the flow and fracture of stretched colloidal suspensions",
+    "authors": "Smith, M. I., Besseling, R., Cates, M. E., & Bertola, V",
+    "journal": "(2010). Nature Communications 2010 1:1, 1(1), 1–5. https://doi.org/10.1038/ncomms1119",
+    "link": "https://doi.org/10.1038/ncomms1119"
+  },
+  {
+    "year": 2010,
+    "title": "Directing the formation of nanostructured rings via local oxidation",
+    "authors": "Stannard, A., Alhummiany, H., Pauliac-Vaujour, E., Sharp, J. S., Moriarty, P., & Thiele, U",
+    "journal": "(2010). Langmuir, 26(17), 13892–13896. https://doi.org/10.1021/LA1004787",
     "link": "https://doi.org/10.1021/LA1004787"
   },
   {
     "year": 2010,
-    "title": "Domain wall resistance in perpendicular (Ga,Mn)As: Dependence on pinning.",
-    "authors": "Wang, K. Y., Edmonds, K. W., Irvine, A. C., Wunderlich, J., Olejnik, K., Rushforth, A. W., Campion, R. P., Williams, D. A., Foxon, C. T.,",
-    "journal": "Journal of Magnetism and Magnetic Materials, 322(21), 3481–3484",
+    "title": "Domain wall resistance in perpendicular (Ga,Mn)As: Dependence on pinning",
+    "authors": "Wang, K. Y., Edmonds, K. W., Irvine, A. C., Wunderlich, J., Olejnik, K., Rushforth, A. W., Campion, R. P., Williams, D. A., Foxon, C. T., & Gallagher, B. L",
+    "journal": "(2010). Journal of Magnetism and Magnetic Materials, 322(21), 3481–3484. https://doi.org/10.1016/J.JMMM.2010.06.049",
     "link": "https://doi.org/10.1016/J.JMMM.2010.06.049"
   },
   {
     "year": 2010,
-    "title": "Effect of polymer additives on the wetting of impacting droplets. Smith, M. I., & Bertola, V. (2010). Physical Review Letters, 104(15). https://doi.org/10.1103/PHYSREVLETT.104.154502",
-    "authors": "Element-resolved orbital polarization in (III,Mn)As ferromagnetic semiconductors from K -edge x-ray magnetic circular dichroism. Wadley, P., Freeman, A. A., Edmonds, K. W., Van Der Laan, G., Chauhan, J. S., Campion, R. P., Rushforth, A. W., Gallagher, B. L., Foxon, C. T.,",
-    "journal": "Physical Review B – Condensed Matter and Materials Physics, 81(23), 235208–235208",
+    "title": "Effect of polymer additives on the wetting of impacting droplets",
+    "authors": "Smith, M. I., & Bertola, V",
+    "journal": "(2010). Physical Review Letters, 104(15). https://doi.org/10.1103/PHYSREVLETT.104.154502",
+    "link": "https://doi.org/10.1103/PHYSREVLETT.104.154502"
+  },
+  {
+    "year": 2010,
+    "title": "Element-resolved orbital polarization in (III,Mn)As ferromagnetic semiconductors from K -edge x-ray magnetic circular dichroism",
+    "authors": "Wadley, P., Freeman, A. A., Edmonds, K. W., Van Der Laan, G., Chauhan, J. S., Campion, R. P., Rushforth, A. W., Gallagher, B. L., Foxon, C. T., Wilhelm, F., Smekhova, A. G., & Rogalev, A",
+    "journal": "(2010). Physical Review B – Condensed Matter and Materials Physics, 81(23), 235208–235208. https://doi.org/10.1103/PHYSREVB.81.235208",
     "link": "https://doi.org/10.1103/PHYSREVB.81.235208"
   },
   {
     "year": 2010,
-    "title": "Entropically stabilized growth of a two-dimensional random tiling. Stannard, A., Blunt, M. O., Beton, P. H., & Garrahan, J. P. (2010). Physical Review E – Statistical, Nonlinear, and Soft Matter Physics, 82(4). https://doi.org/10.1103/PHYSREVE.82.041109",
-    "authors": "Exchange bias in a ferromagnetic semiconductor induced by a ferromagnetic metal: Fe/(Ga,Mn)As bilayer films studied by XMCD measurements and SQUID magnetometry. Olejnik, K., Wadley, P., Haigh, J. A., Edmonds, K. W., Campion, R. P., Rushforth, A. W., Gallagher, B. L., Foxon, C. T., Jungwirth, T., Wunderlich, J., Dhesi, S. S., Cavill, S. A., Van Der Laan, G., & Arenholz, E.",
-    "journal": "Physical Review B – Condensed Matter and Materials Physics, 81(10), 104402–104402",
+    "title": "Entropically stabilized growth of a two-dimensional random tiling",
+    "authors": "Stannard, A., Blunt, M. O., Beton, P. H., & Garrahan, J. P",
+    "journal": "(2010). Physical Review E – Statistical, Nonlinear, and Soft Matter Physics, 82(4). https://doi.org/10.1103/PHYSREVE.82.041109",
+    "link": "https://doi.org/10.1103/PHYSREVE.82.041109"
+  },
+  {
+    "year": 2010,
+    "title": "Exchange bias in a ferromagnetic semiconductor induced by a ferromagnetic metal: Fe/(Ga,Mn)As bilayer films studied by XMCD measurements and SQUID magnetometry",
+    "authors": "Olejnik, K., Wadley, P., Haigh, J. A., Edmonds, K. W., Campion, R. P., Rushforth, A. W., Gallagher, B. L., Foxon, C. T., Jungwirth, T., Wunderlich, J., Dhesi, S. S., Cavill, S. A., Van Der Laan, G., & Arenholz, E",
+    "journal": "(2010). Physical Review B – Condensed Matter and Materials Physics, 81(10), 104402–104402. https://doi.org/10.1103/PHYSREVB.81.104402",
     "link": "https://doi.org/10.1103/PHYSREVB.81.104402"
   },
   {
     "year": 2010,
-    "title": "Fullerene adsorption on semiconductor surfaces. Moriarty, P. J. (2010). Surface Science Reports, 65(7), 175–227. https://doi.org/10.1016/J.SURFREP.2010.08.001",
-    "authors": "Guest-induced growth of a surface-based supramolecular bilayer. Blunt, M. O., Russell, J. C., Gimenez-Lopez, M. D. C., Taleb, N., Lin,",
-    "journal": "Nature Chemistry 2010 3:1, 3(1), 74–78",
-    "link": "https://doi.org/10.1038/nchem.901"
+    "title": "Fullerene adsorption on semiconductor surfaces",
+    "authors": "Moriarty, P. J",
+    "journal": "(2010). Surface Science Reports, 65(7), 175–227. https://doi.org/10.1016/J.SURFREP.2010.08.001",
+    "link": "https://doi.org/10.1016/J.SURFREP.2010.08.001"
   },
   {
     "year": 2010,
-    "title": "Magnetic aftereffect in compressively strained GaMnAs studied using Kerr microscopy.",
-    "authors": "Herrera Diez, L., Honolka, J., Kern, K., Kronmüller, H., Placidi, E., Arciprete, F., Rushforth, A. W., Campion, R. P., & Gallagher, B. L.",
-    "journal": "Physical Review B – Condensed Matter and Materials Physics, 81(9), 094412–094412",
+    "title": "Magnetic aftereffect in compressively strained GaMnAs studied using Kerr microscopy",
+    "authors": "Herrera Diez, L., Honolka, J., Kern, K., Kronmüller, H., Placidi, E., Arciprete, F., Rushforth, A. W., Campion, R. P., & Gallagher, B. L",
+    "journal": "(2010). Physical Review B – Condensed Matter and Materials Physics, 81(9), 094412–094412. https://doi.org/10.1103/PHYSREVB.81.094412",
     "link": "https://doi.org/10.1103/PHYSREVB.81.094412"
   },
   {
     "year": 2010,
-    "title": "Maintenance of pluripotency in human embryonic stem cells cultured on a synthetic substrate in conditioned medium.",
-    "authors": "Mahlstedt, M. M., Anderson, D., Sharp, J. S., McGilvray, R., Barbadillo Muñoz, M. D., Buttery, L. D., Alexander, M. R., Rose, F. R. A. J.,",
-    "journal": "Biotechnology and Bioengineering, 105(1), 130–140",
+    "title": "Maintenance of pluripotency in human embryonic stem cells cultured on a synthetic substrate in conditioned medium",
+    "authors": "Mahlstedt, M. M., Anderson, D., Sharp, J. S., McGilvray, R., Barbadillo Muñoz, M. D., Buttery, L. D., Alexander, M. R., Rose, F. R. A. J., & Denning, C",
+    "journal": "(2010). Biotechnology and Bioengineering, 105(1), 130–140. https://doi.org/10.1002/BIT.22520",
     "link": "https://doi.org/10.1002/BIT.22520"
   },
   {
     "year": 2010,
-    "title": "Microscopic analysis of the valence band and impurity band theories of (Ga,Mn)As.",
-    "authors": "Mašek, J., MácA, F., Kudrnovský, J., Makarovsky, O., Eaves, L., Campion, R. P., Edmonds, K. W., Rushforth, A. W., Foxon, C. T.,",
-    "journal": "Physical Review Letters, 105(22), 227202–227202",
+    "title": "Microscopic analysis of the valence band and impurity band theories of (Ga,Mn)As",
+    "authors": "Mašek, J., MácA, F., Kudrnovský, J., Makarovsky, O., Eaves, L., Campion, R. P., Edmonds, K. W., Rushforth, A. W., Foxon, C. T., Gallagher, B. L., Novák, V., Sinova, J., & Jungwirth, T",
+    "journal": "(2010). Physical Review Letters, 105(22), 227202–227202. https://doi.org/10.1103/PHYSREVLETT.105.227202",
     "link": "https://doi.org/10.1103/PHYSREVLETT.105.227202"
   },
   {
     "year": 2010,
-    "title": "Microstructural characteristics and",
-    "authors": "phonon structures in luminescence from surface oxidized Ge nanocrystals",
-    "journal": "Journal of Applied Physics, 108(5), 53510–53510",
-    "link": "https://doi.org/10.1063/1.3475717"
+    "title": "Microstructural characteristics and phonon structures in luminescence from surface oxidized Ge nanocrystals embedded in HfO2 matrix",
+    "authors": "Das, S., Singha, R. K., Gangopadhyay, S., Dhar, A., & Ray, S. K",
+    "journal": "(2010). Journal of Applied Physics, 108(5), 53510–53510. https://doi.org/10.1063/1.3475717/345667",
+    "link": "https://doi.org/10.1063/1.3475717/345667"
   },
   {
     "year": 2010,
-    "title": "Microtextured surfaces with gradient wetting properties. Langley, K. R., & Sharp, J. S. (2010). Langmuir, 26(23), 18349–18356. https://doi.org/10.1021/LA1036212",
-    "authors": "",
-    "journal": "Optics Letters, Vol. 35, Issue 24, Pp. 4193-4195, 35(24), 4193–4195",
+    "title": "Microtextured surfaces with gradient wetting properties",
+    "authors": "Langley, K. R., & Sharp, J. S",
+    "journal": "(2010). Langmuir, 26(23), 18349–18356. https://doi.org/10.1021/LA1036212",
+    "link": "https://doi.org/10.1021/LA1036212"
+  },
+  {
+    "year": 2010,
+    "title": "Nondestructive Raman and atomic force microscopy measurement of molecular structure for individual diphenylalanine nanotubes",
+    "authors": "Roberts, C. J., Lekprasert, B., Tedler, S. J. B., Sedman, V., & Notingher, I",
+    "journal": "(2010). Optics Letters, Vol. 35, Issue 24, Pp. 4193-4195, 35(24), 4193–4195. https://doi.org/10.1364/OL.35.004193",
     "link": "https://doi.org/10.1364/OL.35.004193"
   },
   {
     "year": 2010,
-    "title": "Self-assembled aggregates formed by single-molecule magnets on a gold surface.",
-    "authors": "Saywell, A., Magnano, G., Satterley, C. J., Perdigão, L. M. A., Britton, A. J., Taleb, N., Del Carmen Giménez-López, M., Champness, N.",
-    "journal": "Nature Communications 2010 1:1, 1(1), 1–8",
+    "title": "Self-assembled aggregates formed by single-molecule magnets on a gold surface",
+    "authors": "Saywell, A., Magnano, G., Satterley, C. J., Perdigão, L. M. A., Britton, A. J., Taleb, N., Del Carmen Giménez-López, M., Champness, N. R., O’Shea, J. N., & Beton, P. H",
+    "journal": "(2010). Nature Communications 2010 1:1, 1(1), 1–8. https://doi.org/10.1038/ncomms1075",
     "link": "https://doi.org/10.1038/ncomms1075"
   },
   {
     "year": 2010,
-    "title": "Solubilized derivatives of perylenetetracarboxylic dianhydride (PTCDA) adsorbed on highly oriented pyrolytic graphite. Russell, J. C., Blunt, M. O., Goretzki, G., Phillips, A. G., Champness, N. R., & Beton, P. H. (2010). Langmuir, 26(6), 3972–3974. https://doi.org/10.1021/LA903335V",
-    "authors": "Supramolecular Assemblies Formed on an Epitaxial Graphene Superstructure. Pollard, A. J., Perkins, E. W., Smith, N. A., Saywell, A., Goretzki, G., Phillips, A. G., Argent, S. P., Sachdev, H., Müller, F., Hüfner, S., Gsell, S., Fischer, M., Schreck, M., Osterwalder, J., Greber, T., Berner, S., Champness, N. R., Beton, P. H., Pollard, A. J., … Schreck,",
-    "journal": "Angewandte Chemie International Edition, 49(10), 1794–1799",
+    "title": "Solubilized derivatives of perylenetetracarboxylic dianhydride (PTCDA) adsorbed on highly oriented pyrolytic graphite",
+    "authors": "Russell, J. C., Blunt, M. O., Goretzki, G., Phillips, A. G., Champness, N. R., & Beton, P. H",
+    "journal": "(2010). Langmuir, 26(6), 3972–3974. https://doi.org/10.1021/LA903335V",
+    "link": "https://doi.org/10.1021/LA903335V"
+  },
+  {
+    "year": 2010,
+    "title": "Supramolecular Assemblies Formed on an Epitaxial Graphene Superstructure",
+    "authors": "Pollard, A. J., Perkins, E. W., Smith, N. A., Saywell, A., Goretzki, G., Phillips, A. G., Argent, S. P., Sachdev, H., Müller, F., Hüfner, S., Gsell, S., Fischer, M., Schreck, M., Osterwalder, J., Greber, T., Berner, S., Champness, N. R., Beton, P. H., Pollard, A. J., … Schreck, M",
+    "journal": "(2010). Angewandte Chemie International Edition, 49(10), 1794–1799. https://doi.org/10.1002/ANIE.200905503",
     "link": "https://doi.org/10.1002/ANIE.200905503"
   },
   {
     "year": 2010,
-    "title": "Tailoring pores for guest entrapment in a unimolecular surface self-assembled hydrogen bonded network. Phillips, A. G., Perdigão, L. M. A., Beton, P. H., & Champness, N. R. (2010). Chemical Communications, 46(16), 2775–2777. https://doi.org/10.1039/B926824C",
-    "authors": "",
-    "journal": "Chemical Communications, 46(38), 7157–7159",
+    "title": "Tailoring pores for guest entrapment in a unimolecular surface self-assembled hydrogen bonded network",
+    "authors": "Phillips, A. G., Perdigão, L. M. A., Beton, P. H., & Champness, N. R",
+    "journal": "(2010). Chemical Communications, 46(16), 2775–2777. https://doi.org/10.1039/B926824C",
+    "link": "https://doi.org/10.1039/B926824C"
+  },
+  {
+    "year": 2010,
+    "title": "Templating molecular adsorption using a covalent organic framework",
+    "authors": "Blunt, M. O., Russell, J. C., Champness, N. R., & Beton, P. H",
+    "journal": "(2010). Chemical Communications, 46(38), 7157–7159. https://doi.org/10.1039/C0CC01810D",
     "link": "https://doi.org/10.1039/C0CC01810D"
   },
   {
     "year": 2010,
-    "title": "Theoretical and experimental comparison of SnPc, PbPc, and CoPc adsorption on Ag(111).",
-    "authors": "Baran, J. D., Larsson, J. A., Woolley, R. A. J., Cong, Y., Moriarty, P.",
-    "journal": "Physical Review B – Condensed Matter and Materials Physics, 81(7)",
+    "title": "Theoretical and experimental comparison of SnPc, PbPc, and CoPc adsorption on Ag(111)",
+    "authors": "Baran, J. D., Larsson, J. A., Woolley, R. A. J., Cong, Y., Moriarty, P. J., Cafolla, A. A., Schulte, K., & Dhanak, V. R",
+    "journal": "(2010). Physical Review B – Condensed Matter and Materials Physics, 81(7). https://doi.org/10.1103/PHYSREVB.81.075413",
     "link": "https://doi.org/10.1103/PHYSREVB.81.075413"
   },
   {
     "year": 2010,
-    "title": "Tuning perpendicular magnetic anisotropy in (Ga,Mn)(As,P) by thermal annealing.",
-    "authors": "Casiraghi, A., Rushforth, A. W., Wang, M., Farley, N. R. S., Wadley, P., Hall, J. L., Staddon, C. R., Edmonds, K. W., Campion, R. P., Foxon,",
-    "journal": "Applied Physics Letters, 97(12), 122504–122504",
-    "link": "https://doi.org/10.1063/1.3491841"
+    "title": "Tuning perpendicular magnetic anisotropy in (Ga,Mn)(As,P) by thermal annealing",
+    "authors": "Casiraghi, A., Rushforth, A. W., Wang, M., Farley, N. R. S., Wadley, P., Hall, J. L., Staddon, C. R., Edmonds, K. W., Campion, R. P., Foxon, C. T., & Gallagher, B. L",
+    "journal": "(2010). Applied Physics Letters, 97(12), 122504–122504. https://doi.org/10.1063/1.3491841/810395",
+    "link": "https://doi.org/10.1063/1.3491841/810395"
   },
   {
     "year": 2010,
-    "title": "Valence-state model of strain-dependent MnL2,3 x-ray magnetic circular dichroism from ferromagnetic semiconductors. Van Der Laan, G., Edmonds, K. W., Arenholz, E., Farley, N. R. S., & Gallagher, B. L. (2010). Physical Review B – Condensed Matter and Materials Physics, 81(21), 214422–214422. https://doi.org/10.1103/PHYSREVB.81.214422",
-    "authors": "Visualization of static Jahn-Teller effects in the fullerene anion C 60 -. Hands, I. D., Dunn, J. L., & Bates, C. A. (2010b). Physical Review B – Condensed Matter and Materials Physics, 82(15). https://doi.org/10.1103/PHYSREVB.82.155425 X-ray absorption and photoemission spectroscopy of zinc protoporphyrin adsorbed on rutile TiO2 (110)",
-    "journal": "Journal of Chemical Physics, 132(8), 84703–84703",
-    "link": "https://doi.org/10.1063/1.3336747"
+    "title": "Valence-state model of strain-dependent MnL2,3 x-ray magnetic circular dichroism from ferromagnetic semiconductors",
+    "authors": "Van Der Laan, G., Edmonds, K. W., Arenholz, E., Farley, N. R. S., & Gallagher, B. L",
+    "journal": "(2010). Physical Review B – Condensed Matter and Materials Physics, 81(21), 214422–214422. https://doi.org/10.1103/PHYSREVB.81.214422",
+    "link": "https://doi.org/10.1103/PHYSREVB.81.214422"
+  },
+  {
+    "year": 2010,
+    "title": "Visualization of static Jahn-Teller effects in the fullerene anion C 60 -",
+    "authors": "Hands, I. D., Dunn, J. L., & Bates, C. A",
+    "journal": "(2010b). Physical Review B – Condensed Matter and Materials Physics, 82(15). https://doi.org/10.1103/PHYSREVB.82.155425",
+    "link": "https://doi.org/10.1103/PHYSREVB.82.155425"
+  },
+  {
+    "year": 2010,
+    "title": "X-ray absorption and photoemission spectroscopy of zinc protoporphyrin adsorbed on rutile TiO2 (110) prepared by in situ electrospray deposition",
+    "authors": "Rienzo, A., Mayor, L. C., Magnano, G., Satterley, C. J., Ataman, E., Schnadt, J., Schulte, K., & O’Shea, J. N",
+    "journal": "(2010). Journal of Chemical Physics, 132(8), 84703–84703. https://doi.org/10.1063/1.3336747/188746",
+    "link": "https://doi.org/10.1063/1.3336747/188746"
   }
 ]

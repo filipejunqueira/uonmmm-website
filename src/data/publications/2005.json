@@ -1,128 +1,184 @@
 [
   {
     "year": 2005,
-    "title": "Surface self-assembly of the cyanuric acid–melamine hydrogen bonded network. Perdigão, L. M. A., Champness, N. R., & Beton, P. H. (2006). Chemical Communications, 5, 538–540. https://doi.org/10.1039/B514389F",
-    "authors": "",
-    "journal": "Physical Review B – Condensed Matter and Materials Physics, 72(8), 085201–085201",
+    "title": "Anisotropic magnetoresistance and magnetic anisotropy in high-quality (Ga,Mn)As films",
+    "authors": "Wang, K. Y., Edmonds, K. W., Campion, R. P., Zhao, L. X., Foxon, C. T., & Gallagher, B. L",
+    "journal": "(2005). Physical Review B – Condensed Matter and Materials Physics, 72(8), 085201–085201. https://doi.org/10.1103/PHYSREVB.72.085201",
     "link": "https://doi.org/10.1103/PHYSREVB.72.085201"
   },
   {
     "year": 2005,
-    "title": "Bond breaking coupled with translation in rolling of covalently bound molecules. Keeling, D. L., Humphry, M. J., Fawcett, R. H. J., Beton, P. H., Hobbs, C., & Kantorovich, L. (2005). Physical Review Letters, 94(14). https://doi.org/10.1103/PHYSREVLETT.94.146104",
-    "authors": "Bulk and surface charge states of K3 C60. Schiessling, J., Kjeldgaard, L., Käämbre, T., Marenne, I., O’Shea, J. N., Schnadt, J., Glover, C. J., Nagasono, M., Nordlund, D., Garnier, M. G., Qian, L., Rubensson, J. E., Rudolf, P., Mårtensson, N., Nordgren,",
-    "journal": "Physical Review B – Condensed Matter and Materials Physics, 71(16)",
+    "title": "Bond breaking coupled with translation in rolling of covalently bound molecules",
+    "authors": "Keeling, D. L., Humphry, M. J., Fawcett, R. H. J., Beton, P. H., Hobbs, C., & Kantorovich, L",
+    "journal": "(2005). Physical Review Letters, 94(14). https://doi.org/10.1103/PHYSREVLETT.94.146104",
+    "link": "https://doi.org/10.1103/PHYSREVLETT.94.146104"
+  },
+  {
+    "year": 2005,
+    "title": "Bulk and surface charge states of K3 C60",
+    "authors": "Schiessling, J., Kjeldgaard, L., Käämbre, T., Marenne, I., O’Shea, J. N., Schnadt, J., Glover, C. J., Nagasono, M., Nordlund, D., Garnier, M. G., Qian, L., Rubensson, J. E., Rudolf, P., Mårtensson, N., Nordgren, J., & Brühwiler, P. A",
+    "journal": "(2005). Physical Review B – Condensed Matter and Materials Physics, 71(16). https://doi.org/10.1103/PHYSREVB.71.165420",
     "link": "https://doi.org/10.1103/PHYSREVB.71.165420"
   },
   {
     "year": 2005,
-    "title": "(C6H5)5C60H at Si(111) (7×7) and Ag:Si(111) (3×3)R30deg; surfaces.",
-    "authors": "Phillips, M. A., O’Shea, J. N., Birkett, P. R., Purton, J., Kroto, H.",
-    "journal": "Physical Review B – Condensed Matter and Materials Physics, 72(7), 075426–075426",
+    "title": "(C6H5)5C60H at Si(111) (7×7) and Ag:Si(111) (3×3)R30deg; surfaces",
+    "authors": "Phillips, M. A., O’Shea, J. N., Birkett, P. R., Purton, J., Kroto, H. W., Walton, D. R. M., Taylor, R., & Moriarty, P",
+    "journal": "(2005). Physical Review B – Condensed Matter and Materials Physics, 72(7), 075426–075426. https://doi.org/10.1103/PHYSREVB.72.075426",
     "link": "https://doi.org/10.1103/PHYSREVB.72.075426"
   },
   {
     "year": 2005,
-    "title": "Determination of the Mn concentration in GaMnAs.",
-    "authors": "Zhao, L. X., Campion, R. P., Fewster, P. F., Martin, R. W., Ber, B. Y., Kovarsky, A. P., Staddon, C. R., Wang, K. Y., Edmonds, K. W., Foxon, C.",
-    "journal": "Semiconductor Science and Technology, 20(5), 369–369",
-    "link": "https://doi.org/10.1088/0268-1242/5/008"
+    "title": "Determination of the Mn concentration in GaMnAs",
+    "authors": "Zhao, L. X., Campion, R. P., Fewster, P. F., Martin, R. W., Ber, B. Y., Kovarsky, A. P., Staddon, C. R., Wang, K. Y., Edmonds, K. W., Foxon, C. T., & Gallagher, B. L",
+    "journal": "(2005). Semiconductor Science and Technology, 20(5), 369–369. https://doi.org/10.1088/0268-1242/20/5/008",
+    "link": "https://doi.org/10.1088/0268-1242/20/5/008"
   },
   {
     "year": 2005,
-    "title": "Microelectronics Journal, 36(3–6), 331–333. https://doi.org/10.1016/J.MEJO.2005.02.110",
-    "authors": "",
-    "journal": "Physical Review B – Condensed Matter and Materials Physics, 71(6), 064418–064418",
+    "title": "Electrical characterisation of (Ga,Mn,Cr)As thin films grown by molecular beam epitaxy",
+    "authors": "Ibáñez, J., Edmonds, K. W., Henini, M., Eaves, L., Pastor, D., Cuscó, R., Artús, L., & Akinaga, H",
+    "journal": "(2005). Journal of Crystal Growth, 278(1–4), 695–698. https://doi.org/10.1016/J.JCRYSGRO.2004.12.093",
+    "link": "https://doi.org/10.1016/J.JCRYSGRO.2004.12.093"
+  },
+  {
+    "year": 2005,
+    "title": "Evidence for a finite compressibility of a quasi-one-dimensional ballistic channel",
+    "authors": "Liang, C. T., Kataoka, M., Faini, G., Mailly, D., Simmons, M. Y., Rushforth, A. W., Smith, C. G., Ritchie, D. A., & Pepper, M",
+    "journal": "(2005). Microelectronics Journal, 36(3–6), 331–333. https://doi.org/10.1016/J.MEJO.2005.02.110",
+    "link": "https://doi.org/10.1016/J.MEJO.2005.02.110"
+  },
+  {
+    "year": 2005,
+    "title": "Ferromagnetic moment and antiferromagnetic coupling in (Ga,Mn)As thin films",
+    "authors": "Edmonds, K. W., Farley, N. R. S., Johal, T. K., Van Der Laan, G., Campion, R. P., Gallagher, B. L., & Foxon, C. T",
+    "journal": "(2005). Physical Review B – Condensed Matter and Materials Physics, 71(6), 064418–064418. https://doi.org/10.1103/PHYSREVB.71.064418",
     "link": "https://doi.org/10.1103/PHYSREVB.71.064418"
   },
   {
     "year": 2005,
-    "title": "(Ga,Mn)As grown on (311) GaAs substrates: Modified Mn incorporation and magnetic anisotropies. Wang, K. Y., Edmonds, K. W., Zhao, L. X., Sawicki, M., Campion, R. P., Gallagher, B. L., & Foxon, C. T. (2005). Physical Review B – Condensed Matter and Materials Physics, 72(11), 115207–115207. https://doi.org/10.1103/PHYSREVB.72.115207",
-    "authors": "",
-    "journal": "Langmuir, 21(5), 2038–2041",
+    "title": "(Ga,Mn)As grown on (311) GaAs substrates: Modified Mn incorporation and magnetic anisotropies",
+    "authors": "Wang, K. Y., Edmonds, K. W., Zhao, L. X., Sawicki, M., Campion, R. P., Gallagher, B. L., & Foxon, C. T",
+    "journal": "(2005). Physical Review B – Condensed Matter and Materials Physics, 72(11), 115207–115207. https://doi.org/10.1103/PHYSREVB.72.115207",
+    "link": "https://doi.org/10.1103/PHYSREVB.72.115207"
+  },
+  {
+    "year": 2005,
+    "title": "Growth induced reordering of fullerene clusters trapped in a two-dimensional supramolecular network",
+    "authors": "Theobald, J. A., Oxtoby, N. S., Champness, N. R., Beton, P. H., & Dennis, T. J. S",
+    "journal": "(2005). Langmuir, 21(5), 2038–2041. https://doi.org/10.1021/LA047533W",
     "link": "https://doi.org/10.1021/LA047533W"
   },
   {
     "year": 2005,
-    "title": "In-plane uniaxial anisotropy rotations in (Ga,Mn)As thin films.",
-    "authors": "Sawicki, M., Wang, K. Y., Edmonds, K. W., Campion, R. P., Staddon, C. R., Farley, N. R. S., Foxon, C. T., Papis, E., Kamiñska, E., Piotrowska,",
-    "journal": "Physical Review B – Condensed Matter and Materials Physics, 71(12), 121302–121302",
+    "title": "In-plane uniaxial anisotropy rotations in (Ga,Mn)As thin films",
+    "authors": "Sawicki, M., Wang, K. Y., Edmonds, K. W., Campion, R. P., Staddon, C. R., Farley, N. R. S., Foxon, C. T., Papis, E., Kamiñska, E., Piotrowska, A., Dietl, T., & Gallagher, B. L",
+    "journal": "(2005). Physical Review B – Condensed Matter and Materials Physics, 71(12), 121302–121302. https://doi.org/10.1103/PHYSREVB.71.121302",
     "link": "https://doi.org/10.1103/PHYSREVB.71.121302"
   },
   {
     "year": 2005,
-    "title": "Intrinsic and extrinsic contributions to the lattice parameter of GaMnAs. Zhao, L. X., Staddon, C. R., Wang, K. Y., Edmonds, K. W., Campion, R. P., Gallagher, B. L., & Foxon, C. T. (2005). Applied Physics Letters, 86(7), 1–3. https://doi.org/10.1063/1.1864238/237763",
-    "authors": "Large tunneling anisotropic magnetoresistance in (Ga,Mn)as nanoconstrictions. Giddings, A. D., Khalid, M. N., Jungwirth, T., Wunderlich, J., Yasin, S., Campion, R. P., Edmonds, K. W., Sinova, J., Ito, K., Wang, K. Y.,",
-    "journal": "Physical Review Letters, 94(12), 127202–127202",
+    "title": "Intrinsic and extrinsic contributions to the lattice parameter of GaMnAs",
+    "authors": "Zhao, L. X., Staddon, C. R., Wang, K. Y., Edmonds, K. W., Campion, R. P., Gallagher, B. L., & Foxon, C. T",
+    "journal": "(2005). Applied Physics Letters, 86(7), 1–3. https://doi.org/10.1063/1.1864238/237763",
+    "link": "https://doi.org/10.1063/1.1864238/237763"
+  },
+  {
+    "year": 2005,
+    "title": "Large tunneling anisotropic magnetoresistance in (Ga,Mn)as nanoconstrictions",
+    "authors": "Giddings, A. D., Khalid, M. N., Jungwirth, T., Wunderlich, J., Yasin, S., Campion, R. P., Edmonds, K. W., Sinova, J., Ito, K., Wang, K. Y., Williams, D., Gallagher, B. L., & Foxon, C. T",
+    "journal": "(2005). Physical Review Letters, 94(12), 127202–127202. https://doi.org/10.1103/PHYSREVLETT.94.127202",
     "link": "https://doi.org/10.1103/PHYSREVLETT.94.127202"
   },
   {
     "year": 2005,
-    "title": "Mn doping and p-type conductivity in zinc-blende GaMnN layers grown by molecular beam epitaxy.",
-    "authors": "Novikov, S. V., Edmonds, ; K W, Zhao, ; L X, Giddings, ; A D, Wang, ; K Y, Campion, ; R P, Staddon, ; C R, Fay, ; M W, Han, ; Y, Brown, ; P D, Sawicki, ; M, Gallagher, ; B L, Foxon, ; C T, Edmonds, K. W., Zhao, L. X., Giddings, A. D., Wang, K. Y., Campion, R. P., Staddon, C. R., …",
-    "journal": "Journal of Vacuum Science & Technology B: Microelectronics and Nanometer Structures Processing, Measurement, and Phenomena, 23(3), 1294–1298",
+    "title": "Mn doping and p-type conductivity in zinc-blende GaMnN layers grown by molecular beam epitaxy",
+    "authors": "Novikov, S. V., Edmonds, ; K W, Zhao, ; L X, Giddings, ; A D, Wang, ; K Y, Campion, ; R P, Staddon, ; C R, Fay, ; M W, Han, ; Y, Brown, ; P D, Sawicki, ; M, Gallagher, ; B L, Foxon, ; C T, Edmonds, K. W., Zhao, L. X., Giddings, A. D., Wang, K. Y., Campion, R. P., Staddon, C. R., … Foxon, C. T",
+    "journal": "(2005). Journal of Vacuum Science & Technology B: Microelectronics and Nanometer Structures Processing, Measurement, and Phenomena, 23(3), 1294–1298. https://doi.org/10.1116/1.1868699",
     "link": "https://doi.org/10.1116/1.1868699"
   },
   {
     "year": 2005,
-    "title": "Molecular beam epitaxy of p-type cubic GaMnN layers.",
-    "authors": "Foxon, C. T., Novikov, S. V., Zhao, L. X., Edmonds, K. W., Giddings, A. D., Wang, K. Y., Campion, R. P., Staddon, C. R., Fay, M. W., Han, Y.,",
-    "journal": "Journal of Crystal Growth, 278(1–4), 685–689",
+    "title": "Molecular beam epitaxy of p-type cubic GaMnN layers",
+    "authors": "Foxon, C. T., Novikov, S. V., Zhao, L. X., Edmonds, K. W., Giddings, A. D., Wang, K. Y., Campion, R. P., Staddon, C. R., Fay, M. W., Han, Y., Brown, P. D., Sawicki, M., & Gallagher, B. L",
+    "journal": "(2005). Journal of Crystal Growth, 278(1–4), 685–689. https://doi.org/10.1016/J.JCRYSGRO.2004.12.112",
     "link": "https://doi.org/10.1016/J.JCRYSGRO.2004.12.112"
   },
   {
     "year": 2005,
-    "title": "Molecular orbitals tell the story. O’Shea, J. N. (2005). Science, 310(5747), 453–454. https://doi.org/10.1126/SCIENCE.1119274",
-    "authors": "Phase and molecular orientation in metal-free phthalocyanine films on conducting glass: Characterization of two deposition methods. Alfredsson, Y., Åhlund, J., Nilson, K., Kjeldgaard, L., O’Shea, J. N., Theobald, J., Bao, Z., Mårtensson, N.,",
-    "journal": "Thin Solid Films, 493(1–2), 13–19",
+    "title": "Molecular orbitals tell the story",
+    "authors": "O’Shea, J. N",
+    "journal": "(2005). Science, 310(5747), 453–454. https://doi.org/10.1126/SCIENCE.1119274",
+    "link": "https://doi.org/10.1126/SCIENCE.1119274"
+  },
+  {
+    "year": 2005,
+    "title": "Phase and molecular orientation in metal-free phthalocyanine films on conducting glass: Characterization of two deposition methods",
+    "authors": "Alfredsson, Y., Åhlund, J., Nilson, K., Kjeldgaard, L., O’Shea, J. N., Theobald, J., Bao, Z., Mårtensson, N., Sandell, A., Puglia, C., & Siegbahn, H",
+    "journal": "(2005). Thin Solid Films, 493(1–2), 13–19. https://doi.org/10.1016/J.TSF.2005.05.012",
     "link": "https://doi.org/10.1016/J.TSF.2005.05.012"
   },
   {
     "year": 2005,
-    "title": "Photoelectron spectroscopy study of Ga1−xMnxAs(0 0 1) surface oxide and low temperature cleaning.",
-    "authors": "Hatfield, S. A., Veal, T. D., McConville, C. F., Bell, G. R., Edmonds,",
-    "journal": "Surface Science, 585(1–2), 66–74",
+    "title": "Photoelectron spectroscopy study of Ga1−xMnxAs(0 0 1) surface oxide and low temperature cleaning",
+    "authors": "Hatfield, S. A., Veal, T. D., McConville, C. F., Bell, G. R., Edmonds, K. W., Campion, R. P., Foxon, C. T., & Gallagher, B. L",
+    "journal": "(2005). Surface Science, 585(1–2), 66–74. https://doi.org/10.1016/J.SUSC.2005.04.012",
     "link": "https://doi.org/10.1016/J.SUSC.2005.04.012"
   },
   {
     "year": 2005,
-    "title": "Prospects for high temperature ferromagnetism in (Ga,Mn)As semiconductors.",
-    "authors": "Jungwirth, T., Wang, K. Y., Mašek, J., Edmonds, K. W., König, J., Sinova, J., Polini, M., Goncharuk, N. A., MacDonald, A. H., Sawicki, M., Rushforth, A. W., Campion, R. P., Zhao, L. X., Foxon, C. T., &",
-    "journal": "Physical Review B – Condensed Matter and Materials Physics, 72(16), 165204–165204",
-    "link": "https://doi.org/10.1103/PHYSREVB.72.165204"
+    "title": "P-type conductivity in cubic (Ga,Mn)N thin films",
+    "authors": "Edmonds, K. W., Novikov, S. V., Sawicki, M., Campion, R. P., Staddon, C. R., Giddings, A. D., Zhao, L. X., Wang, K. Y., Dietl, T., Foxon, C. T., & Gallagher, B. L",
+    "journal": "(2005). Applied Physics Letters, 86(15), 1–3. https://doi.org/10.1063/1.1900924/899192",
+    "link": "https://doi.org/10.1063/1.1900924/899192"
   },
   {
     "year": 2005,
-    "title": "P-type conductivity in cubic (Ga,Mn)N thin films.",
-    "authors": "Edmonds, K. W., Novikov, S. V., Sawicki, M., Campion, R. P., Staddon, C. R., Giddings, A. D., Zhao, L. X., Wang, K. Y., Dietl, T., Foxon, C.",
-    "journal": "Applied Physics Letters, 86(15), 1–3",
-    "link": "https://doi.org/10.1063/1.1900924"
+    "title": "Spin reorientation transition in single-domain (Ga,Mn)as",
+    "authors": "Wang, K. Y., Sawicki, M., Edmonds, K. W., Campion, R. P., Maat, S., Foxon, C. T., Gallagher, B. L., & Dietl, T",
+    "journal": "(2005). Physical Review Letters, 95(21), 217204–217204. https://doi.org/10.1103/PHYSREVLETT.95.217204",
+    "link": "https://doi.org/10.1103/PHYSREVLETT.95.217204"
   },
   {
     "year": 2005,
-    "title": "Spin reorientation transition in single-domain (Ga,Mn)as. Wang, K. Y., Sawicki, M., Edmonds, K. W., Campion, R. P., Maat, S., Foxon, C. T., Gallagher, B. L., & Dietl, T. (2005). Physical Review Letters, 95(21), 217204–217204. https://doi.org/10.1103/PHYSREVLETT.95.217204",
-    "authors": "Square, hexagonal, and row phases of PTCDA and PTCDI on Ag-Si(111)√3 × √3R30°. Swarbrick, J. C., Ma, J., Theobald, J. A., Oxtoby, N. S., O’Shea, J. N., Champness, N. R., & Beton, P. H. (2005a). Journal of Physical Chemistry B, 109(24), 12167–12174. https://doi.org/10.1021/JP0508305 Structural characterisation of zinc-blende Ga1−xMnxN epilayers grown by MBE as a function of Ga flux. Han, Y., Fay, M. W., Brown, P. D., Novikov, S. V., Edmonds, K. W., Gallagher, B. L., Campion, R. P., Staddon, C. R., & Foxon, C. T.",
-    "journal": "Journal of Crystal Growth, 284(3–4), 324–334",
+    "title": "Square, hexagonal, and row phases of PTCDA and PTCDI on Ag-Si(111)√3 × √3R30°",
+    "authors": "Swarbrick, J. C., Ma, J., Theobald, J. A., Oxtoby, N. S., O’Shea, J. N., Champness, N. R., & Beton, P. H",
+    "journal": "(2005a). Journal of Physical Chemistry B, 109(24), 12167–12174. https://doi.org/10.1021/JP0508305",
+    "link": "https://doi.org/10.1021/JP0508305"
+  },
+  {
+    "year": 2005,
+    "title": "Structural characterisation of zinc-blende Ga1−xMnxN epilayers grown by MBE as a function of Ga flux",
+    "authors": "Han, Y., Fay, M. W., Brown, P. D., Novikov, S. V., Edmonds, K. W., Gallagher, B. L., Campion, R. P., Staddon, C. R., & Foxon, C. T",
+    "journal": "(2005). Journal of Crystal Growth, 284(3–4), 324–334. https://doi.org/10.1016/J.JCRYSGRO.2005.07.015",
     "link": "https://doi.org/10.1016/J.JCRYSGRO.2005.07.015"
   },
   {
     "year": 2005,
-    "title": "Time-resolved light scattering studies of phase separation in thin film semiconducting polymer blends during spin-coating. Jukes, P. C., Heriot, S. Y., Sharp, J. S., & Jones, R. A. L. (2005). Macromolecules, 38(6), 2030–2032. https://doi.org/10.1021/MA0477145",
-    "authors": "",
-    "journal": "Applied Physics Letters, 87(21), 1–3",
-    "link": "https://doi.org/10.1063/1.2132525"
+    "title": "Time-resolved light scattering studies of phase separation in thin film semiconducting polymer blends during spin-coating",
+    "authors": "Jukes, P. C., Heriot, S. Y., Sharp, J. S., & Jones, R. A. L",
+    "journal": "(2005). Macromolecules, 38(6), 2030–2032. https://doi.org/10.1021/MA0477145",
+    "link": "https://doi.org/10.1021/MA0477145"
   },
   {
     "year": 2005,
-    "title": "Well-shielded cerium atoms: Electronic structure of adsorbed Ce@C 82 on Si surfaces. Schulte, K., Wang, L., Moriarty, P. J., Purton, J., Patel, S., Shinohara, H., Kanai, M., & Dennis, T. J. S. (2005). Physical Review B – Condensed Matter and Materials Physics, 71(11). https://doi.org/10.1103/PHYSREVB.71.115437",
-    "authors": "",
-    "journal": "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, 547(1), 208–215",
+    "title": "Variable temperature magnetic force microscopy with piezoelectric quartz tuning forks as probes optimized using Q -control",
+    "authors": "Callaghan, F. D., Yu, X., & Mellor, C. J",
+    "journal": "(2005). Applied Physics Letters, 87(21), 1–3. https://doi.org/10.1063/1.2132525/328386",
+    "link": "https://doi.org/10.1063/1.2132525/328386"
+  },
+  {
+    "year": 2005,
+    "title": "Well-shielded cerium atoms: Electronic structure of adsorbed Ce@C 82 on Si surfaces",
+    "authors": "Schulte, K., Wang, L., Moriarty, P. J., Purton, J., Patel, S., Shinohara, H., Kanai, M., & Dennis, T. J. S",
+    "journal": "(2005). Physical Review B – Condensed Matter and Materials Physics, 71(11). https://doi.org/10.1103/PHYSREVB.71.115437",
+    "link": "https://doi.org/10.1103/PHYSREVB.71.115437"
+  },
+  {
+    "year": 2005,
+    "title": "XSW feasibility study of C60Ph5–OH on Ag(1 1 1): Combining hard X-rays, low Z and, low coverage",
+    "authors": "Schulte, K., Woolley, R. A. J., Wang, L., Moriarty, P. J., Birkett, P. R., Kroto, H. W., & Cowie, B. C. C",
+    "journal": "(2005). Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, 547(1), 208–215. https://doi.org/10.1016/J.NIMA.2005.05.026",
     "link": "https://doi.org/10.1016/J.NIMA.2005.05.026"
-  },
-  {
-    "year": 2005,
-    "title": "Effect of sample preparation on the glass-transition of thin polystyrene films. Fakhraai, Z., Sharp, J. S., & Forrest, J. A. (2004). Journal of Polymer Science Part B: Polymer Physics, 42(24), 4503–4507. https://doi.org/10.1002/POLB.20281",
-    "authors": "",
-    "journal": "Langmuir, 21(5), 2038–2041",
-    "link": "https://doi.org/10.1021/LA047533W"
   }
 ]

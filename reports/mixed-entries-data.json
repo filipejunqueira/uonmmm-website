@@ -1,0 +1,1711 @@
+{
+  "mixedEntries": [
+    {
+      "file": "2000.json",
+      "year": "2000",
+      "index": 3,
+      "publication": {
+        "year": 2000,
+        "title": "Growth and modification of Ag islands on hydrogen terminated Si(100) surfaces. Butcher, M. J., Jones, F. H., & Beton, P. H. (2000). Journal of Vacuum Science & Technology B: Microelectronics and Nanometer Structures Processing, Measurement, and Phenomena, 18(1), 13–15. https://doi.org/10.1116/1.591142",
+        "authors": "N 1s x-ray absorption study of the bonding interaction of bi-isonicotinic acid adsorbed on rutile TiO 2 (110). Persson, P., Lunell, S., Brühwiler, P. A., Schnadt, J., Södergren, S., O’shea, J. N., Karis, O., Siegbahn, H., Mårtensson, N., Bässler, M.,",
+        "journal": "J. Chem. Phys, 112, 3945–3948",
+        "link": "https://doi.org/10.1063/1.480945"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Title contains full citation with authors and year",
+        "DOI mismatch: title has 10.1116/1.591142, link has 10.1063/1.480945"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2001.json",
+      "year": "2001",
+      "index": 2,
+      "publication": {
+        "year": 2001,
+        "title": "Magnetic force microscopy studies of the domain structure of Co/Pd multilayers in a magnetic field. Rushforth, A. W., Main, P. C., Gallagher, B. L., Marrows, C. H., Hickey, B. J., Dahlberg, E. D., & Eames, P. (2001). Journal of Applied Physics, 89(11), 7534–7536. https://doi.org/10.1063/1.1359792",
+        "authors": "",
+        "journal": "Reports on Progress in Physics, 64(3), 297–297",
+        "link": "https://doi.org/10.1088/0034-4885/3/201"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Title contains full citation with authors and year",
+        "Authors field empty but title contains author information",
+        "DOI mismatch: title has 10.1063/1.1359792, link has 10.1088/0034-4885/3/201",
+        "Volume/page mismatch between title and journal fields"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2004.json",
+      "year": "2004",
+      "index": 0,
+      "publication": {
+        "year": 2004,
+        "title": "Anisotropic magnetoresistance in a two-dimensional electron gas in a quasirandom magnetic field. Rushforth, A. W., Gallagher, B. L., Main, P. C., Neumann, A. C., Henini, M., Marrows, C. H., & Mickey, B. J. (2004). Physical Review B – Condensed Matter and Materials Physics, 70(19), 1–4. https://doi.org/10.1103/PHYSREVB.70.193313",
+        "authors": "Comment on “X-Ray Studies of the Structure and Electronic Behavior of Alkanethiolate-Capped Gold",
+        "journal": "Physical Review Letters, 92(10)",
+        "link": "https://doi.org/10.1103/PhysRevLett.92.109601"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Title contains full citation with authors and year",
+        "DOI mismatch: title has 10.1103/PHYSREVB.70.193313, link has 10.1103/PhysRevLett.92.109601"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2004.json",
+      "year": "2004",
+      "index": 8,
+      "publication": {
+        "year": 2004,
+        "title": "Noninvasive detection of the evolution of the charge states of a double dot system. Rushforth, A. W., Smith, C. G., Godfrey, M. D., Beere, H. E., Ritchie, D. A., & Pepper, M. (2004a). Physical Review B, 69(11), 113309–113309. https://doi.org/10.1103/PhysRevB.69.113309",
+        "authors": "Non-invasive detection of the ionic and covalent charge states of an isolated double dot system. Rushforth, A. W., Smith, C. G., Godfrey, M. D., Beere, H. E., Ritchie, D. A., & Pepper, M. (2004b). Physica E: Low-Dimensional Systems and Nanostructures, 22(1–3), 522–525. https://doi.org/10.1016/J.PHYSE.2003.12.060",
+        "journal": "Journal of Materials Chemistry, 14(7), 1087–1092",
+        "link": "https://doi.org/10.1039/B313271D"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "DOI mismatch: title has 10.1103/PhysRevB.69.113309, link has 10.1039/B313271D",
+        "Volume/page mismatch between title and journal fields"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2005.json",
+      "year": "2005",
+      "index": 15,
+      "publication": {
+        "year": 2005,
+        "title": "Time-resolved light scattering studies of phase separation in thin film semiconducting polymer blends during spin-coating. Jukes, P. C., Heriot, S. Y., Sharp, J. S., & Jones, R. A. L. (2005). Macromolecules, 38(6), 2030–2032. https://doi.org/10.1021/MA0477145",
+        "authors": "",
+        "journal": "Applied Physics Letters, 87(21), 1–3",
+        "link": "https://doi.org/10.1063/1.2132525"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Title contains full citation with authors and year",
+        "Authors field empty but title contains author information",
+        "DOI mismatch: title has 10.1021/MA0477145, link has 10.1063/1.2132525",
+        "Volume/page mismatch between title and journal fields"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2005.json",
+      "year": "2005",
+      "index": 17,
+      "publication": {
+        "year": 2005,
+        "title": "Effect of sample preparation on the glass-transition of thin polystyrene films. Fakhraai, Z., Sharp, J. S., & Forrest, J. A. (2004). Journal of Polymer Science Part B: Polymer Physics, 42(24), 4503–4507. https://doi.org/10.1002/POLB.20281",
+        "authors": "",
+        "journal": "Langmuir, 21(5), 2038–2041",
+        "link": "https://doi.org/10.1021/LA047533W"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Title contains full citation with authors and year",
+        "Authors field empty but title contains author information",
+        "DOI mismatch: title has 10.1002/POLB.20281, link has 10.1021/LA047533W",
+        "Volume/page mismatch between title and journal fields"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2007.json",
+      "year": "2007",
+      "index": 7,
+      "publication": {
+        "year": 2007,
+        "title": "Electrospray deposition of carbon nanotubes in vacuum. O’Shea, J. N., Taylor, J. B., Swarbrick, J. C., Magnano, G., Mayor, L. C., & Schulte, K. (2007). Nanotechnology, 18(3), 035707–035707. https://doi.org/10.1088/0957-4484/18/3/035707",
+        "authors": "Electrospray deposition of fullerenes in ultra-high vacuum: In situ scanning tunnelingmicroscopy and photoemission spectroscopy. Satterley, C. J., Perdigão, L. M. A., Saywell, A., Magnano, G., Rienzo, A., Mayor, L. C., Dhanak, V. R., Beton, P. H., & O’Shea, J. N.",
+        "journal": "Nanotechnology, 18(45), 455304–455304",
+        "link": "https://doi.org/10.1088/0957-4484/45/455304"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Title contains full citation with authors and year",
+        "DOI mismatch: title has 10.1088/0957-4484/18/3/035707, link has 10.1088/0957-4484/45/455304",
+        "Volume/page mismatch between title and journal fields"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2007.json",
+      "year": "2007",
+      "index": 10,
+      "publication": {
+        "year": 2007,
+        "title": "Measuring the hole chemical potential in ferromagnetic Ga1-x Mnx AsGaAs heterostructures by photoexcited resonant tunneling. Thomas, O., Makarovsky, O., Pataǹ, A., Eaves, L., Campion, R. P., Edmonds, K. W., Foxon, C. T., & Gallagher, B. L. (2007). Applied Physics Letters, 90(8). https://doi.org/10.1063/1.2709624/129029",
+        "authors": "Microstructural characterization of low-temperature grown GaMnN on GaAs(0 0 1) substrates by plasma-assisted MBE. Han, Y., Fay, M. W., Brown, P. D., Novikov, S. V., Edmonds, K. W.,",
+        "journal": "Semiconductor Science and Technology, 22(10), 1131–1131",
+        "link": "https://doi.org/10.1088/0268-1242/10/009"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Title contains full citation with authors and year",
+        "DOI mismatch: title has 10.1063/1.2709624/129029, link has 10.1088/0268-1242/10/009"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2008.json",
+      "year": "2008",
+      "index": 0,
+      "publication": {
+        "year": 2008,
+        "title": "A compact combined ultrahigh vacuum scanning tunnelling microscope (UHV STM) and near-field optical microscope. Woolley, R. A. J., Hayton, J. A., Cavill, S., Ma, J., Beton, P. H., & Moriarty, P. (2008). Measurement Science and Technology, 19(4), 045301–045301. https://doi.org/10.1088/0957-0233/19/4/045301",
+        "authors": "",
+        "journal": "Applied Physics Letters, 93(13), 132103–132103",
+        "link": "https://doi.org/10.1063/1.2992200"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Title contains full citation with authors and year",
+        "Authors field empty but title contains author information",
+        "DOI mismatch: title has 10.1088/0957-0233/19/4/045301, link has 10.1063/1.2992200",
+        "Volume/page mismatch between title and journal fields"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2008.json",
+      "year": "2008",
+      "index": 4,
+      "publication": {
+        "year": 2008,
+        "title": "Physical Review Letters, 100(4), 047202–047202. https://doi.org/10.1103/PHYSREVLETT.100.047202",
+        "authors": "",
+        "journal": "Journal of Physical Chemistry C, 112(39), 15195–15203",
+        "link": "https://doi.org/10.1021/JP803399D"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Authors field empty but title contains author information",
+        "DOI mismatch: title has 10.1103/PHYSREVLETT.100.047202, link has 10.1021/JP803399D",
+        "Volume/page mismatch between title and journal fields"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2008.json",
+      "year": "2008",
+      "index": 5,
+      "publication": {
+        "year": 2008,
+        "title": "Electrospray deposition of C60 on a hydrogen-bonded supramolecular network. Saywell, A., Magnano, G., Satterley, C. J., Perdigão, L. M. A., Champness, N. R., Beton, P. H., & O’Shea, J. N. (2008). Journal of Physical Chemistry C, 112(20), 7706–7709. https://doi.org/10.1021/JP7119944",
+        "authors": "",
+        "journal": "Journal of Physics: Conference Series, 100(1), 012017–012017",
+        "link": "https://doi.org/10.1088/1742-6596/1/012017"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Title contains full citation with authors and year",
+        "Authors field empty but title contains author information",
+        "DOI mismatch: title has 10.1021/JP7119944, link has 10.1088/1742-6596/1/012017",
+        "Volume/page mismatch between title and journal fields"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2008.json",
+      "year": "2008",
+      "index": 16,
+      "publication": {
+        "year": 2008,
+        "title": "Molecular damage in bi-isonicotinic acid adsorbed on rutile TiO2(1 1 0). O’Shea, J. N., Taylor, J. B., Mayor, L. C., Swarbrick, J. C., & Schnadt, J. (2008). Surface Science, 602(9), 1693–1698. https://doi.org/10.1016/J.SUSC.2008.03.005",
+        "authors": "Nanoscale Characterisation of MBE-Grown GaMnN/(001) GaAs. Fay, M. W., Han, Y., Novikov, S. V., Edmonds, K. W., Gallagher, B. L.,",
+        "journal": "Microscopy of Semiconducting Materials 2007, 103–106",
+        "link": "https://doi.org/10.1007/978-1-4020-8615-1_23"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Title contains full citation with authors and year",
+        "DOI mismatch: title has 10.1016/J.SUSC.2008.03.005, link has 10.1007/978-1-4020-8615-1_23"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2009.json",
+      "year": "2009",
+      "index": 0,
+      "publication": {
+        "year": 2009,
+        "title": "A low field technique for measuring magnetic and magnetoresistance anisotropy coefficients applied to (Ga,Mn)As. Haigh, J. A., Rushforth, A. W., King, C. S., Edmonds, K. W., Campion, R. P., Foxon, C. T., & Gallagher, B. L. (2009). Applied Physics Letters, 95(23), 232102–232102. https://doi.org/10.1063/1.3268789/120838",
+        "authors": "",
+        "journal": "Journal of Chemical Physics, 130(16), 164704–164704",
+        "link": "https://doi.org/10.1063/1.3122685"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Title contains full citation with authors and year",
+        "Authors field empty but title contains author information",
+        "DOI mismatch: title has 10.1063/1.3268789/120838, link has 10.1063/1.3122685",
+        "Volume/page mismatch between title and journal fields"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2009.json",
+      "year": "2009",
+      "index": 6,
+      "publication": {
+        "year": 2009,
+        "title": "Langmuir–Blodgett films of C60 and C60O on Silicon: Islands, rings and grains. Yan, C., Dybek, A., Hanson, C., Schulte, K., Cafolla, A. A., Dennis, J., & Moriarty, P. (2009). Thin Solid Films, 517(5), 1650–1654. https://doi.org/10.1016/J.TSF.2008.10.015",
+        "authors": "Manipulation of the magnetic configuration of (Ga,Mn)As nanostructures. Haigh, J. A., Wang, M., Rushforth, A. W., Ahmad, E., Edmonds, K. W.,",
+        "journal": "Applied Physics Letters, 95(6), 62502–62502",
+        "link": "https://doi.org/10.1063/1.3200242"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Title contains full citation with authors and year",
+        "DOI mismatch: title has 10.1016/J.TSF.2008.10.015, link has 10.1063/1.3200242",
+        "Volume/page mismatch between title and journal fields"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2009.json",
+      "year": "2009",
+      "index": 7,
+      "publication": {
+        "year": 2009,
+        "title": "Microscopic mechanism of the noncrystalline anisotropic magnetoresistance in (Ga,Mn)As. Výborný, K., Kučera, J., Sinova, J., Rushforth, A. W., Gallagher, B. L., & Jungwirth, T. (2009). Physical Review B – Condensed Matter and Materials Physics, 80(16), 165204–165204. https://doi.org/10.1103/PHYSREVB.80.165204",
+        "authors": "Modelling approaches to the dewetting of evaporating thin films of nanoparticle suspensions. Thiele, U., Vancea, I., Archer, A. J., Robbins, M. J., Frastia, L., Stannard, A., Pauliac-Vaujour, E., Martin, C. P., Blunt, M. O., &",
+        "journal": "Journal of Physics: Condensed Matter, 21(26), 264016–264016",
+        "link": "https://doi.org/10.1088/0953-8984/26/264016"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Title contains full citation with authors and year",
+        "DOI mismatch: title has 10.1103/PHYSREVB.80.165204, link has 10.1088/0953-8984/26/264016",
+        "Volume/page mismatch between title and journal fields"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2009.json",
+      "year": "2009",
+      "index": 8,
+      "publication": {
+        "year": 2009,
+        "title": "Physica Status Solidi (b), 246(7), 1435–1439. https://doi.org/10.1002/PSSB.200945209",
+        "authors": "",
+        "journal": "Applied Physics Letters, 95(6), 63112–63112",
+        "link": "https://doi.org/10.1063/1.3197595"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Authors field empty but title contains author information",
+        "DOI mismatch: title has 10.1002/PSSB.200945209, link has 10.1063/1.3197595",
+        "Volume/page mismatch between title and journal fields"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2010.json",
+      "year": "2010",
+      "index": 3,
+      "publication": {
+        "year": 2010,
+        "title": "Calculation of images of oriented C60 molecules using molecular orbital theory. Hands, I. D., Dunn, J. L., & Bates, C. A. (2010a). Physical Review B – Condensed Matter and Materials Physics, 81(20). https://doi.org/10.1103/PHYSREVB.81.205440",
+        "authors": "",
+        "journal": "Journal of Chemical Physics, 133(9), 94705–94705",
+        "link": "https://doi.org/10.1063/1.3488299"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Authors field empty but title contains author information",
+        "DOI mismatch: title has 10.1103/PHYSREVB.81.205440, link has 10.1063/1.3488299"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2010.json",
+      "year": "2010",
+      "index": 10,
+      "publication": {
+        "year": 2010,
+        "title": "Fullerene adsorption on semiconductor surfaces. Moriarty, P. J. (2010). Surface Science Reports, 65(7), 175–227. https://doi.org/10.1016/J.SURFREP.2010.08.001",
+        "authors": "Guest-induced growth of a surface-based supramolecular bilayer. Blunt, M. O., Russell, J. C., Gimenez-Lopez, M. D. C., Taleb, N., Lin,",
+        "journal": "Nature Chemistry 2010 3:1, 3(1), 74–78",
+        "link": "https://doi.org/10.1038/nchem.901"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Title contains full citation with authors and year",
+        "DOI mismatch: title has 10.1016/J.SURFREP.2010.08.001, link has 10.1038/nchem.901",
+        "Volume/page mismatch between title and journal fields"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2010.json",
+      "year": "2010",
+      "index": 21,
+      "publication": {
+        "year": 2010,
+        "title": "Valence-state model of strain-dependent MnL2,3 x-ray magnetic circular dichroism from ferromagnetic semiconductors. Van Der Laan, G., Edmonds, K. W., Arenholz, E., Farley, N. R. S., & Gallagher, B. L. (2010). Physical Review B – Condensed Matter and Materials Physics, 81(21), 214422–214422. https://doi.org/10.1103/PHYSREVB.81.214422",
+        "authors": "Visualization of static Jahn-Teller effects in the fullerene anion C 60 -. Hands, I. D., Dunn, J. L., & Bates, C. A. (2010b). Physical Review B – Condensed Matter and Materials Physics, 82(15). https://doi.org/10.1103/PHYSREVB.82.155425 X-ray absorption and photoemission spectroscopy of zinc protoporphyrin adsorbed on rutile TiO2 (110)",
+        "journal": "Journal of Chemical Physics, 132(8), 84703–84703",
+        "link": "https://doi.org/10.1063/1.3336747"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Title contains full citation with authors and year",
+        "Authors field contains journal information",
+        "DOI mismatch: title has 10.1103/PHYSREVB.81.214422, link has 10.1063/1.3336747",
+        "Volume/page mismatch between title and journal fields"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2011.json",
+      "year": "2011",
+      "index": 1,
+      "publication": {
+        "year": 2011,
+        "title": "Rapid acquisition of Raman spectral maps through minimal sampling: Applications in tissue imaging. Rowlands, C. J., Varma, S., Perkins, W., Leach, I., Williams, H., & Notingher, I. (2012). Journal of Biophotonics, 5(3), 220–229. https://doi.org/10.1002/JBIO.201100098",
+        "authors": "Resonant properties of sessile droplets; contact angle dependence of the resonant frequency and width in",
+        "journal": "Soft Matter, 8(2), 399–407",
+        "link": "https://doi.org/10.1039/C1SM06916K"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Title contains full citation with authors and year",
+        "DOI mismatch: title has 10.1002/JBIO.201100098, link has 10.1039/C1SM06916K",
+        "Volume/page mismatch between title and journal fields"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2011.json",
+      "year": "2011",
+      "index": 3,
+      "publication": {
+        "year": 2011,
+        "title": "Automated probe microscopy via evolutionary optimization at the atomic scale. Woolley, R. A. J., Stirling, J., Radocea, A., Krasnogor, N., & Moriarty, P. (2011). Applied Physics Letters, 98(25). https://doi.org/10.1063/1.3600662/340700",
+        "authors": "Broken symmetry and the variation of critical properties in the phase behaviour of supramolecular rhombus tilings. Stannard, A., Russell, J. C., Blunt, M. O., Salesiotis, C., Giménez-López, M. D. C., Taleb, N., Schröder, M., Champness, N. R.,",
+        "journal": "Nature Chemistry 2011 4:2, 4(2), 112–117",
+        "link": "https://doi.org/10.1038/nchem.1199"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Title contains full citation with authors and year",
+        "DOI mismatch: title has 10.1063/1.3600662/340700, link has 10.1038/nchem.1199"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2011.json",
+      "year": "2011",
+      "index": 5,
+      "publication": {
+        "year": 2011,
+        "title": "Charge transfer dynamics of model charge transfer centers of a multicenter water splitting dye complex on rutile TiO2(110). Weston, M., Britton, A. J., & O’Shea, J. N. (2011). Journal of Chemical Physics, 134(5), 54705–54705. https://doi.org/10.1063/1.3549573/983577",
+        "authors": "",
+        "journal": "Journal of Chemical Physics, 135(16), 164702–164702",
+        "link": "https://doi.org/10.1063/1.3656682"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Title contains full citation with authors and year",
+        "Authors field empty but title contains author information",
+        "DOI mismatch: title has 10.1063/1.3549573/983577, link has 10.1063/1.3656682",
+        "Volume/page mismatch between title and journal fields"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2011.json",
+      "year": "2011",
+      "index": 8,
+      "publication": {
+        "year": 2011,
+        "title": "Dewetting of Au nanoparticle assemblies. Alhummiany, H., Jarvis, S., Woolley, R. A. J., Stannard, A., Blunt, M., & Moriarty, P. (2011). Journal of Materials Chemistry, 21(42), 16983–16989. https://doi.org/10.1039/C1JM12182K",
+        "authors": "",
+        "journal": "Journal of Physics: Condensed Matter, 23(8), 083001–083001",
+        "link": "https://doi.org/10.1088/0953-8984/8/083001"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Title contains full citation with authors and year",
+        "Authors field empty but title contains author information",
+        "DOI mismatch: title has 10.1039/C1JM12182K, link has 10.1088/0953-8984/8/083001",
+        "Volume/page mismatch between title and journal fields"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2011.json",
+      "year": "2011",
+      "index": 10,
+      "publication": {
+        "year": 2011,
+        "title": "Effects of substrate constraint on crack pattern formation in thin films of colloidal polystyrene particles. Smith, M. I., & Sharp, J. S. (2011). Langmuir, 27(13), 8009–8017. https://doi.org/10.1021/LA2000624",
+        "authors": "Enhanced Curie temperature and nonvolatile switching of ferromagnetism in ultrathin (Ga,Mn)As channels. Stolichnov, I., Riester, S. W. E., Mikheev, E., Setter, N., Rushforth, A. W., Edmonds, K. W., Campion, R. P., Foxon, C. T., Gallagher, B. L., Jungwirth, T., & Trodahl, H. J. (2011a). Physical Review B – Condensed Matter and Materials Physics, 83(11), 115203–115203. https://doi.org/10.1103/PHYSREVB.83.115203 Fast switching of magnetization in the ferromagnetic semiconductor (Ga,Mn)(As,P) using nonequilibrium phonon pulses. Casiraghi, A., Walker, P., Akimov, A. V., Edmonds, K. W., Rushforth, A. W., De Ranieri, E., Campion, R. P., Gallagher, B. L., & Kent, A. J.",
+        "journal": "Applied Physics Letters, 99(26), 262503–262503",
+        "link": "https://doi.org/10.1063/1.3672029"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Title contains full citation with authors and year",
+        "Authors field contains journal information",
+        "DOI mismatch: title has 10.1021/LA2000624, link has 10.1063/1.3672029",
+        "Volume/page mismatch between title and journal fields"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2012.json",
+      "year": "2012",
+      "index": 0,
+      "publication": {
+        "year": 2012,
+        "title": "Vibrational modes of elongated sessile liquid droplets. Temperton, R. H., & Sharp, J. S. (2013). Langmuir, 29(15), 4737–4742. https://doi.org/10.1021/LA304520C",
+        "authors": "",
+        "journal": "Journal of Physical Chemistry C, 116(34), 18184–18192",
+        "link": "https://doi.org/10.1021/JP3025864"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Title contains full citation with authors and year",
+        "Authors field empty but title contains author information",
+        "DOI mismatch: title has 10.1021/LA304520C, link has 10.1021/JP3025864",
+        "Volume/page mismatch between title and journal fields"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2012.json",
+      "year": "2012",
+      "index": 2,
+      "publication": {
+        "year": 2012,
+        "title": "Complex design of dissipation signals in non-contact atomic force microscopy. Bamidele, J., Li, Y. J., Jarvis, S., Naitoh, Y., Sugawara, Y., & Kantorovich, L. (2012). Physical Chemistry Chemical Physics, 14(47), 16250–16257. https://doi.org/10.1039/C2CP43121A",
+        "authors": "Cytoplasmic RNA in undifferentiated neural stem cells: A potential label-free raman spectral marker for",
+        "journal": "Analytical Chemistry, 84(7), 3155–3162",
+        "link": "https://doi.org/10.1021/AC202994E"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Title contains full citation with authors and year",
+        "DOI mismatch: title has 10.1039/C2CP43121A, link has 10.1021/AC202994E",
+        "Volume/page mismatch between title and journal fields"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2012.json",
+      "year": "2012",
+      "index": 3,
+      "publication": {
+        "year": 2012,
+        "title": "Effect of the tip state during qPlus noncontact atomic force microscopy of Si(100) at 5 K: Probing the probe. Sweetman, A., Jarvis, S., Danza, R., & Moriarty, P. (2012). Beilstein Journal of Nanotechnology 3:3, 3(1), 25–32. https://doi.org/10.3762/BJNANO.3.3",
+        "authors": "",
+        "journal": "Journal of Chemical Physics, 137(22), 224706–224706",
+        "link": "https://doi.org/10.1063/1.4770496"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Title contains full citation with authors and year",
+        "Authors field empty but title contains author information",
+        "DOI mismatch: title has 10.3762/BJNANO.3.3, link has 10.1063/1.4770496",
+        "Volume/page mismatch between title and journal fields"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2012.json",
+      "year": "2012",
+      "index": 5,
+      "publication": {
+        "year": 2012,
+        "title": "Identifying passivated dynamic force microscopy tips on H:Si(100). Sharp, P., Jarvis, S., Woolley, R., Sweetman, A., Kantorovich, L., Pakes, C., & Moriarty, P. (2012). Applied Physics Letters, 100(23), 233120–233120. https://doi.org/10.1063/1.4726086/282134",
+        "authors": "Investigations of the supramolecular structure of individual diphenylalanine nano- and microtubes by",
+        "journal": "Biomacromolecules, 13(7), 2181–2187",
+        "link": "https://doi.org/10.1021/BM3005929"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Title contains full citation with authors and year",
+        "DOI mismatch: title has 10.1063/1.4726086/282134, link has 10.1021/BM3005929",
+        "Volume/page mismatch between title and journal fields"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2013.json",
+      "year": "2013",
+      "index": 3,
+      "publication": {
+        "year": 2013,
+        "title": "Domain wall motion driven by spin Hall effect—Tuning with in-plane magnetic anisotropy. Rushforth, A. W. (2014). Applied Physics Letters, 104(16), 162408–162408. https://doi.org/10.1063/1.4873583/131293",
+        "authors": "",
+        "journal": "Applied Physics Letters, 102(3), 32405–32405",
+        "link": "https://doi.org/10.1063/1.4789396"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Title contains full citation with authors and year",
+        "Authors field empty but title contains author information",
+        "DOI mismatch: title has 10.1063/1.4873583/131293, link has 10.1063/1.4789396",
+        "Volume/page mismatch between title and journal fields"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2013.json",
+      "year": "2013",
+      "index": 11,
+      "publication": {
+        "year": 2013,
+        "title": "Optimal geometry for a quartz multipurpose SPM sensor. Stirling, J. (2013). Beilstein Journal of Nanotechnology 4:43, 4(1), 370–376. https://doi.org/10.3762/BJNANO.4.43",
+        "authors": "",
+        "journal": "Journal of Physical Chemistry C, 117(36), 18381–18385",
+        "link": "https://doi.org/10.1021/JP402333M"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Title contains full citation with authors and year",
+        "Authors field empty but title contains author information",
+        "DOI mismatch: title has 10.3762/BJNANO.4.43, link has 10.1021/JP402333M",
+        "Volume/page mismatch between title and journal fields"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2014.json",
+      "year": "2014",
+      "index": 4,
+      "publication": {
+        "year": 2014,
+        "title": "Control theory for scanning probe microscopy revisited. Stirling, J. (2014). Beilstein Journal of Nanotechnology 5:38, 5(1), 337–345. https://doi.org/10.3762/BJNANO.5.38",
+        "authors": "Critical Assessment of the Evidence for Striped Nanoparticles. Stirling, J., Lekkas, I., Sweetman, A., Djuranovic, P., Guo, Q., Pauw,",
+        "journal": "PLOS ONE, 9(11), e108482–e108482",
+        "link": "https://doi.org/10.1371/JOURNAL.PONE.0108482"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Title contains full citation with authors and year",
+        "DOI mismatch: title has 10.3762/BJNANO.5.38, link has 10.1371/JOURNAL.PONE.0108482"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2014.json",
+      "year": "2014",
+      "index": 5,
+      "publication": {
+        "year": 2014,
+        "title": "Determining Curie temperatures in dilute ferromagnetic semiconductors: High Curie temperature (Ga,Mn)As. Wang, M., Marshall, R. A., Edmonds, K. W., Rushforth, A. W., Campion, R. P., & Gallagher, B. L. (2014). Applied Physics Letters, 104(13), 132406–132406. https://doi.org/10.1063/1.4870521/23925",
+        "authors": "",
+        "journal": "Applied Physics Letters, 104(16), 162408–162408",
+        "link": "https://doi.org/10.1063/1.4873583"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Title contains full citation with authors and year",
+        "Authors field empty but title contains author information",
+        "DOI mismatch: title has 10.1063/1.4870521/23925, link has 10.1063/1.4873583",
+        "Volume/page mismatch between title and journal fields"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2014.json",
+      "year": "2014",
+      "index": 6,
+      "publication": {
+        "year": 2014,
+        "title": "Fullerenes as adhesive layers for mechanical peeling of metallic, molecular and polymer thin films. Wieland, M. B., Slater, A. G., Mangham, B., Champness, N. R., & Beton, P. H. (2014). Beilstein Journal of Nanotechnology 5:46, 5(1), 394–401. https://doi.org/10.3762/BJNANO.5.46",
+        "authors": "Height dependent molecular trapping in stacked cyclic porphyrin nanorings. Wieland, M. B., Perdigão, L. M. A., Kondratuk, D. V., Shea, J. N. O., Anderson, H. L., & Beton, P. H. (2014a). Chemical Communications, 50(55), 7332–7335. https://doi.org/10.1039/C4CC02629B",
+        "journal": "Physical Review B – Condensed Matter and Materials Physics, 90(16)",
+        "link": "https://doi.org/10.1103/PHYSREVB.90.165425"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Title contains full citation with authors and year",
+        "Authors field contains journal information",
+        "DOI mismatch: title has 10.3762/BJNANO.5.46, link has 10.1103/PHYSREVB.90.165425"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2014.json",
+      "year": "2014",
+      "index": 9,
+      "publication": {
+        "year": 2014,
+        "title": "Packing of isophthalate tetracarboxylic acids on Au(111): Rows and disordered herringbone structures. Cebula, I., Smith, E. F., Gimenez-Lopez, M. D. C., Yang, S., Schröder, M., Champness, N. R., & Beton, P. H. (2013). Journal of Physical Chemistry C, 117(36), 18381–18385. https://doi.org/10.1021/JP402333M",
+        "authors": "Porous macromolecular dihydropyridyl frameworks exhibiting catalytic and halochromic activity. Xiao, B., Easun, T. L., Dhakshinamoorthy, A., Cebula, I., Beton, P. H.,",
+        "journal": "Journal of Materials Chemistry A, 2(46), 19889–19896",
+        "link": "https://doi.org/10.1039/C4TA02521K"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Title contains full citation with authors and year",
+        "DOI mismatch: title has 10.1021/JP402333M, link has 10.1039/C4TA02521K",
+        "Volume/page mismatch between title and journal fields"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2014.json",
+      "year": "2014",
+      "index": 13,
+      "publication": {
+        "year": 2014,
+        "title": "Surface-based supramolecular chemistry using hydrogen bonds. Slater, A. G., Perdigão, L. M. A., Beton, P. H., & Champness, N. R. (2014). Accounts of Chemical Research, 47(12), 3417–3427. https://doi.org/10.1021/AR5001378",
+        "authors": "",
+        "journal": "Applied Physics Letters, 105(1), 12402–12402",
+        "link": "https://doi.org/10.1063/1.4888645"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Title contains full citation with authors and year",
+        "Authors field empty but title contains author information",
+        "DOI mismatch: title has 10.1021/AR5001378, link has 10.1063/1.4888645",
+        "Volume/page mismatch between title and journal fields"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2014.json",
+      "year": "2014",
+      "index": 17,
+      "publication": {
+        "year": 2014,
+        "title": "Visualizing the ‘Invisible’. Moriarty, P. (2015). Leonardo, 48(1), 64–65. https://doi.org/10.1162/LEON_A_00897",
+        "authors": "Voltage controlled modification of flux closure domains in planar magnetic structures for microwave applications. Parkes, D. E., Beardsley, R., Bowe, S., Isakov, I., Warburton, P. A., Edmonds, K. W., Campion, R. P., Gallagher, B. L., Rushforth, A. W.,",
+        "journal": "Applied Physics Letters, 105(6), 62405–62405",
+        "link": "https://doi.org/10.1063/1.4892942"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Title contains full citation with authors and year",
+        "DOI mismatch: title has 10.1162/LEON_A_00897, link has 10.1063/1.4892942",
+        "Volume/page mismatch between title and journal fields"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2014.json",
+      "year": "2014",
+      "index": 18,
+      "publication": {
+        "year": 2014,
+        "title": "Calculation of the effect of tip geometry on noncontact atomic force microscopy using a qPlus sensor. Stirling, J., & Shaw, G. A. (2013). Beilstein Journal of Nanotechnology 4:2, 4(1), 10–19. https://doi.org/10.3762/BJNANO.4.2",
+        "authors": "Comparison of micromagnetic parameters of the ferromagnetic semiconductors (Ga,Mn)(As,P) and (Ga,Mn)As. Tesařová, N., Butkovičová, D., Campion, R. P., Rushforth, A. W., Edmonds, K. W., Wadley, P., Gallagher, B. L., Schmoranzerová, E., Trojánek, F., Malý, P., Motloch, P., Novák, V., Jungwirth, T., &",
+        "journal": "Physical Review B – Condensed Matter and Materials Physics, 90(15), 155203–155203",
+        "link": "https://doi.org/10.1103/PHYSREVB.90.155203"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Title contains full citation with authors and year",
+        "DOI mismatch: title has 10.3762/BJNANO.4.2, link has 10.1103/PHYSREVB.90.155203",
+        "Volume/page mismatch between title and journal fields"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2015.json",
+      "year": "2015",
+      "index": 7,
+      "publication": {
+        "year": 2015,
+        "title": "Insights into Kelvin probe force microscopy data of insulator-supported molecules. Neff, J. L., & Rahe, P. (2015). Physical Review B – Condensed Matter and Materials Physics, 91(8). https://doi.org/10.1103/PHYSREVB.91.085424",
+        "authors": "",
+        "journal": "AIP Advances, 5(12), 127108–127108",
+        "link": "https://doi.org/10.1063/1.4937556"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Title contains full citation with authors and year",
+        "Authors field empty but title contains author information",
+        "DOI mismatch: title has 10.1103/PHYSREVB.91.085424, link has 10.1063/1.4937556"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2015.json",
+      "year": "2015",
+      "index": 11,
+      "publication": {
+        "year": 2015,
+        "title": "Nano-contact microscopy of supracrystals. Sweetman, A., Goubet, N., Lekkas, I., Pileni, M. P., & Moriarty, P. (2015). Beilstein Journal of Nanotechnology 6:126, 6(1), 1229–1236. https://doi.org/10.3762/BJNANO.6.126",
+        "authors": "",
+        "journal": "Journal of Physical Chemistry C, 119(41), 23544–23551",
+        "link": "https://doi.org/10.1021/ACS.JPCC.5B07133"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Title contains full citation with authors and year",
+        "Authors field empty but title contains author information",
+        "DOI mismatch: title has 10.3762/BJNANO.6.126, link has 10.1021/ACS.JPCC.5B07133",
+        "Volume/page mismatch between title and journal fields"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2016.json",
+      "year": "2016",
+      "index": 0,
+      "publication": {
+        "year": 2016,
+        "title": "A Combined Monte Carlo and Hückel Theory Simulation of Orientational Ordering in C60 Assemblies. Leaf, J., Stannard, A., Jarvis, S. P., Moriarty, P., & Dunn, J. L. (2016). Journal of Physical Chemistry C, 120(15), 8139–8147. https://doi.org/10.1021/ACS.JPCC.6B00638",
+        "authors": "Antiferromagnetic multi-level memory cell. Schuler, V., Olejnik, K., Marti, X., Novak, V., Wadley, P., Campion, R. P., Edmonds, K. W., Gallagher, B. L., Garces, J., Baumgartner, M.,",
+        "journal": "",
+        "link": "https://arxiv.org/abs/1608.03238v1"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Title contains full citation with authors and year"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2016.json",
+      "year": "2016",
+      "index": 1,
+      "publication": {
+        "year": 2016,
+        "title": "Antiferromagnetic spintronics. Jungwirth, T., Marti, X., Wadley, P., & Wunderlich, J. (2016). Nature Nanotechnology 2016 11:3, 11(3), 231–241. https://doi.org/10.1038/nnano.2016.18",
+        "authors": "Contributions from coherent and incoherent lattice excitations to ultrafast optical control of magnetic anisotropy of metallic films. Kats, V. N., Linnik, T. L., Salasyuk, A. S., Rushforth, A. W., Wang, M., Wadely, P., Akimov, A. V., Cavill, S.",
+        "journal": "Https://Doi.Org/10.1117/12.2238020, 9835, 200–204",
+        "link": "https://doi.org/10.1117/12.2238020"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Title contains full citation with authors and year",
+        "DOI mismatch: title has 10.1038/nnano.2016.18, link has 10.1117/12.2238020"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2018.json",
+      "year": "2018",
+      "index": 12,
+      "publication": {
+        "year": 2018,
+        "title": "Physical Review B, 98(6), 060406–060406. https://doi.org/10.1103/PHYSREVB.98.060406",
+        "authors": "Out of this solar system. Moriarty, P. (2018b). Physics World, 31(2), 22–22. https://doi.org/10.1088/2058-7058/31/2/25",
+        "journal": "Nature Materials 2018 17:7, 17(7), 566–567",
+        "link": "https://doi.org/10.1038/s41563-018-0125-2"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "DOI mismatch: title has 10.1103/PHYSREVB.98.060406, link has 10.1038/s41563-018-0125-2",
+        "Volume/page mismatch between title and journal fields"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2018.json",
+      "year": "2018",
+      "index": 13,
+      "publication": {
+        "year": 2018,
+        "title": "Scanning photocurrent microscopy of 3D printed light trapping structures in dye-sensitized solar cells. Knott, A., Makarovskiy, O., O’Shea, J., Wu, Y., & Tuck, C. (2018). Solar Energy Materials and Solar Cells, 180, 103–109. https://doi.org/10.1016/J.SOLMAT.2018.02.028",
+        "authors": "",
+        "journal": "Journal of Physical Chemistry C, 122(33), 19067–19074",
+        "link": "https://doi.org/10.1021/ACS.JPCC.8B06036"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Title contains full citation with authors and year",
+        "Authors field empty but title contains author information",
+        "DOI mismatch: title has 10.1016/J.SOLMAT.2018.02.028, link has 10.1021/ACS.JPCC.8B06036"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2018.json",
+      "year": "2018",
+      "index": 20,
+      "publication": {
+        "year": 2018,
+        "title": "The wow and the woo. Moriarty, P. (2018c). Physics World, 31(6), 38–39. https://doi.org/10.1088/2058-7058/31/6/33",
+        "authors": "Ultra-fast intramolecular vibronic coupling revealed by RIXS and RPES maps of an aromatic adsorbate on TiO2(110). O’Shea, J. N., Handrup, K., Temperton, R. H., Gibson, A. J., Nicolaou, A., Jaouen, N., Taylor, J. B., Mayor, L. C., Swarbrick, J. C., &",
+        "journal": "Journal of Chemical Physics, 148(20), 204705–204705",
+        "link": "https://doi.org/10.1063/1.5024862"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "DOI mismatch: title has 10.1088/2058-7058/31/6/33, link has 10.1063/1.5024862",
+        "Volume/page mismatch between title and journal fields"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2019.json",
+      "year": "2019",
+      "index": 0,
+      "publication": {
+        "year": 2019,
+        "title": "AIRBED: A Simplified Density Functional Theory Model for Physisorption on Surfaces. Mason, S. E., Beton, P. H., & Besley, N. A. (2019). Journal of Chemical Theory and Computation, 15(10), 5628–5634. https://doi.org/10.1021/ACS.JCTC.9B00576",
+        "authors": "Current-induced fragmentation of antiferromagnetic domains. Wörnle, M. S., Welter, P., Kašpar, Z., Olejník, K., Novák, V., Campion, R. P., Wadley, P., Jungwirth, T., Degen, C. L., & Gambardella, P.",
+        "journal": "",
+        "link": "https://arxiv.org/abs/1912.05287v1"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Title contains full citation with authors and year"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2019.json",
+      "year": "2019",
+      "index": 10,
+      "publication": {
+        "year": 2019,
+        "title": "Rushing or dragging? An analysis of the ‘universality’ of correlated fluctuations in hi-hat timing and dynamics. Gordon, O., Coy, D., Matthews, J., Kandola-McNicholas, E., Llewellyn, O., Bokhari, A., & Moriarty, P. (2019).",
+        "authors": "",
+        "journal": "Review of Scientific Instruments, 90(10), 103704–103704",
+        "link": "https://doi.org/10.1063/1.5099590"
+      },
+      "issues": [
+        "Title contains full citation with authors and year",
+        "Authors field empty but title contains author information"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2019.json",
+      "year": "2019",
+      "index": 14,
+      "publication": {
+        "year": 2019,
+        "title": "Tuning a Binary Ferromagnet into a Multistate Synapse with Spin–Orbit-Torque-Induced Plasticity. Cao, Y., Rushforth, A. W., Sheng, Y., Zheng, H., & Wang, K. (2019b). Advanced Functional Materials, 29(25), 1808104–1808104. https://doi.org/10.1002/ADFM.201808104",
+        "authors": "Two-Dimensional Diffusion of Excitons in a Perylene Diimide Monolayer Quenched by a Fullerene Heterojunction. Kerfoot, J., Korolkov, V. V., Svatek, S. A., Alkhamisi, M., Taniguchi,",
+        "journal": "Journal of Physical Chemistry C, 123(19), 12249–12254",
+        "link": "https://doi.org/10.1021/ACS.JPCC.9B01413"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "DOI mismatch: title has 10.1002/ADFM.201808104, link has 10.1021/ACS.JPCC.9B01413",
+        "Volume/page mismatch between title and journal fields"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2020.json",
+      "year": "2020",
+      "index": 7,
+      "publication": {
+        "year": 2020,
+        "title": "Improving the segmentation of scanning probe microscope images using convolutional neural networks. Farley, S., Hodgkinson, J. E. A., Gordon, O. M., Turner, J., Soltoggio, A., Moriarty, P. J., & Hunsicker, E. (2020). Machine Learning: Science and Technology, 2(1), 15015–15015. https://doi.org/10.1088/2632-2153/abc81c",
+        "authors": "Investigation of magnetic anisotropy and heat dissipation in thin films of compensated antiferromagnet CuMnAs by",
+        "journal": "Journal of Applied Physics, 127(23), 233904–233904",
+        "link": "https://doi.org/10.1063/5.0006185"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Title contains full citation with authors and year",
+        "DOI mismatch: title has 10.1088/2632-2153/abc81c, link has 10.1063/5.0006185",
+        "Volume/page mismatch between title and journal fields"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2021.json",
+      "year": "2021",
+      "index": 5,
+      "publication": {
+        "year": 2021,
+        "title": "Flights of fancy, feet on the ground. Moriarty, P. (2021). Physics World, 34(9), 46–47. https://doi.org/10.1088/2058-7058/34/09/33",
+        "authors": "Gender issues in fundamental physics: Strumia’s bibliometric analysis fails to account for key confounders and",
+        "journal": "Quantitative Science Studies, 2(1), 263–272",
+        "link": "https://doi.org/10.1162/QSS_A_00117"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Title contains full citation with authors and year",
+        "DOI mismatch: title has 10.1088/2058-7058/34/09/33, link has 10.1162/QSS_A_00117",
+        "Volume/page mismatch between title and journal fields"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2022.json",
+      "year": "2022",
+      "index": 11,
+      "publication": {
+        "year": 2022,
+        "title": "Automated Searching and Identification of Self-Organized Nanostructures. Gordon, O. M., Hodgkinson, J. E. A., Farley, S. M., Hunsicker, E. L., & Moriarty, P. J. (2020). Nano Letters, 20(10), 7688–7693. https://doi.org/10.1021/ACS.NANOLETT.0C03213",
+        "authors": "Bending a photonic wire into a ring. Gotfredsen, H., Deng, J. R., Van Raden, J. M., Righetto, M., Hergenhahn, J., Clarke, M., Bellamy-Carter, A., Hart, J., O’Shea, J., Claridge, T. D. W., Duarte, F., Saywell, A., Herz, L. M., &",
+        "journal": "Nature Chemistry 2022 14:12, 14(12), 1436–1442",
+        "link": "https://doi.org/10.1038/s41557-022-01032-w"
+      },
+      "issues": [
+        "Title contains embedded DOI link",
+        "Title contains full citation with authors and year",
+        "DOI mismatch: title has 10.1021/ACS.NANOLETT.0C03213, link has 10.1038/s41557-022-01032-w",
+        "Volume/page mismatch between title and journal fields"
+      ],
+      "severity": "critical"
+    },
+    {
+      "file": "2002.json",
+      "year": "2002",
+      "index": 0,
+      "publication": {
+        "year": 2002,
+        "title": "The growth of GaMnAs films by molecular beam epitaxy using arsenic dimers. Campion, R. P., Edmonds, K. W., Zhao, L. X., Wang, K. Y., Foxon, C. T., Gallagher, B. L., & Staddon, C. R. (2003b). Journal of Crystal Growth, 251(1–4), 311–316. https://doi.org/10.1016/S0022-0248(02)02291-1",
+        "authors": "Anisotropic Magnetoresistance in GaMnAs films. Wang, K. Y., Edmonds, K. W., Campion, R. P., Zhao, L. X., Neumann, A. C., Foxon, C. T., Gallagher, B. L., Main, P. C., & Marrows, C. H.",
+        "journal": "",
+        "link": "https://arxiv.org/abs/cond-mat/0211697v1"
+      },
+      "issues": [
+        "Title contains embedded DOI link"
+      ],
+      "severity": "low"
+    },
+    {
+      "file": "2009.json",
+      "year": "2009",
+      "index": 9,
+      "publication": {
+        "year": 2009,
+        "title": "The origin and control of the sources of AMR in (Ga,Mn)As devices.",
+        "authors": "Rushforth, A. W., Výborný, K., King, C. S., Edmonds, K. W., Campion, R. P., Foxon, C. T., Wunderlich, J., Irvine, A. C., Novák, V., Olejník, K., Kovalev, A. A., Sinova, J., Jungwirth, T., & Gallagher, B. L. (2009a). Journal of Magnetism and Magnetic Materials, 321(8), 1001–1008. https://doi.org/10.1016/J.JMMM.2008.04.070 Toward a low-voltage multiferroic transistor: Magnetic (Ga,Mn)As under ferroelectric control. Riester, S. W. E., Stolichnov, I., Trodahl, H. J., Setter, N., Rushforth, A. W., Edmonds, K. W., Campion, R. P., Foxon, C. T.,",
+        "journal": "Applied Physics Letters, 94(6)",
+        "link": "https://doi.org/10.1063/1.3076107"
+      },
+      "issues": [
+        "Authors field contains journal information"
+      ],
+      "severity": "low"
+    }
+  ],
+  "backendFailures": [
+    {
+      "file": "2001.json",
+      "year": "2001",
+      "index": 2,
+      "publication": {
+        "year": 2001,
+        "title": "Magnetic force microscopy studies of the domain structure of Co/Pd multilayers in a magnetic field. Rushforth, A. W., Main, P. C., Gallagher, B. L., Marrows, C. H., Hickey, B. J., Dahlberg, E. D., & Eames, P. (2001). Journal of Applied Physics, 89(11), 7534–7536. https://doi.org/10.1063/1.1359792",
+        "authors": "",
+        "journal": "Reports on Progress in Physics, 64(3), 297–297",
+        "link": "https://doi.org/10.1088/0034-4885/3/201"
+      },
+      "risks": [
+        "Empty authors field",
+        "DOI link has extra numeric suffix"
+      ],
+      "severity": "medium"
+    },
+    {
+      "file": "2008.json",
+      "year": "2008",
+      "index": 5,
+      "publication": {
+        "year": 2008,
+        "title": "Electrospray deposition of C60 on a hydrogen-bonded supramolecular network. Saywell, A., Magnano, G., Satterley, C. J., Perdigão, L. M. A., Champness, N. R., Beton, P. H., & O’Shea, J. N. (2008). Journal of Physical Chemistry C, 112(20), 7706–7709. https://doi.org/10.1021/JP7119944",
+        "authors": "",
+        "journal": "Journal of Physics: Conference Series, 100(1), 012017–012017",
+        "link": "https://doi.org/10.1088/1742-6596/1/012017"
+      },
+      "risks": [
+        "Empty authors field",
+        "DOI link has extra numeric suffix"
+      ],
+      "severity": "medium"
+    },
+    {
+      "file": "2011.json",
+      "year": "2011",
+      "index": 8,
+      "publication": {
+        "year": 2011,
+        "title": "Dewetting of Au nanoparticle assemblies. Alhummiany, H., Jarvis, S., Woolley, R. A. J., Stannard, A., Blunt, M., & Moriarty, P. (2011). Journal of Materials Chemistry, 21(42), 16983–16989. https://doi.org/10.1039/C1JM12182K",
+        "authors": "",
+        "journal": "Journal of Physics: Condensed Matter, 23(8), 083001–083001",
+        "link": "https://doi.org/10.1088/0953-8984/8/083001"
+      },
+      "risks": [
+        "Empty authors field",
+        "DOI link has extra numeric suffix"
+      ],
+      "severity": "medium"
+    },
+    {
+      "file": "1997.json",
+      "year": "1997",
+      "index": 1,
+      "publication": {
+        "year": 1997,
+        "title": "Double domain ordering and selective removal of<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant=\"normal\">C</mml:mi></mml:mrow><mml:mrow><mml:mn>60</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:math>on<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi mathvariant=\"normal\">A</mml:mi><mml:mi mathvariant=\"normal\">g</mml:mi><mml:mo>/</mml:mo><mml:mi mathvariant=\"normal\">S</mml:mi><mml:mi mathvariant=\"normal\">i</mml:mi><mml:mn/><mml:mo>(</mml:mo><mml:mn>111</mml:mn><mml:mo>)</mml:mo><mml:mo>−</mml:mo><mml:mo>(</mml:mo><mml:msqrt><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msqrt><mml:mo>×</mml:mo><mml:msqrt><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msqrt><mml:mo>)</mml:mo><mml:mi>R</mml:mi><mml:mn>30</mml:mn><mml:mn/><mml:mi>°</mml:mi></mml:math>",
+        "authors": "M. D. Upward, P. Moriarty, P. H. Beton",
+        "journal": "Physical Review B",
+        "link": "https://doi.org/10.1103/PhysRevB.56.R1704"
+      },
+      "risks": [
+        "Title field exceptionally long (may contain multiple papers)"
+      ],
+      "severity": "low"
+    },
+    {
+      "file": "2005.json",
+      "year": "2005",
+      "index": 2,
+      "publication": {
+        "year": 2005,
+        "title": "<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:msub><mml:mrow><mml:mo>(</mml:mo><mml:msub><mml:mi mathvariant=\"normal\">C</mml:mi><mml:mn>6</mml:mn></mml:msub><mml:msub><mml:mi mathvariant=\"normal\">H</mml:mi><mml:mn>5</mml:mn></mml:msub><mml:mo>)</mml:mo></mml:mrow><mml:mn>5</mml:mn></mml:msub><mml:msub><mml:mi mathvariant=\"normal\">C</mml:mi><mml:mn>60</mml:mn></mml:msub><mml:mi mathvariant=\"normal\">H</mml:mi></mml:mrow></mml:math>at<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:mi mathvariant=\"normal\">Si</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mn>111</mml:mn><mml:mo>)</mml:mo></mml:mrow><mml:mtext>‐</mml:mtext><mml:mrow><mml:mo>(</mml:mo><mml:mn>7</mml:mn><mml:mo>×</mml:mo><mml:mn>7</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:math>and<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:mi mathvariant=\"normal\">Ag</mml:mi><mml:mo>:</mml:mo><mml:mi mathvariant=\"normal\">Si</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mn>111</mml:mn><mml:mo>)</mml:mo></mml:mrow><mml:mtext>‐</mml:mtext><mml:mrow><mml:mo>(</mml:mo><mml:msqrt><mml:mn>3</mml:mn></mml:msqrt><mml:mo>×</mml:mo><mml:msqrt><mml:mn>3</mml:mn></mml:msqrt><mml:mo>)</mml:mo></mml:mrow><mml:mi mathvariant=\"normal\">R</mml:mi><mml:mn>30</mml:mn><mml:mo>°</mml:mo></mml:mrow></mml:math>surfaces",
+        "authors": "M. A. Phillips, J. N. O’Shea, P. R. Birkett, J. Purton, H. W. Kroto, D. R. M. Walton, R. Taylor, P. Moriarty",
+        "journal": "Physical Review B",
+        "link": "https://doi.org/10.1103/PHYSREVB.72.075426"
+      },
+      "risks": [
+        "Title field exceptionally long (may contain multiple papers)"
+      ],
+      "severity": "low"
+    },
+    {
+      "file": "2005.json",
+      "year": "2005",
+      "index": 3,
+      "publication": {
+        "year": 2005,
+        "title": "Determination of the Mn concentration in GaMnAs.",
+        "authors": "Zhao, L. X., Campion, R. P., Fewster, P. F., Martin, R. W., Ber, B. Y., Kovarsky, A. P., Staddon, C. R., Wang, K. Y., Edmonds, K. W., Foxon, C.",
+        "journal": "Semiconductor Science and Technology, 20(5), 369–369",
+        "link": "https://doi.org/10.1088/0268-1242/5/008"
+      },
+      "risks": [
+        "DOI link has extra numeric suffix"
+      ],
+      "severity": "low"
+    },
+    {
+      "file": "2005.json",
+      "year": "2005",
+      "index": 15,
+      "publication": {
+        "year": 2005,
+        "title": "Time-resolved light scattering studies of phase separation in thin film semiconducting polymer blends during spin-coating. Jukes, P. C., Heriot, S. Y., Sharp, J. S., & Jones, R. A. L. (2005). Macromolecules, 38(6), 2030–2032. https://doi.org/10.1021/MA0477145",
+        "authors": "",
+        "journal": "Applied Physics Letters, 87(21), 1–3",
+        "link": "https://doi.org/10.1063/1.2132525"
+      },
+      "risks": [
+        "Empty authors field"
+      ],
+      "severity": "low"
+    },
+    {
+      "file": "2005.json",
+      "year": "2005",
+      "index": 17,
+      "publication": {
+        "year": 2005,
+        "title": "Effect of sample preparation on the glass-transition of thin polystyrene films. Fakhraai, Z., Sharp, J. S., & Forrest, J. A. (2004). Journal of Polymer Science Part B: Polymer Physics, 42(24), 4503–4507. https://doi.org/10.1002/POLB.20281",
+        "authors": "",
+        "journal": "Langmuir, 21(5), 2038–2041",
+        "link": "https://doi.org/10.1021/LA047533W"
+      },
+      "risks": [
+        "Empty authors field"
+      ],
+      "severity": "low"
+    },
+    {
+      "file": "2006.json",
+      "year": "2006",
+      "index": 2,
+      "publication": {
+        "year": 2006,
+        "title": "Characterization of Ga<sub><b>1−</b></sub><b><i><sub>x</sub></i></b>Mn<b><i><sub>x</sub></i></b>As/(001)GaAs epilayers grown by low-temperature molecular beam epitaxy",
+        "authors": "M. W. Fay, Y. Han, P. D. Brown, K. W. Edmonds, K. Wang, B. L. Gallagher, R. P. Campion, C. T. Foxon",
+        "journal": "Philosophical Magazine Letters",
+        "link": "https://doi.org/10.1080/09500830600847087"
+      },
+      "risks": [
+        "DOI link has extra numeric suffix"
+      ],
+      "severity": "low"
+    },
+    {
+      "file": "2007.json",
+      "year": "2007",
+      "index": 7,
+      "publication": {
+        "year": 2007,
+        "title": "Electrospray deposition of carbon nanotubes in vacuum. O’Shea, J. N., Taylor, J. B., Swarbrick, J. C., Magnano, G., Mayor, L. C., & Schulte, K. (2007). Nanotechnology, 18(3), 035707–035707. https://doi.org/10.1088/0957-4484/18/3/035707",
+        "authors": "Electrospray deposition of fullerenes in ultra-high vacuum: In situ scanning tunnelingmicroscopy and photoemission spectroscopy. Satterley, C. J., Perdigão, L. M. A., Saywell, A., Magnano, G., Rienzo, A., Mayor, L. C., Dhanak, V. R., Beton, P. H., & O’Shea, J. N.",
+        "journal": "Nanotechnology, 18(45), 455304–455304",
+        "link": "https://doi.org/10.1088/0957-4484/45/455304"
+      },
+      "risks": [
+        "DOI link has extra numeric suffix"
+      ],
+      "severity": "low"
+    },
+    {
+      "file": "2007.json",
+      "year": "2007",
+      "index": 10,
+      "publication": {
+        "year": 2007,
+        "title": "Measuring the hole chemical potential in ferromagnetic Ga1-x Mnx AsGaAs heterostructures by photoexcited resonant tunneling. Thomas, O., Makarovsky, O., Pataǹ, A., Eaves, L., Campion, R. P., Edmonds, K. W., Foxon, C. T., & Gallagher, B. L. (2007). Applied Physics Letters, 90(8). https://doi.org/10.1063/1.2709624/129029",
+        "authors": "Microstructural characterization of low-temperature grown GaMnN on GaAs(0 0 1) substrates by plasma-assisted MBE. Han, Y., Fay, M. W., Brown, P. D., Novikov, S. V., Edmonds, K. W.,",
+        "journal": "Semiconductor Science and Technology, 22(10), 1131–1131",
+        "link": "https://doi.org/10.1088/0268-1242/10/009"
+      },
+      "risks": [
+        "DOI link has extra numeric suffix"
+      ],
+      "severity": "low"
+    },
+    {
+      "file": "2008.json",
+      "year": "2008",
+      "index": 0,
+      "publication": {
+        "year": 2008,
+        "title": "A compact combined ultrahigh vacuum scanning tunnelling microscope (UHV STM) and near-field optical microscope. Woolley, R. A. J., Hayton, J. A., Cavill, S., Ma, J., Beton, P. H., & Moriarty, P. (2008). Measurement Science and Technology, 19(4), 045301–045301. https://doi.org/10.1088/0957-0233/19/4/045301",
+        "authors": "",
+        "journal": "Applied Physics Letters, 93(13), 132103–132103",
+        "link": "https://doi.org/10.1063/1.2992200"
+      },
+      "risks": [
+        "Empty authors field"
+      ],
+      "severity": "low"
+    },
+    {
+      "file": "2008.json",
+      "year": "2008",
+      "index": 1,
+      "publication": {
+        "year": 2008,
+        "title": "An extensive comparison of anisotropies in MBE grown (Ga,Mn)As material.",
+        "authors": "Gould, C., Mark, S., Pappert, K., Dengel, R. G., Wenisch, J., Campion, R. P., Rushforth, A. W., Chiba, D., Li, Z., Liu, X., Van Roy, W., Ohno, H., Furdyna, J. K., Gallagher, B., Brunner, K., Schmidt, G., &",
+        "journal": "New Journal of Physics, 10(5), 055007–055007",
+        "link": "https://doi.org/10.1088/1367-2630/5/055007"
+      },
+      "risks": [
+        "DOI link has extra numeric suffix"
+      ],
+      "severity": "low"
+    },
+    {
+      "file": "2008.json",
+      "year": "2008",
+      "index": 4,
+      "publication": {
+        "year": 2008,
+        "title": "Physical Review Letters, 100(4), 047202–047202. https://doi.org/10.1103/PHYSREVLETT.100.047202",
+        "authors": "",
+        "journal": "Journal of Physical Chemistry C, 112(39), 15195–15203",
+        "link": "https://doi.org/10.1021/JP803399D"
+      },
+      "risks": [
+        "Empty authors field"
+      ],
+      "severity": "low"
+    },
+    {
+      "file": "2008.json",
+      "year": "2008",
+      "index": 9,
+      "publication": {
+        "year": 2008,
+        "title": "Huge tunnelling anisotropic magnetoresistance in (Ga,Mn)As nanoconstrictions.",
+        "authors": "Giddings, A. D., Makarovsky, O. N., Khalid, M. N., Yasin, S., Edmonds, K. W., Campion, R. P., Wunderlich, J., Jungwirth, T., Williams, D. A.,",
+        "journal": "New Journal of Physics, 10(8), 085004–085004",
+        "link": "https://doi.org/10.1088/1367-2630/8/085004"
+      },
+      "risks": [
+        "DOI link has extra numeric suffix"
+      ],
+      "severity": "low"
+    },
+    {
+      "file": "2008.json",
+      "year": "2008",
+      "index": 11,
+      "publication": {
+        "year": 2008,
+        "title": "Lithographically and electrically controlled strain effects on anisotropic magnetoresistance in (Ga,Mn)As.",
+        "authors": "De Ranieri, E., Rushforth, A. W., Výborný, K., Rana, U., Ahmad, E., Campion, R. P., Foxon, C. T., Gallagher, B. L., Irvine, A. C.,",
+        "journal": "New Journal of Physics, 10(6), 065003–065003",
+        "link": "https://doi.org/10.1088/1367-2630/6/065003"
+      },
+      "risks": [
+        "DOI link has extra numeric suffix"
+      ],
+      "severity": "low"
+    },
+    {
+      "file": "2008.json",
+      "year": "2008",
+      "index": 12,
+      "publication": {
+        "year": 2008,
+        "title": "Loss of long-range magnetic order in a nanoparticle assembly due to random anisotropy.",
+        "authors": "Binns, C., Howes, P. B., Baker, S. H., Marchetto, H., Potenza, A., Steadman, P., Dhesi, S. S., Roy, M., Everard, M. J., & Rushforth, A.",
+        "journal": "Journal of Physics: Condensed Matter, 20(5), 055213–055213",
+        "link": "https://doi.org/10.1088/0953-8984/5/055213"
+      },
+      "risks": [
+        "DOI link has extra numeric suffix"
+      ],
+      "severity": "low"
+    },
+    {
+      "file": "2008.json",
+      "year": "2008",
+      "index": 13,
+      "publication": {
+        "year": 2008,
+        "title": "Magnetic properties of sol-gel-derived doped ZnO as a potential ferromagnetic semiconductor: A synchrotron-based study.",
+        "authors": "Farley, N. R. S., Edmonds, K. W., Freeman, A. A., Van Der Laan, G.,",
+        "journal": "New Journal of Physics, 10(5), 055012–055012",
+        "link": "https://doi.org/10.1088/1367-2630/5/055012"
+      },
+      "risks": [
+        "DOI link has extra numeric suffix"
+      ],
+      "severity": "low"
+    },
+    {
+      "file": "2008.json",
+      "year": "2008",
+      "index": 14,
+      "publication": {
+        "year": 2008,
+        "title": "Magnetic reversal under external field and current-driven domain wall motion in (Ga,Mn)As: Influence of extrinsic pinning.",
+        "authors": "Wang, K. Y., Irvine, A. C., Wunderlich, J., Edmonds, K. W., Rushforth, A. W., Campion, R. P., Foxon, C. T., Williams, D. A., & Gallagher,",
+        "journal": "New Journal of Physics, 10(8), 085007–085007",
+        "link": "https://doi.org/10.1088/1367-2630/8/085007"
+      },
+      "risks": [
+        "DOI link has extra numeric suffix"
+      ],
+      "severity": "low"
+    },
+    {
+      "file": "2009.json",
+      "year": "2009",
+      "index": 0,
+      "publication": {
+        "year": 2009,
+        "title": "A low field technique for measuring magnetic and magnetoresistance anisotropy coefficients applied to (Ga,Mn)As. Haigh, J. A., Rushforth, A. W., King, C. S., Edmonds, K. W., Campion, R. P., Foxon, C. T., & Gallagher, B. L. (2009). Applied Physics Letters, 95(23), 232102–232102. https://doi.org/10.1063/1.3268789/120838",
+        "authors": "",
+        "journal": "Journal of Chemical Physics, 130(16), 164704–164704",
+        "link": "https://doi.org/10.1063/1.3122685"
+      },
+      "risks": [
+        "Empty authors field"
+      ],
+      "severity": "low"
+    },
+    {
+      "file": "2009.json",
+      "year": "2009",
+      "index": 7,
+      "publication": {
+        "year": 2009,
+        "title": "Microscopic mechanism of the noncrystalline anisotropic magnetoresistance in (Ga,Mn)As. Výborný, K., Kučera, J., Sinova, J., Rushforth, A. W., Gallagher, B. L., & Jungwirth, T. (2009). Physical Review B – Condensed Matter and Materials Physics, 80(16), 165204–165204. https://doi.org/10.1103/PHYSREVB.80.165204",
+        "authors": "Modelling approaches to the dewetting of evaporating thin films of nanoparticle suspensions. Thiele, U., Vancea, I., Archer, A. J., Robbins, M. J., Frastia, L., Stannard, A., Pauliac-Vaujour, E., Martin, C. P., Blunt, M. O., &",
+        "journal": "Journal of Physics: Condensed Matter, 21(26), 264016–264016",
+        "link": "https://doi.org/10.1088/0953-8984/26/264016"
+      },
+      "risks": [
+        "DOI link has extra numeric suffix"
+      ],
+      "severity": "low"
+    },
+    {
+      "file": "2009.json",
+      "year": "2009",
+      "index": 8,
+      "publication": {
+        "year": 2009,
+        "title": "Physica Status Solidi (b), 246(7), 1435–1439. https://doi.org/10.1002/PSSB.200945209",
+        "authors": "",
+        "journal": "Applied Physics Letters, 95(6), 63112–63112",
+        "link": "https://doi.org/10.1063/1.3197595"
+      },
+      "risks": [
+        "Empty authors field"
+      ],
+      "severity": "low"
+    },
+    {
+      "file": "2010.json",
+      "year": "2010",
+      "index": 1,
+      "publication": {
+        "year": 2010,
+        "title": "A novel tripod-driven platform for in-situ positioning of samples and electrical probes in a TEM.",
+        "authors": "Medford, B. D., Rogers, B. L., Laird, D., Berdunov, N., Lockwood, A. J., Gnanavel, T., Guan, W., Wang, J., Möbus, G., Inkson, B. J., &",
+        "journal": "Journal of Physics: Conference Series, 241(1), 012057–012057",
+        "link": "https://doi.org/10.1088/1742-6596/1/012057"
+      },
+      "risks": [
+        "DOI link has extra numeric suffix"
+      ],
+      "severity": "low"
+    },
+    {
+      "file": "2010.json",
+      "year": "2010",
+      "index": 3,
+      "publication": {
+        "year": 2010,
+        "title": "Calculation of images of oriented C60 molecules using molecular orbital theory. Hands, I. D., Dunn, J. L., & Bates, C. A. (2010a). Physical Review B – Condensed Matter and Materials Physics, 81(20). https://doi.org/10.1103/PHYSREVB.81.205440",
+        "authors": "",
+        "journal": "Journal of Chemical Physics, 133(9), 94705–94705",
+        "link": "https://doi.org/10.1063/1.3488299"
+      },
+      "risks": [
+        "Empty authors field"
+      ],
+      "severity": "low"
+    },
+    {
+      "file": "2011.json",
+      "year": "2011",
+      "index": 5,
+      "publication": {
+        "year": 2011,
+        "title": "Charge transfer dynamics of model charge transfer centers of a multicenter water splitting dye complex on rutile TiO2(110). Weston, M., Britton, A. J., & O’Shea, J. N. (2011). Journal of Chemical Physics, 134(5), 54705–54705. https://doi.org/10.1063/1.3549573/983577",
+        "authors": "",
+        "journal": "Journal of Chemical Physics, 135(16), 164702–164702",
+        "link": "https://doi.org/10.1063/1.3656682"
+      },
+      "risks": [
+        "Empty authors field"
+      ],
+      "severity": "low"
+    },
+    {
+      "file": "2011.json",
+      "year": "2011",
+      "index": 19,
+      "publication": {
+        "year": 2011,
+        "title": "Single molecule magnets on a gold surface: In situ electrospray deposition, x-ray absorption and photoemission.",
+        "authors": "Saywell, A., Britton, A. J., Taleb, N., Del Carmen Giménez-López, M.,",
+        "journal": "Nanotechnology, 22(7), 075704–075704",
+        "link": "https://doi.org/10.1088/0957-4484/7/075704"
+      },
+      "risks": [
+        "DOI link has extra numeric suffix"
+      ],
+      "severity": "low"
+    },
+    {
+      "file": "2011.json",
+      "year": "2011",
+      "index": 21,
+      "publication": {
+        "year": 2011,
+        "title": "Tailoring the magnetism of GaMnAs films by ion irradiation.",
+        "authors": "Li, L., Yao, S. D., Zhou, S., Bürger, D., Roshchupkina, O., Akhmadaliev, S., Rushforth, A. W., Campion, R. P., Fassbender, J., Helm,",
+        "journal": "Journal of Physics D: Applied Physics, 44(4), 045001–045001",
+        "link": "https://doi.org/10.1088/0022-3727/4/045001"
+      },
+      "risks": [
+        "DOI link has extra numeric suffix"
+      ],
+      "severity": "low"
+    },
+    {
+      "file": "2012.json",
+      "year": "2012",
+      "index": 0,
+      "publication": {
+        "year": 2012,
+        "title": "Vibrational modes of elongated sessile liquid droplets. Temperton, R. H., & Sharp, J. S. (2013). Langmuir, 29(15), 4737–4742. https://doi.org/10.1021/LA304520C",
+        "authors": "",
+        "journal": "Journal of Physical Chemistry C, 116(34), 18184–18192",
+        "link": "https://doi.org/10.1021/JP3025864"
+      },
+      "risks": [
+        "Empty authors field"
+      ],
+      "severity": "low"
+    },
+    {
+      "file": "2012.json",
+      "year": "2012",
+      "index": 3,
+      "publication": {
+        "year": 2012,
+        "title": "Effect of the tip state during qPlus noncontact atomic force microscopy of Si(100) at 5 K: Probing the probe. Sweetman, A., Jarvis, S., Danza, R., & Moriarty, P. (2012). Beilstein Journal of Nanotechnology 3:3, 3(1), 25–32. https://doi.org/10.3762/BJNANO.3.3",
+        "authors": "",
+        "journal": "Journal of Chemical Physics, 137(22), 224706–224706",
+        "link": "https://doi.org/10.1063/1.4770496"
+      },
+      "risks": [
+        "Empty authors field"
+      ],
+      "severity": "low"
+    },
+    {
+      "file": "2012.json",
+      "year": "2012",
+      "index": 7,
+      "publication": {
+        "year": 2012,
+        "title": "Manifestation of dynamic Jahn–Teller",
+        "authors": "distortions and surface interactions in scanning tunnelling microscopy images of the fullerene anion C−60. Man, H., Halim, M., Sawa, H., -, al, Khomskii -, D. I., compounds Sohan Lal, C., Pandey -, S. K., Dunn,",
+        "journal": "New Journal of Physics, 14(8), 083038–083038",
+        "link": "https://doi.org/10.1088/1367-2630/8/083038"
+      },
+      "risks": [
+        "DOI link has extra numeric suffix"
+      ],
+      "severity": "low"
+    },
+    {
+      "file": "2013.json",
+      "year": "2013",
+      "index": 3,
+      "publication": {
+        "year": 2013,
+        "title": "Domain wall motion driven by spin Hall effect—Tuning with in-plane magnetic anisotropy. Rushforth, A. W. (2014). Applied Physics Letters, 104(16), 162408–162408. https://doi.org/10.1063/1.4873583/131293",
+        "authors": "",
+        "journal": "Applied Physics Letters, 102(3), 32405–32405",
+        "link": "https://doi.org/10.1063/1.4789396"
+      },
+      "risks": [
+        "Empty authors field"
+      ],
+      "severity": "low"
+    },
+    {
+      "file": "2013.json",
+      "year": "2013",
+      "index": 11,
+      "publication": {
+        "year": 2013,
+        "title": "Optimal geometry for a quartz multipurpose SPM sensor. Stirling, J. (2013). Beilstein Journal of Nanotechnology 4:43, 4(1), 370–376. https://doi.org/10.3762/BJNANO.4.43",
+        "authors": "",
+        "journal": "Journal of Physical Chemistry C, 117(36), 18381–18385",
+        "link": "https://doi.org/10.1021/JP402333M"
+      },
+      "risks": [
+        "Empty authors field"
+      ],
+      "severity": "low"
+    },
+    {
+      "file": "2014.json",
+      "year": "2014",
+      "index": 5,
+      "publication": {
+        "year": 2014,
+        "title": "Determining Curie temperatures in dilute ferromagnetic semiconductors: High Curie temperature (Ga,Mn)As. Wang, M., Marshall, R. A., Edmonds, K. W., Rushforth, A. W., Campion, R. P., & Gallagher, B. L. (2014). Applied Physics Letters, 104(13), 132406–132406. https://doi.org/10.1063/1.4870521/23925",
+        "authors": "",
+        "journal": "Applied Physics Letters, 104(16), 162408–162408",
+        "link": "https://doi.org/10.1063/1.4873583"
+      },
+      "risks": [
+        "Empty authors field"
+      ],
+      "severity": "low"
+    },
+    {
+      "file": "2014.json",
+      "year": "2014",
+      "index": 13,
+      "publication": {
+        "year": 2014,
+        "title": "Surface-based supramolecular chemistry using hydrogen bonds. Slater, A. G., Perdigão, L. M. A., Beton, P. H., & Champness, N. R. (2014). Accounts of Chemical Research, 47(12), 3417–3427. https://doi.org/10.1021/AR5001378",
+        "authors": "",
+        "journal": "Applied Physics Letters, 105(1), 12402–12402",
+        "link": "https://doi.org/10.1063/1.4888645"
+      },
+      "risks": [
+        "Empty authors field"
+      ],
+      "severity": "low"
+    },
+    {
+      "file": "2015.json",
+      "year": "2015",
+      "index": 4,
+      "publication": {
+        "year": 2015,
+        "title": "Graphene-InSe-graphene van der Waals heterostructures.",
+        "authors": "Svatek, S. A., Mudd, G. W., Kudrynskyi, Z. R., Makarovsky, O., Kovalyuk, Z. D., Mellor, C. J., Eaves, L., Beton, P. H., & Patanè,",
+        "journal": "Journal of Physics: Conference Series, 647(1), 012001–012001",
+        "link": "https://doi.org/10.1088/1742-6596/1/012001"
+      },
+      "risks": [
+        "DOI link has extra numeric suffix"
+      ],
+      "severity": "low"
+    },
+    {
+      "file": "2015.json",
+      "year": "2015",
+      "index": 7,
+      "publication": {
+        "year": 2015,
+        "title": "Insights into Kelvin probe force microscopy data of insulator-supported molecules. Neff, J. L., & Rahe, P. (2015). Physical Review B – Condensed Matter and Materials Physics, 91(8). https://doi.org/10.1103/PHYSREVB.91.085424",
+        "authors": "",
+        "journal": "AIP Advances, 5(12), 127108–127108",
+        "link": "https://doi.org/10.1063/1.4937556"
+      },
+      "risks": [
+        "Empty authors field"
+      ],
+      "severity": "low"
+    },
+    {
+      "file": "2015.json",
+      "year": "2015",
+      "index": 11,
+      "publication": {
+        "year": 2015,
+        "title": "Nano-contact microscopy of supracrystals. Sweetman, A., Goubet, N., Lekkas, I., Pileni, M. P., & Moriarty, P. (2015). Beilstein Journal of Nanotechnology 6:126, 6(1), 1229–1236. https://doi.org/10.3762/BJNANO.6.126",
+        "authors": "",
+        "journal": "Journal of Physical Chemistry C, 119(41), 23544–23551",
+        "link": "https://doi.org/10.1021/ACS.JPCC.5B07133"
+      },
+      "risks": [
+        "Empty authors field"
+      ],
+      "severity": "low"
+    },
+    {
+      "file": "2016.json",
+      "year": "2016",
+      "index": 8,
+      "publication": {
+        "year": 2016,
+        "title": "Quantum confinement and photoresponsivity of β-In2Se3 nanosheets grown by physical vapour transport.",
+        "authors": "Balakrishnan, N., Staddon, C. R., Smith, E. F., Stec, J., Gay, D., Mudd, G. W., Makarovsky, O., Kudrynskyi, Z. R., Kovalyuk, Z. D., Eaves,",
+        "journal": "2D Materials, 3(2), 025030–025030",
+        "link": "https://doi.org/10.1088/2053-1583/2/025030"
+      },
+      "risks": [
+        "DOI link has extra numeric suffix"
+      ],
+      "severity": "low"
+    },
+    {
+      "file": "2017.json",
+      "year": "2017",
+      "index": 2,
+      "publication": {
+        "year": 2017,
+        "title": "Automated extraction of single H atoms with STM: tip state dependency.",
+        "authors": "Gordon, O. M., Junqueira, F. L. Q., Moriarty, P. J., Shirley, Y. L., Ellsworth-Bowers, T. P., Svoboda, B., Møller, M., Jarvis, S. P., Guérinet, L., Sharp, P., Woolley, R., Rahe, P., & Moriarty, P.",
+        "journal": "Nanotechnology, 28(7), 075302–075302",
+        "link": "https://doi.org/10.1088/1361-6528/7/075302"
+      },
+      "risks": [
+        "DOI link has extra numeric suffix"
+      ],
+      "severity": "low"
+    },
+    {
+      "file": "2018.json",
+      "year": "2018",
+      "index": 13,
+      "publication": {
+        "year": 2018,
+        "title": "Scanning photocurrent microscopy of 3D printed light trapping structures in dye-sensitized solar cells. Knott, A., Makarovskiy, O., O’Shea, J., Wu, Y., & Tuck, C. (2018). Solar Energy Materials and Solar Cells, 180, 103–109. https://doi.org/10.1016/J.SOLMAT.2018.02.028",
+        "authors": "",
+        "journal": "Journal of Physical Chemistry C, 122(33), 19067–19074",
+        "link": "https://doi.org/10.1021/ACS.JPCC.8B06036"
+      },
+      "risks": [
+        "Empty authors field"
+      ],
+      "severity": "low"
+    },
+    {
+      "file": "2019.json",
+      "year": "2019",
+      "index": 10,
+      "publication": {
+        "year": 2019,
+        "title": "Rushing or dragging? An analysis of the ‘universality’ of correlated fluctuations in hi-hat timing and dynamics. Gordon, O., Coy, D., Matthews, J., Kandola-McNicholas, E., Llewellyn, O., Bokhari, A., & Moriarty, P. (2019).",
+        "authors": "",
+        "journal": "Review of Scientific Instruments, 90(10), 103704–103704",
+        "link": "https://doi.org/10.1063/1.5099590"
+      },
+      "risks": [
+        "Empty authors field"
+      ],
+      "severity": "low"
+    },
+    {
+      "file": "2023.json",
+      "year": "2023",
+      "index": 3,
+      "publication": {
+        "year": 2023,
+        "title": "Beyond the quantum woo-niverse.",
+        "authors": "Moriarty, P. (2023).",
+        "journal": "Physics World, 36(6), 56–57.",
+        "link": "https://doi.org/10.1088/2058-7058/06/31"
+      },
+      "risks": [
+        "DOI link has extra numeric suffix"
+      ],
+      "severity": "low"
+    },
+    {
+      "file": "2023.json",
+      "year": "2023",
+      "index": 22,
+      "publication": {
+        "year": 2023,
+        "title": "Shreddinger’s equation.",
+        "authors": "Moriarty, P. (2023).",
+        "journal": "Physics World, 36(9), 44–44.",
+        "link": "https://doi.org/10.1088/2058-7058/09/28"
+      },
+      "risks": [
+        "DOI link has extra numeric suffix"
+      ],
+      "severity": "low"
+    },
+    {
+      "file": "2024.json",
+      "year": "2024",
+      "index": 7,
+      "publication": {
+        "year": 2024,
+        "title": "H1dd3n variab7es.",
+        "authors": "Moriarty, P. (2024).",
+        "journal": "Physics World, 37(7), 48–48.",
+        "link": "https://doi.org/10.1088/2058-7058/07/30"
+      },
+      "risks": [
+        "DOI link has extra numeric suffix"
+      ],
+      "severity": "low"
+    },
+    {
+      "file": "2024.json",
+      "year": "2024",
+      "index": 10,
+      "publication": {
+        "year": 2024,
+        "title": "Magnetic domain engineering in antiferromagnetic \n<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\" overflow=\"scroll\"><mml:mrow><mml:mi>Cu</mml:mi><mml:mi>Mn</mml:mi><mml:mi>As</mml:mi></mml:mrow></mml:math>\n and \n<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\" overflow=\"scroll\"><mml:mi>Mn</mml:mi></mml:math>\n<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\" overflow=\"scroll\"><mml:msub><mml:mi/><mml:mn>2</mml:mn></mml:msub></mml:math>\n<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\" overflow=\"scroll\"><mml:mi>Au</mml:mi></mml:math>",
+        "authors": "Sonka Reimers, Olena Gomonay, Oliver J. Amin, Filip Krizek, Luke X. Barton, Yaryna Lytvynenko, Stuart F. Poole, Vit Novák, Richard P. Campion, Francesco Maccherozzi, Gerardina Carbone, Alexander Björling, Yuran Niu, Evangelos Golias, Dominik Kriegner, Jairo Sinova, Mathias Kläui, Martin Jourdan, Sarnjeet S. Dhesi, Kevin W. Edmonds, Peter Wadley",
+        "journal": "Physical Review Applied",
+        "link": "https://doi.org/10.1103/PHYSREVAPPLIED.21.064030"
+      },
+      "risks": [
+        "Title field exceptionally long (may contain multiple papers)"
+      ],
+      "severity": "low"
+    }
+  ],
+  "analysisDate": "2025-07-02T22:02:52.549Z"
+}

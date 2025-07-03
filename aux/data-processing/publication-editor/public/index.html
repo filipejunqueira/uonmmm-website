@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Publication Editor</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📝 Publication Editor</h1>
+            <div class="stats" id="stats">
+                <span id="total-count">Loading...</span>
+                <span id="progress-bar">
+                    <div class="progress-container">
+                        <div class="progress-fill" id="progress-fill"></div>
+                    </div>
+                </span>
+            </div>
+        </header>
+
+        <nav class="tabs">
+            <button class="tab-button active" data-tab="high">High Priority</button>
+            <button class="tab-button" data-tab="medium">Medium Priority</button>
+            <button class="tab-button" data-tab="low">Low Priority</button>
+        </nav>
+
+        <main id="main-content">
+            <div class="loading" id="loading">
+                <div class="spinner"></div>
+                <p>Loading validation data...</p>
+            </div>
+
+            <div class="tab-content" id="high" style="display: none;">
+                <h2>🚨 High Priority (5-20% similarity)</h2>
+                <div class="publications-list" id="high-list"></div>
+            </div>
+
+            <div class="tab-content" id="medium" style="display: none;">
+                <h2>⚠️ Medium Priority (21-40% similarity)</h2>
+                <div class="publications-list" id="medium-list"></div>
+            </div>
+
+            <div class="tab-content" id="low" style="display: none;">
+                <h2>ℹ️ Low Priority (41-60% similarity)</h2>
+                <div class="publications-list" id="low-list"></div>
+            </div>
+        </main>
+
+        <div class="notification" id="notification"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

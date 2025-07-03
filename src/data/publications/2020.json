@@ -1,163 +1,289 @@
 [
   {
     "year": 2020,
-    "title": "A LEGO^TM dynamic force “macroscope”. Taylor, D., Smaje, ; H, Moriarty, ; P, Smaje, H., & Moriarty, P. (2020). American Journal of Physics, 88(11), 906–917. https://doi.org/10.1119/10.0001700",
-    "authors": "Atomic reconstruction in twisted bilayers of transition metal dichalcogenides. Weston, A., Zou, Y., Enaldiev, V., Summerfield, A., Clark, N., Zólyomi, V., Graham, A., Yelgel, C., Magorrian, S., Zhou, M., Zultak, J., Hopkinson, D., Barinov, A., Bointon, T. H., Kretinin, A., Wilson, N. R.,",
-    "journal": "Nature Nanotechnology 2020 15:7, 15(7), 592–597",
+    "title": "A Coordinated Approach to Chemical Reactivity",
+    "authors": "Moriarty, P",
+    "journal": "(2020). APS Physics, 13, 28–28",
+    "link": ""
+  },
+  {
+    "year": 2020,
+    "title": "A LEGO^TM dynamic force “macroscope”",
+    "authors": "Taylor, D., Smaje, ; H, Moriarty, ; P, Smaje, H., & Moriarty, P",
+    "journal": "(2020). American Journal of Physics, 88(11), 906–917. https://doi.org/10.1119/10.0001700",
+    "link": "https://doi.org/10.1119/10.0001700"
+  },
+  {
+    "year": 2020,
+    "title": "Atomic reconstruction in twisted bilayers of transition metal dichalcogenides",
+    "authors": "Weston, A., Zou, Y., Enaldiev, V., Summerfield, A., Clark, N., Zólyomi, V., Graham, A., Yelgel, C., Magorrian, S., Zhou, M., Zultak, J., Hopkinson, D., Barinov, A., Bointon, T. H., Kretinin, A., Wilson, N. R., Beton, P. H., Fal’ko, V. I., Haigh, S. J., & Gorbachev, R",
+    "journal": "(2020). Nature Nanotechnology 2020 15:7, 15(7), 592–597. https://doi.org/10.1038/s41565-020-0682-9",
     "link": "https://doi.org/10.1038/s41565-020-0682-9"
   },
   {
     "year": 2020,
-    "title": "Complementary Lateral-Spin–Orbit Building Blocks for Programmable Logic and In-Memory Computing. Zhang, N., Cao, Y., Li, Y., Rushforth, A. W., Ji, Y., Zheng, H., & Wang, K. (2020). Advanced Electronic Materials, 6(8), 2000296–2000296. https://doi.org/10.1002/AELM.202000296",
-    "authors": "",
-    "journal": "Journal of Physics D: Applied Physics, 53(16), 164001–164001",
+    "title": "Automated Searching and Identification of Self-Organized Nanostructures",
+    "authors": "Gordon, O. M., Hodgkinson, J. E. A., Farley, S. M., Hunsicker, E. L., & Moriarty, P. J",
+    "journal": "(2020). Nano Letters, 20(10), 7688–7693. https://doi.org/10.1021/ACS.NANOLETT.0C03213",
+    "link": "https://doi.org/10.1021/ACS.NANOLETT.0C03213"
+  },
+  {
+    "year": 2020,
+    "title": "Complementary Lateral-Spin–Orbit Building Blocks for Programmable Logic and In-Memory Computing",
+    "authors": "Zhang, N., Cao, Y., Li, Y., Rushforth, A. W., Ji, Y., Zheng, H., & Wang, K",
+    "journal": "(2020). Advanced Electronic Materials, 6(8), 2000296–2000296. https://doi.org/10.1002/AELM.202000296",
+    "link": "https://doi.org/10.1002/AELM.202000296"
+  },
+  {
+    "year": 2020,
+    "title": "Deterministic magnetic domain wall motion induced by pulsed anisotropy energy",
+    "authors": "Rushforth, A. W., Rowan-Robinson, R., & Zemen, J",
+    "journal": "(2020). Journal of Physics D: Applied Physics, 53(16), 164001–164001. https://doi.org/10.1088/1361-6463/AB6CC7",
     "link": "https://doi.org/10.1088/1361-6463/AB6CC7"
   },
   {
     "year": 2020,
-    "title": "Deterministic Magnetization Switching Using Lateral Spin–Orbit Torque.",
-    "authors": "Cao, Y., Sheng, Y., William Edmonds, K., Ji, Y., Zheng, H., Wang, K., Cao, Y., Sheng, Y., Ji, Y., Zheng, H., Wang, K., & Edmonds, K. W.",
-    "journal": "Advanced Materials, 32(16), 1907929–1907929",
+    "title": "Deterministic Magnetization Switching Using Lateral Spin–Orbit Torque",
+    "authors": "Cao, Y., Sheng, Y., William Edmonds, K., Ji, Y., Zheng, H., Wang, K., Cao, Y., Sheng, Y., Ji, Y., Zheng, H., Wang, K., & Edmonds, K. W",
+    "journal": "(2020). Advanced Materials, 32(16), 1907929–1907929. https://doi.org/10.1002/ADMA.201907929",
     "link": "https://doi.org/10.1002/ADMA.201907929"
   },
   {
     "year": 2020,
-    "title": "Electrical control of antiferromagnets for the next generation of computing technology. Amin, O. J., Edmonds, K. W., & Wadley, P. (2020). Applied Physics Letters, 117(1), 10501–10501. https://doi.org/10.1063/5.0013917/39017",
-    "authors": "",
-    "journal": "Machine Learning: Science and Technology, 1(1), 15001–15001",
+    "title": "Electrical control of antiferromagnets for the next generation of computing technology",
+    "authors": "Amin, O. J., Edmonds, K. W., & Wadley, P",
+    "journal": "(2020). Applied Physics Letters, 117(1), 10501–10501. https://doi.org/10.1063/5.0013917/39017",
+    "link": "https://doi.org/10.1063/5.0013917/39017"
+  },
+  {
+    "year": 2020,
+    "title": "Embedding human heuristics in machine-learning-enabled probe microscopy",
+    "authors": "Gordon, O. M., Junqueira, F. L. Q., & Moriarty, P. J",
+    "journal": "(2020). Machine Learning: Science and Technology, 1(1), 15001–15001. https://doi.org/10.1088/2632-2153/ab42ec",
     "link": "https://doi.org/10.1088/2632-2153/ab42ec"
   },
   {
     "year": 2020,
-    "title": "Emerging edge states on the surface of the epitaxial semimetal CuMnAs thin film. Nguyen, G. D., Pitike, K. C., Wadley, P., Cooper, V. R., Yoon, M., Berlijn, T., & Li, A. P. (2020). Applied Physics Letters, 116(6), 61603–61603. https://doi.org/10.1063/1.5130624/8748802",
-    "authors": "",
-    "journal": "ACS Nano, 14(10), 13886–13893",
+    "title": "Emerging edge states on the surface of the epitaxial semimetal CuMnAs thin film",
+    "authors": "Nguyen, G. D., Pitike, K. C., Wadley, P., Cooper, V. R., Yoon, M., Berlijn, T., & Li, A. P",
+    "journal": "(2020). Applied Physics Letters, 116(6), 61603–61603. https://doi.org/10.1063/1.5130624/8748802",
+    "link": "https://doi.org/10.1063/1.5130624/8748802"
+  },
+  {
+    "year": 2020,
+    "title": "Fluorescence and electroluminescence of j-aggregated polythiophene monolayers on hexagonal boron nitride",
+    "authors": "Kerfoot, J., Beton, P. H., Svatek, S. A., Korolkov, V. V., Taniguchi, T., Watanabe, K., & Antolin, E",
+    "journal": "(2020). ACS Nano, 14(10), 13886–13893. https://doi.org/10.1021/ACSNANO.0C06280",
     "link": "https://doi.org/10.1021/ACSNANO.0C06280"
   },
   {
     "year": 2020,
-    "title": "Highly efficient hydrogen evolution reaction, plasmon-enhanced by AuNP-L-TiO2NP photocatalysts.",
-    "authors": "Castillo-Rodriguez, J., Ortiz, P. D., Isaacs, M., Martinez, N. P., O’Shea, J. N., Hart, J., Temperton, R., Zarate, X., Contreras, D., &",
-    "journal": "New Journal of Chemistry, 44(38), 16491–16500",
+    "title": "Highly efficient hydrogen evolution reaction, plasmon-enhanced by AuNP-L-TiO2NP photocatalysts",
+    "authors": "Castillo-Rodriguez, J., Ortiz, P. D., Isaacs, M., Martinez, N. P., O’Shea, J. N., Hart, J., Temperton, R., Zarate, X., Contreras, D., & Schott, E",
+    "journal": "(2020). New Journal of Chemistry, 44(38), 16491–16500. https://doi.org/10.1039/D0NJ03250F",
     "link": "https://doi.org/10.1039/D0NJ03250F"
   },
   {
     "year": 2020,
-    "title": "Identifying carbon as the source of visible single-photon emission from hexagonal boron nitride.",
-    "authors": "Mendelson, N., Chugh, D., Reimers, J. R., Cheng, T. S., Gottscholl, A., Long, H., Mellor, C. J., Zettl, A., Dyakonov, V., Beton, P. H., Novikov, S. V., Jagadish, C., Tan, H. H., Ford, M. J., Toth, M., Bradac,",
-    "journal": "Nature Materials 2020 20:3, 20(3), 321–328",
+    "title": "Identifying carbon as the source of visible single-photon emission from hexagonal boron nitride",
+    "authors": "Mendelson, N., Chugh, D., Reimers, J. R., Cheng, T. S., Gottscholl, A., Long, H., Mellor, C. J., Zettl, A., Dyakonov, V., Beton, P. H., Novikov, S. V., Jagadish, C., Tan, H. H., Ford, M. J., Toth, M., Bradac, C., & Aharonovich, I",
+    "journal": "(2020). Nature Materials 2020 20:3, 20(3), 321–328. https://doi.org/10.1038/s41563-020-00850-y",
     "link": "https://doi.org/10.1038/s41563-020-00850-y"
   },
   {
     "year": 2020,
-    "title": "Improving the segmentation of scanning probe microscope images using convolutional neural networks. Farley, S., Hodgkinson, J. E. A., Gordon, O. M., Turner, J., Soltoggio, A., Moriarty, P. J., & Hunsicker, E. (2020). Machine Learning: Science and Technology, 2(1), 15015–15015. https://doi.org/10.1088/2632-2153/abc81c",
-    "authors": "Investigation of magnetic anisotropy and heat dissipation in thin films of compensated antiferromagnet CuMnAs by",
-    "journal": "Journal of Applied Physics, 127(23), 233904–233904",
-    "link": "https://doi.org/10.1063/5.0006185"
+    "title": "Improving the segmentation of scanning probe microscope images using convolutional neural networks",
+    "authors": "Farley, S., Hodgkinson, J. E. A., Gordon, O. M., Turner, J., Soltoggio, A., Moriarty, P. J., & Hunsicker, E",
+    "journal": "(2020). Machine Learning: Science and Technology, 2(1), 15015–15015. https://doi.org/10.1088/2632-2153/abc81c",
+    "link": "https://doi.org/10.1088/2632-2153/abc81c"
   },
   {
     "year": 2020,
-    "title": "Low-energy switching of antiferromagnetic CuMnAs/GaP using sub-10 nanosecond current pulses.",
-    "authors": "Omari, K. A., Barton, ; L X, Amin, ; O, Campion, ; R P, Rushforth, ; A W, Kent, ; A J, Wadley, ; P, Edmonds, ; K W, Barton, L. X., Amin, O., Campion, R. P., Rushforth, A. W., Kent, A. J., Wadley, P., &",
-    "journal": "Journal of Applied Physics, 127(19), 193906–193906",
+    "title": "Investigation of magnetic anisotropy and heat dissipation in thin films of compensated antiferromagnet CuMnAs by pump-probe experiment",
+    "authors": "Surýnek, M., Saidl, V., Kašpar, Z., Novák, V., Campion, R. P., Wadley, P., & Němec, P",
+    "journal": "(2020). Journal of Applied Physics, 127(23), 233904–233904. https://doi.org/10.1063/5.0006185/1062586",
+    "link": "https://doi.org/10.1063/5.0006185/1062586"
+  },
+  {
+    "year": 2020,
+    "title": "Low-energy switching of antiferromagnetic CuMnAs/GaP using sub-10 nanosecond current pulses",
+    "authors": "Omari, K. A., Barton, ; L X, Amin, ; O, Campion, ; R P, Rushforth, ; A W, Kent, ; A J, Wadley, ; P, Edmonds, ; K W, Barton, L. X., Amin, O., Campion, R. P., Rushforth, A. W., Kent, A. J., Wadley, P., & Edmonds, K. W",
+    "journal": "(2020). Journal of Applied Physics, 127(19), 193906–193906. https://doi.org/10.1063/5.0006183",
     "link": "https://doi.org/10.1063/5.0006183"
   },
   {
     "year": 2020,
-    "title": "Machine learning at the (sub)atomic scale: Next generation scanning probe microscopy. Gordon, O. M., & Moriarty, P. J. (2020). Machine Learning: Science and Technology, 1(2), 23001–23001. https://doi.org/10.1088/2632-2153/ab7d2f",
-    "authors": "Magneto-Seebeck microscopy of domain switching in collinear antiferromagnet CuMnAs. Janda, T., Godinho, J., Ostatnicky, T., Pfitzner, E., Ulrich, G., Hoehl, A., Reimers, S., Šobáň, Z., Metzger, T., Reichlová, H., Novák, V., Campion, R. P., Heberle, J., Wadley, P., Edmonds, K. W., Amin, O. J., Chauhan, J. S., Dhesi, S. S., Maccherozzi, F., … Wunderlich, J.",
-    "journal": "Physical Review Materials, 4(9), 094413–094413",
+    "title": "Machine learning at the (sub)atomic scale: Next generation scanning probe microscopy",
+    "authors": "Gordon, O. M., & Moriarty, P. J",
+    "journal": "(2020). Machine Learning: Science and Technology, 1(2), 23001–23001. https://doi.org/10.1088/2632-2153/ab7d2f",
+    "link": "https://doi.org/10.1088/2632-2153/ab7d2f"
+  },
+  {
+    "year": 2020,
+    "title": "Magneto-Seebeck microscopy of domain switching in collinear antiferromagnet CuMnAs",
+    "authors": "Janda, T., Godinho, J., Ostatnicky, T., Pfitzner, E., Ulrich, G., Hoehl, A., Reimers, S., Šobáň, Z., Metzger, T., Reichlová, H., Novák, V., Campion, R. P., Heberle, J., Wadley, P., Edmonds, K. W., Amin, O. J., Chauhan, J. S., Dhesi, S. S., Maccherozzi, F., … Wunderlich, J",
+    "journal": "(2020). Physical Review Materials, 4(9), 094413–094413. https://doi.org/10.1103/PHYSREVMATERIALS.4.094413",
     "link": "https://doi.org/10.1103/PHYSREVMATERIALS.4.094413"
   },
   {
     "year": 2020,
-    "title": "Magnon polaron formed by selectively coupled coherent magnon and phonon modes of a surface patterned ferromagnet.",
-    "authors": "Godejohann, F., Scherbakov, A. V., Kukhtaruk, S. M., Poddubny, A. N., Yaremkevich, D. D., Wang, M., Nadzeyka, A., Yakovlev, D. R., Rushforth,",
-    "journal": "Physical Review B, 102(14), 144438–144438",
+    "title": "Magnon polaron formed by selectively coupled coherent magnon and phonon modes of a surface patterned ferromagnet",
+    "authors": "Godejohann, F., Scherbakov, A. V., Kukhtaruk, S. M., Poddubny, A. N., Yaremkevich, D. D., Wang, M., Nadzeyka, A., Yakovlev, D. R., Rushforth, A. W., Akimov, A. V., & Bayer, M",
+    "journal": "(2020). Physical Review B, 102(14), 144438–144438. https://doi.org/10.1103/PHYSREVB.102.144438",
     "link": "https://doi.org/10.1103/PHYSREVB.102.144438"
   },
   {
     "year": 2020,
-    "title": "Merging phonons and magnons in periodic ferromagnetic nanostructures.",
-    "authors": "Scherbakov, A., Godejohann, F., Kukhtaruk, S., Poddubny, A., Yaremkevich, D., Wang, M., Nadzeyka, A., Yakovlev, D., Rushforth, A.,",
-    "journal": "3043–3043",
+    "title": "Merging phonons and magnons in periodic ferromagnetic nanostructures",
+    "authors": "Scherbakov, A., Godejohann, F., Kukhtaruk, S., Poddubny, A., Yaremkevich, D., Wang, M., Nadzeyka, A., Yakovlev, D., Rushforth, A., Akimov, A., & Bayer, M",
+    "journal": "(2020). 3043–3043. https://doi.org/10.48465/FA.2020.0746",
     "link": "https://doi.org/10.48465/FA.2020.0746"
   },
   {
     "year": 2020,
-    "title": "Modeling Photocathode Performance Using MedeA-VASP Simulation Software. Williams, J. O. D., Lapington, J. S., Campion, R., Foxon, T., Temperton, R. H., & O’Shea, J. N. (2020). IEEE Transactions on Nuclear Science, 67(9), 1987–1992. https://doi.org/10.1109/TNS.2020.3011355",
-    "authors": "Molecular beam epitaxy of CuMnAs. Krizek, F., Kašpar, Z., Vetushka, A., Kriegner, D., Fiordaliso, E. M., Michalicka, J., Man, O., Zubáč, J., Brajer, M., Hills, V. A., Edmonds, K. W., Wadley, P., Campion, R. P., Olejník, K., Jungwirth, T., &",
-    "journal": "Physical Review Materials, 4(1), 014409–014409",
+    "title": "Modeling Photocathode Performance Using MedeA-VASP Simulation Software",
+    "authors": "Williams, J. O. D., Lapington, J. S., Campion, R., Foxon, T., Temperton, R. H., & O’Shea, J. N",
+    "journal": "(2020). IEEE Transactions on Nuclear Science, 67(9), 1987–1992. https://doi.org/10.1109/TNS.2020.3011355",
+    "link": "https://doi.org/10.1109/TNS.2020.3011355"
+  },
+  {
+    "year": 2020,
+    "title": "Molecular beam epitaxy of CuMnAs",
+    "authors": "Krizek, F., Kašpar, Z., Vetushka, A., Kriegner, D., Fiordaliso, E. M., Michalicka, J., Man, O., Zubáč, J., Brajer, M., Hills, V. A., Edmonds, K. W., Wadley, P., Campion, R. P., Olejník, K., Jungwirth, T., & Novák, V",
+    "journal": "(2020). Physical Review Materials, 4(1), 014409–014409. https://doi.org/10.1103/PHYSREVMATERIALS.4.014409",
     "link": "https://doi.org/10.1103/PHYSREVMATERIALS.4.014409"
   },
   {
     "year": 2020,
-    "title": "Molecular Diffusion and Self-Assembly: Quantifying the Influence of Substrate hcp and fcc Atomic Stacking. Edmondson, M., & Saywell, A. (2022). Nano Letters, 22(20), 8210–8215. https://doi.org/10.1021/ACS.NANOLETT.2C02895",
-    "authors": "",
-    "journal": "Physical Review Letters, 125(20), 206803–206803",
+    "title": "Molecular Diffusion and Self-Assembly: Quantifying the Influence of Substrate hcp and fcc Atomic Stacking",
+    "authors": "Edmondson, M., & Saywell, A. (2022)",
+    "journal": "Nano Letters, 22(20), 8210–8215. https://doi.org/10.1021/ACS.NANOLETT.2C02895",
+    "link": "https://doi.org/10.1021/ACS.NANOLETT.2C02895"
+  },
+  {
+    "year": 2020,
+    "title": "Molecular Quantum Rings Formed from a π -Conjugated Macrocycle",
+    "authors": "Judd, C. J., Nizovtsev, A. S., Plougmann, R., Kondratuk, D. V., Anderson, H. L., Besley, E., & Saywell, A",
+    "journal": "(2020). Physical Review Letters, 125(20), 206803–206803. https://doi.org/10.1103/PHYSREVLETT.125.206803",
     "link": "https://doi.org/10.1103/PHYSREVLETT.125.206803"
   },
   {
     "year": 2020,
-    "title": "Natural optical activity as the origin of the large chiroptical properties in π-conjugated polymer thin films.",
-    "authors": "Wade, J., Hilfiker, J. N., Brandt, J. R., Liirò-Peluso, L., Wan, L., Shi, X., Salerno, F., Ryan, S. T. J., Schöche, S., Arteaga, O., Jávorfi, T., Siligardi, G., Wang, C., Amabilino, D. B., Beton, P. H., Campbell,",
-    "journal": "Nature Communications 2020 11:1, 11(1), 1–11",
+    "title": "Natural optical activity as the origin of the large chiroptical properties in π-conjugated polymer thin films",
+    "authors": "Wade, J., Hilfiker, J. N., Brandt, J. R., Liirò-Peluso, L., Wan, L., Shi, X., Salerno, F., Ryan, S. T. J., Schöche, S., Arteaga, O., Jávorfi, T., Siligardi, G., Wang, C., Amabilino, D. B., Beton, P. H., Campbell, A. J., & Fuchter, M. J",
+    "journal": "(2020). Nature Communications 2020 11:1, 11(1), 1–11. https://doi.org/10.1038/s41467-020-19951-y",
     "link": "https://doi.org/10.1038/s41467-020-19951-y"
   },
   {
     "year": 2020,
-    "title": "Production and processing of graphene and related materials.",
-    "authors": "Backes, C., Abdelkader, A. M., Alonso, C., Andrieux-Ledier, A., Arenal, R., Azpeitia, J., Balakrishnan, N., Banszerus, L., Barjon, J., Bartali, R., Bellani, S., Berger, C., Berger, R., Ortega, M. M. B., Bernard, C., Beton, P. H., Beyer, A., Bianco, A., Bøggild, P., … Garcia-Hernandez,",
-    "journal": "2D Materials, 7(2), 022001–022001",
+    "title": "On-surface chemical reactions characterised by ultra-high resolution scanning probe microscopy",
+    "authors": "Sweetman, A., Champness, N., Saywell, A., Adam Sweetman, S., Champness, N. R., Soc Rev, C., Zhang, C., & Pu, K",
+    "journal": "(2020). Chemical Society Reviews, 49(13), 4189–4202. https://doi.org/10.1039/D0CS00166J",
+    "link": "https://doi.org/10.1039/D0CS00166J"
+  },
+  {
+    "year": 2020,
+    "title": "Order, disorder, and metalation of tetraphenylporphyrin (2 H -TPP) on Au(111)",
+    "authors": "Edmondson, M., Frampton, E. S., Judd, C. J., Champness, N. R., Jones, R. G., & Saywell, A. (2022)",
+    "journal": "Chemical Communications, 58(42), 6247–6250. https://doi.org/10.1039/D2CC00820C",
+    "link": "https://doi.org/10.1039/D2CC00820C"
+  },
+  {
+    "year": 2020,
+    "title": "Production and processing of graphene and related materials",
+    "authors": "Backes, C., Abdelkader, A. M., Alonso, C., Andrieux-Ledier, A., Arenal, R., Azpeitia, J., Balakrishnan, N., Banszerus, L., Barjon, J., Bartali, R., Bellani, S., Berger, C., Berger, R., Ortega, M. M. B., Bernard, C., Beton, P. H., Beyer, A., Bianco, A., Bøggild, P., … Garcia-Hernandez, M",
+    "journal": "(2020). 2D Materials, 7(2), 022001–022001. https://doi.org/10.1088/2053-1583/AB1E0A",
     "link": "https://doi.org/10.1088/2053-1583/AB1E0A"
   },
   {
     "year": 2020,
-    "title": "Quadruped Molecular Anchoring to an Insulator: Functionalized Ferrocene on CaF 2 Bulk and Thin Film Surfaces. Laflö, L., Schlage, F. A., Kantorovich, L., Moriarty, P. J., Reichling, M., & Rahe, P. (2020). J. Phys. Chem. C, 124, 9907–9907. https://doi.org/10.1021/acs.jpcc.0c00115",
-    "authors": "Quenching of an antiferromagnet into high resistivity states using electrical or ultrashort optical pulses. Kašpar, Z., Surýnek, M., Zubáč, J., Krizek, F., Novák, V., Campion, R. P., Wörnle, M. S., Gambardella, P., Marti, X., Němec, P., Edmonds, K. W., Reimers, S., Amin, O. J., Maccherozzi, F., Dhesi, S. S., Wadley, P.,",
-    "journal": "Nature Electronics 2020 4:1, 4(1), 30–37",
+    "title": "Quadruped Molecular Anchoring to an Insulator: Functionalized Ferrocene on CaF 2 Bulk and Thin Film Surfaces",
+    "authors": "Laflö, L., Schlage, F. A., Kantorovich, L., Moriarty, P. J., Reichling, M., & Rahe, P",
+    "journal": "(2020). J. Phys. Chem. C, 124, 9907–9907. https://doi.org/10.1021/acs.jpcc.0c00115",
+    "link": "https://doi.org/10.1021/acs.jpcc.0c00115"
+  },
+  {
+    "year": 2020,
+    "title": "Quenching of an antiferromagnet into high resistivity states using electrical or ultrashort optical pulses",
+    "authors": "Kašpar, Z., Surýnek, M., Zubáč, J., Krizek, F., Novák, V., Campion, R. P., Wörnle, M. S., Gambardella, P., Marti, X., Němec, P., Edmonds, K. W., Reimers, S., Amin, O. J., Maccherozzi, F., Dhesi, S. S., Wadley, P., Wunderlich, J., Olejník, K., & Jungwirth, T",
+    "journal": "(2020). Nature Electronics 2020 4:1, 4(1), 30–37. https://doi.org/10.1038/s41928-020-00506-4",
     "link": "https://doi.org/10.1038/s41928-020-00506-4"
   },
   {
     "year": 2020,
-    "title": "Resonant thermal energy transfer to magnons in a ferromagnetic nanolayer.",
-    "authors": "Kobecki, M., Scherbakov, A. V., Linnik, T. L., Kukhtaruk, S. M., Gusev, V. E., Pattnaik, D. P., Akimov, I. A., Rushforth, A. W., Akimov, A. V.,",
-    "journal": "Nature Communications 2020 11:1, 11(1), 1–7",
+    "title": "Resonant thermal energy transfer to magnons in a ferromagnetic nanolayer",
+    "authors": "Kobecki, M., Scherbakov, A. V., Linnik, T. L., Kukhtaruk, S. M., Gusev, V. E., Pattnaik, D. P., Akimov, I. A., Rushforth, A. W., Akimov, A. V., & Bayer, M",
+    "journal": "(2020). Nature Communications 2020 11:1, 11(1), 1–7. https://doi.org/10.1038/s41467-020-17635-1",
     "link": "https://doi.org/10.1038/s41467-020-17635-1"
   },
   {
     "year": 2020,
-    "title": "Resonant tunnelling into the two-dimensional subbands of InSe layers.",
-    "authors": "Kudrynskyi, Z. R., Kerfoot, J., Mazumder, D., Greenaway, M. T., Vdovin, E. E., Makarovsky, O., Kovalyuk, Z. D., Eaves, L., Beton, P. H., &",
-    "journal": "Communications Physics 2020 3:1, 3(1), 1–7",
+    "title": "Resonant tunnelling into the two-dimensional subbands of InSe layers",
+    "authors": "Kudrynskyi, Z. R., Kerfoot, J., Mazumder, D., Greenaway, M. T., Vdovin, E. E., Makarovsky, O., Kovalyuk, Z. D., Eaves, L., Beton, P. H., & Patanè, A",
+    "journal": "(2020). Communications Physics 2020 3:1, 3(1), 1–7. https://doi.org/10.1038/s42005-020-0290-x",
     "link": "https://doi.org/10.1038/s42005-020-0290-x"
   },
   {
     "year": 2020,
-    "title": "Spectrum evolution of magnetostatic waves excited through ultrafast laser-induced heating. Filatov, I. A., Gerevenkov, P. I., Wang, M., Rushforth, A. W., Kalashnikova, A. M., & Khokhlov, N. E. (2020). Journal of Physics: Conference Series, 1697(1), 012193–012193. https://doi.org/10.1088/1742-6596/1697/1/012193",
-    "authors": "Spin flop and crystalline anisotropic magnetoresistance in CuMnAs. Wang, M., Andrews, C., Reimers, S., Amin, O. J., Wadley, P., Campion, R. P., Poole, S. F., Felton, J., Edmonds, K. W., Gallagher, B. L., Rushforth, A. W., Makarovsky, O., Gas, K., Sawicki, M., Kriegner, D., Zubáč, J., Olejník, K., Novák, V., Jungwirth, T., … MacCherozzi, F. (2020a). Physical Review B, 101(9), 094429–094429. https://doi.org/10.1103/PHYSREVB.101.094429 Step-flow growth of graphene-boron nitride lateral heterostructures by molecular beam epitaxy. Thomas, J., Bradford, J., Cheng, T. S., Summerfield, A., Wrigley, J., Mellor, C. J., Khlobystov, A. N., Foxon, C. T., Eaves, L., Novikov, S.",
-    "journal": "2D Materials, 7(3), 035014–035014",
+    "title": "Spectrum evolution of magnetostatic waves excited through ultrafast laser-induced heating",
+    "authors": "Filatov, I. A., Gerevenkov, P. I., Wang, M., Rushforth, A. W., Kalashnikova, A. M., & Khokhlov, N. E",
+    "journal": "(2020). Journal of Physics: Conference Series, 1697(1), 012193–012193. https://doi.org/10.1088/1742-6596/1697/1/012193",
+    "link": "https://doi.org/10.1088/1742-6596/1697/1/012193"
+  },
+  {
+    "year": 2020,
+    "title": "Spin flop and crystalline anisotropic magnetoresistance in CuMnAs",
+    "authors": "Wang, M., Andrews, C., Reimers, S., Amin, O. J., Wadley, P., Campion, R. P., Poole, S. F., Felton, J., Edmonds, K. W., Gallagher, B. L., Rushforth, A. W., Makarovsky, O., Gas, K., Sawicki, M., Kriegner, D., Zubáč, J., Olejník, K., Novák, V., Jungwirth, T., … MacCherozzi, F",
+    "journal": "(2020a). Physical Review B, 101(9), 094429–094429. https://doi.org/10.1103/PHYSREVB.101.094429",
+    "link": "https://doi.org/10.1103/PHYSREVB.101.094429"
+  },
+  {
+    "year": 2020,
+    "title": "Step-flow growth of graphene-boron nitride lateral heterostructures by molecular beam epitaxy",
+    "authors": "Thomas, J., Bradford, J., Cheng, T. S., Summerfield, A., Wrigley, J., Mellor, C. J., Khlobystov, A. N., Foxon, C. T., Eaves, L., Novikov, S. V., & Beton, P. H",
+    "journal": "(2020). 2D Materials, 7(3), 035014–035014. https://doi.org/10.1088/2053-1583/AB89E7",
     "link": "https://doi.org/10.1088/2053-1583/AB89E7"
   },
   {
     "year": 2020,
-    "title": "Structural characterisation of molecular conformation and the incorporation of adatoms in an on-surface Ullmann-type reaction. Judd, C. J., Junqueira, F. L. Q., Haddow, S. L., Champness, N. R., Duncan, D. A., Jones, R. G., & Saywell, A. (2020). Communications Chemistry 2020 3:1, 3(1), 1–8. https://doi.org/10.1038/s42004-020-00402-0",
-    "authors": "",
-    "journal": "Physical Review Applied, 13(2), 024039–024039",
+    "title": "Structural characterisation of molecular conformation and the incorporation of adatoms in an on-surface Ullmann-type reaction",
+    "authors": "Judd, C. J., Junqueira, F. L. Q., Haddow, S. L., Champness, N. R., Duncan, D. A., Jones, R. G., & Saywell, A",
+    "journal": "(2020). Communications Chemistry 2020 3:1, 3(1), 1–8. https://doi.org/10.1038/s42004-020-00402-0",
+    "link": "https://doi.org/10.1038/s42004-020-00402-0"
+  },
+  {
+    "year": 2020,
+    "title": "Suppression of Dynamically Induced Stochastic Magnetic Behavior Through Materials Engineering",
+    "authors": "Broomhall, T. J., Rushforth, A. W., Rosamond, M. C., Linfield, E. H., & Hayward, T. J",
+    "journal": "(2020). Physical Review Applied, 13(2), 024039–024039. https://doi.org/10.1103/PHYSREVAPPLIED.13.024039",
     "link": "https://doi.org/10.1103/PHYSREVAPPLIED.13.024039"
   },
   {
     "year": 2020,
-    "title": "Triplet Excitation and Electroluminescence from a Supramolecular Monolayer Embedded in a Boron Nitride Tunnel Barrier.",
-    "authors": "Svatek, S. A., Kerfoot, J., Summerfield, A., Nizovtsev, A. S., Korolkov, V. V., Taniguchi, T., Watanabe, K., Antolín, E., Besley, E.,",
-    "journal": "Nano Letters, 20(1), 278–283",
+    "title": "Triplet Excitation and Electroluminescence from a Supramolecular Monolayer Embedded in a Boron Nitride Tunnel Barrier",
+    "authors": "Svatek, S. A., Kerfoot, J., Summerfield, A., Nizovtsev, A. S., Korolkov, V. V., Taniguchi, T., Watanabe, K., Antolín, E., Besley, E., & Beton, P. H",
+    "journal": "(2020). Nano Letters, 20(1), 278–283. https://doi.org/10.1021/ACS.NANOLETT.9B03787",
     "link": "https://doi.org/10.1021/ACS.NANOLETT.9B03787"
   },
   {
     "year": 2020,
-    "title": "Tuning Interfacial Spins in Antiferromagnetic-Ferromagnetic-Heavy-Metal Heterostructures via Spin-Orbit Torque. Liu, X. H., Edmonds, K. W., Zhou, Z. P., & Wang, K. Y. (2020). Physical Review Applied, 13(1), 014059–014059. https://doi.org/10.1103/PHYSREVAPPLIED.13.014059",
-    "authors": "",
-    "journal": "Chemical Physics Letters, 747, 137309–137309",
+    "title": "Tuning Interfacial Spins in Antiferromagnetic-Ferromagnetic-Heavy-Metal Heterostructures via Spin-Orbit Torque",
+    "authors": "Liu, X. H., Edmonds, K. W., Zhou, Z. P., & Wang, K. Y",
+    "journal": "(2020). Physical Review Applied, 13(1), 014059–014059. https://doi.org/10.1103/PHYSREVAPPLIED.13.014059",
+    "link": "https://doi.org/10.1103/PHYSREVAPPLIED.13.014059"
+  },
+  {
+    "year": 2020,
+    "title": "Ultra-fast charge transfer between fullerenes and a gold surface, as prepared by electrospray deposition",
+    "authors": "Temperton, R. H., Skowron, S. T., Gibson, A., Handrup, K., & O’Shea, J. N",
+    "journal": "(2020). Chemical Physics Letters, 747, 137309–137309. https://doi.org/10.1016/J.CPLETT.2020.137309",
     "link": "https://doi.org/10.1016/J.CPLETT.2020.137309"
+  },
+  {
+    "year": 2020,
+    "title": "Using polycyclic aromatic hydrocarbons for graphene growth on Cu(111) under ultra-high vacuum",
+    "authors": "Klein, B. P., Stoodley, M. A., Edmondson, M., Rochford, L. A., Walker, M., Sattler, L., Weber, S. M., Hilt, G., Williams, L. B. S., Lee, T. L., Saywell, A., Maurer, R. J., & Duncan, D. A. (2022)",
+    "journal": "Applied Physics Letters, 121(19), 191603–191603. https://doi.org/10.1063/5.0122914/2834463",
+    "link": "https://doi.org/10.1063/5.0122914/2834463"
   }
 ]

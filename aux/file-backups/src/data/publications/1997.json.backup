@@ -1,0 +1,37 @@
+[
+  {
+    "year": 1997,
+    "title": "Absence of long-range ordered reconstruction on the GaAs(311)A surface",
+    "authors": "P. Moriarty, Y.-R. Ma, A. W. Dunn, P. H. Beton, M. Henini, C. McGinley, E. McLoughlin, A. A. Cafolla, G. Hughes, S. Downes, D. Teehan, B. Murphy",
+    "journal": "Physical Review B",
+    "link": "https://doi.org/10.1103/PhysRevB.55.15397"
+  },
+  {
+    "year": 1997,
+    "title": "Double domain ordering and selective removal of<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant=\"normal\">C</mml:mi></mml:mrow><mml:mrow><mml:mn>60</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:math>on<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi mathvariant=\"normal\">A</mml:mi><mml:mi mathvariant=\"normal\">g</mml:mi><mml:mo>/</mml:mo><mml:mi mathvariant=\"normal\">S</mml:mi><mml:mi mathvariant=\"normal\">i</mml:mi><mml:mn/><mml:mo>(</mml:mo><mml:mn>111</mml:mn><mml:mo>)</mml:mo><mml:mo>−</mml:mo><mml:mo>(</mml:mo><mml:msqrt><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msqrt><mml:mo>×</mml:mo><mml:msqrt><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msqrt><mml:mo>)</mml:mo><mml:mi>R</mml:mi><mml:mn>30</mml:mn><mml:mn/><mml:mi>°</mml:mi></mml:math>",
+    "authors": "M. D. Upward, P. Moriarty, P. H. Beton",
+    "journal": "Physical Review B",
+    "link": "https://doi.org/10.1103/PhysRevB.56.R1704"
+  },
+  {
+    "year": 1997,
+    "title": "MBE growth and magnetotunnelling transport properties of a single GaAs/AlAs/GaAs barrier incorporating InAs quantum dots",
+    "authors": "M. Henini, I.E. Itskevich, T. Ihn, P. Moriarty, A. Nogaret, P.H. Beton, L. Eaves, P.C. Main, J.R. Middleton, J.S. Chauhan",
+    "journal": "Journal of Crystal Growth",
+    "link": "https://doi.org/10.1016/S0022-0248(96)01035-4"
+  },
+  {
+    "year": 1997,
+    "title": "Molecular scale alignment strategies: An investigation of Ag adsorption on patterned fullerene layers",
+    "authors": "A. W. Dunn, B. N. Cotier, A. Nogaret, P. Moriarty, P. H. Beton, S. P. Beaumont",
+    "journal": "Applied Physics Letters",
+    "link": "https://doi.org/10.1063/1.120221"
+  },
+  {
+    "year": 1997,
+    "title": "Nanometer scale patterning of C60 multilayers using molecular manipulation. Dunn, A. W., Moriarty, P., Beton, P. H., & Phys Lett, A. (1997). Journal of Vacuum Science & Technology A, 15(3), 1478–1481. https://doi.org/10.1116/1.580565",
+    "authors": "Resonant magnetotunneling through individual self-assembled InAs quantum dots. Thornton, A., Itskevich, I. E., Ihn, T., Henini, M., Moriarty, P., Nogaret, A., Beton, P. H., Eaves, L., Main, P. C., Middleton, J. R.,",
+    "journal": "Superlattices and Microstructures, 21(2), 255–258",
+    "link": "https://doi.org/10.1006/SPMI.1996.0192"
+  }
+]

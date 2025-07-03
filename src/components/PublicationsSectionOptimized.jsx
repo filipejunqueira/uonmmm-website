@@ -30,7 +30,7 @@ const PublicationsSectionOptimized = () => {
   }, []);
   
   const loadInitialYears = async () => {
-    const recentYears = publicationsIndex.recentYears || publicationsIndex.years.slice(0, 3);
+    const recentYears = publicationsIndex.years.slice(0, 3).map(item => item.year);
     await Promise.all(recentYears.map(year => loadYear(year)));
   };
   
@@ -118,9 +118,10 @@ const PublicationsSectionOptimized = () => {
     const indexes = {};
     const sortedLoadedYears = Object.keys(loadedYears).sort((a, b) => b - a);
     
-    publicationsIndex.years.forEach(year => {
+    publicationsIndex.years.forEach(yearObj => {
+      const year = yearObj.year;
       indexes[year] = items.length;
-      items.push({ type: "header", year, count: publicationsIndex.counts[year] });
+      items.push({ type: "header", year, count: yearObj.count });
       
       if (loadedYears[year]) {
         // Year is loaded, show publications
@@ -129,7 +130,7 @@ const PublicationsSectionOptimized = () => {
         });
       } else {
         // Year not loaded, show load button
-        items.push({ type: "loadButton", year, count: publicationsIndex.counts[year] });
+        items.push({ type: "loadButton", year, count: yearObj.count });
       }
     });
     
@@ -237,17 +238,17 @@ const PublicationsSectionOptimized = () => {
           <div className="sticky top-20 bg-ivory/90 dark:bg-slate-900/90 backdrop-blur-md py-4 z-30 text-center mb-8 rounded-lg shadow-sm">
             <div className="flex flex-wrap justify-center gap-2 px-4">
               <span className="font-bold self-center mr-2">Jump to year:</span>
-              {publicationsIndex.years.map((year) => (
+              {publicationsIndex.years.map((yearObj) => (
                 <button
-                  key={year}
-                  onClick={() => jumpToYear(year)}
+                  key={yearObj.year}
+                  onClick={() => jumpToYear(yearObj.year)}
                   className={`px-3 py-1 text-sm font-semibold rounded-full shadow-sm transition-colors duration-150 ${
-                    loadedYears[year]
+                    loadedYears[yearObj.year]
                       ? 'text-white bg-blue-600 hover:bg-blue-700'
                       : 'text-slate-700 bg-white dark:bg-slate-700 dark:text-slate-200 hover:bg-slate-200 dark:hover:bg-slate-600'
                   }`}
                 >
-                  {year} ({publicationsIndex.counts[year]})
+                  {yearObj.year} ({yearObj.count})
                 </button>
               ))}
             </div>
